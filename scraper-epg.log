@@ -1,57 +1,57 @@
-Scrape started 2025-12-08T14:52:58.954959
-[2025-12-08 14:52:58] ============================================================
-[2025-12-08 14:52:58] EPG to JSON Converter (Filtered)
-[2025-12-08 14:52:58] ============================================================
-[2025-12-08 14:52:58] Loaded 10 channels from filter list
-[2025-12-08 14:52:58] Filter list: animal-planet-hindi.json, big-tv.json, brave-tv.json, dabangg.json, food-food.json, good-times.json, km-news.json, national-tv-india.json, pogo-tamil.json, pogo-telugu.json
-[2025-12-08 14:52:58] Processing Indian Channels EPG...
-[2025-12-08 14:52:58] Downloading Jio TV...
-[2025-12-08 14:53:01] Found 1033 channels in Jio TV
-[2025-12-08 14:53:01] Downloading Tata Play...
-[2025-12-08 14:53:02] Found 851 channels in Tata Play
-[2025-12-08 14:53:02] ✗ No data: dabangg.json
-[2025-12-08 14:53:02] ✗ No data: big-tv.json
-[2025-12-08 14:53:02] ✓ Saved: brave-tv.json (today)
-[2025-12-08 14:53:02] ✓ Saved: pogo-telugu.json (today, tomorrow)
-[2025-12-08 14:53:02] ✓ Saved: food-food.json (today, tomorrow)
-[2025-12-08 14:53:02] ✓ Saved: national-tv-india.json (today)
-[2025-12-08 14:53:02] ✓ Saved: good-times.json (today)
-[2025-12-08 14:53:02] ✓ Saved: pogo-tamil.json (today, tomorrow)
-[2025-12-08 14:53:02] ✓ Saved: km-news.json (today)
-[2025-12-08 14:53:02] ✓ Saved: animal-planet-hindi.json (today, tomorrow)
-[2025-12-08 14:53:02] ============================================================
-[2025-12-08 14:53:02] SUMMARY:
-[2025-12-08 14:53:02]   Total channels in filter list: 10
-[2025-12-08 14:53:02]   Found for TODAY: 8/10
-[2025-12-08 14:53:02]   Found for TOMORROW: 4/10
-[2025-12-08 14:53:02] 
+Scrape started 2025-12-08T14:53:49.203362
+[2025-12-08 14:53:49] ============================================================
+[2025-12-08 14:53:49] EPG to JSON Converter (Filtered)
+[2025-12-08 14:53:49] ============================================================
+[2025-12-08 14:53:49] Loaded 10 channels from filter list
+[2025-12-08 14:53:49] Filter list: animal-planet-hindi.json, big-tv.json, brave-tv.json, dabangg.json, food-food.json, good-times.json, km-news.json, national-tv-india.json, pogo-tamil.json, pogo-telugu.json
+[2025-12-08 14:53:49] Processing Indian Channels EPG...
+[2025-12-08 14:53:49] Downloading Jio TV...
+[2025-12-08 14:53:51] Found 1033 channels in Jio TV
+[2025-12-08 14:53:51] Downloading Tata Play...
+[2025-12-08 14:53:52] Found 851 channels in Tata Play
+[2025-12-08 14:53:52] ✓ Saved: food-food.json (today, tomorrow)
+[2025-12-08 14:53:52] ✓ Saved: animal-planet-hindi.json (today, tomorrow)
+[2025-12-08 14:53:52] ✓ Saved: pogo-telugu.json (today, tomorrow)
+[2025-12-08 14:53:52] ✓ Saved: pogo-tamil.json (today, tomorrow)
+[2025-12-08 14:53:52] ✓ Saved: brave-tv.json (today)
+[2025-12-08 14:53:52] ✓ Saved: good-times.json (today)
+[2025-12-08 14:53:52] ✗ No data: dabangg.json
+[2025-12-08 14:53:52] ✓ Saved: national-tv-india.json (today)
+[2025-12-08 14:53:52] ✓ Saved: km-news.json (today)
+[2025-12-08 14:53:52] ✗ No data: big-tv.json
+[2025-12-08 14:53:52] ============================================================
+[2025-12-08 14:53:52] SUMMARY:
+[2025-12-08 14:53:52]   Total channels in filter list: 10
+[2025-12-08 14:53:52]   Found for TODAY: 8/10
+[2025-12-08 14:53:52]   Found for TOMORROW: 4/10
+[2025-12-08 14:53:52] 
 Channels found for TODAY:
-[2025-12-08 14:53:02]   ✓ animal-planet-hindi.json
-[2025-12-08 14:53:02]   ✓ brave-tv.json
-[2025-12-08 14:53:02]   ✓ food-food.json
-[2025-12-08 14:53:02]   ✓ good-times.json
-[2025-12-08 14:53:02]   ✓ km-news.json
-[2025-12-08 14:53:02]   ✓ national-tv-india.json
-[2025-12-08 14:53:02]   ✓ pogo-tamil.json
-[2025-12-08 14:53:02]   ✓ pogo-telugu.json
-[2025-12-08 14:53:02] 
+[2025-12-08 14:53:52]   ✓ animal-planet-hindi.json
+[2025-12-08 14:53:52]   ✓ brave-tv.json
+[2025-12-08 14:53:52]   ✓ food-food.json
+[2025-12-08 14:53:52]   ✓ good-times.json
+[2025-12-08 14:53:52]   ✓ km-news.json
+[2025-12-08 14:53:52]   ✓ national-tv-india.json
+[2025-12-08 14:53:52]   ✓ pogo-tamil.json
+[2025-12-08 14:53:52]   ✓ pogo-telugu.json
+[2025-12-08 14:53:52] 
 Channels found for TOMORROW:
-[2025-12-08 14:53:02]   ✓ animal-planet-hindi.json
-[2025-12-08 14:53:02]   ✓ food-food.json
-[2025-12-08 14:53:02]   ✓ pogo-tamil.json
-[2025-12-08 14:53:02]   ✓ pogo-telugu.json
-[2025-12-08 14:53:02] 
+[2025-12-08 14:53:52]   ✓ animal-planet-hindi.json
+[2025-12-08 14:53:52]   ✓ food-food.json
+[2025-12-08 14:53:52]   ✓ pogo-tamil.json
+[2025-12-08 14:53:52]   ✓ pogo-telugu.json
+[2025-12-08 14:53:52] 
 Channels NOT found for TODAY:
-[2025-12-08 14:53:02]   ✗ big-tv.json
-[2025-12-08 14:53:02]   ✗ dabangg.json
-[2025-12-08 14:53:02] 
+[2025-12-08 14:53:52]   ✗ big-tv.json
+[2025-12-08 14:53:52]   ✗ dabangg.json
+[2025-12-08 14:53:52] 
 Channels NOT found for TOMORROW:
-[2025-12-08 14:53:02]   ✗ big-tv.json
-[2025-12-08 14:53:02]   ✗ brave-tv.json
-[2025-12-08 14:53:02]   ✗ dabangg.json
-[2025-12-08 14:53:02]   ✗ good-times.json
-[2025-12-08 14:53:02]   ✗ km-news.json
-[2025-12-08 14:53:02]   ✗ national-tv-india.json
-[2025-12-08 14:53:02] ============================================================
-[2025-12-08 14:53:02] Processing complete!
-[2025-12-08 14:53:02] ============================================================
+[2025-12-08 14:53:52]   ✗ big-tv.json
+[2025-12-08 14:53:52]   ✗ brave-tv.json
+[2025-12-08 14:53:52]   ✗ dabangg.json
+[2025-12-08 14:53:52]   ✗ good-times.json
+[2025-12-08 14:53:52]   ✗ km-news.json
+[2025-12-08 14:53:52]   ✗ national-tv-india.json
+[2025-12-08 14:53:53] ============================================================
+[2025-12-08 14:53:53] Processing complete!
+[2025-12-08 14:53:53] ============================================================
