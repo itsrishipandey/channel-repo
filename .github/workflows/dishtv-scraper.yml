@@ -1,76 +1,51 @@
-name: DishTV EPG Scraper
+name: Daily TV Schedule Scrape
 
 on:
-  # Run on schedule (daily at midnight UTC)
+  workflow_dispatch:      # Allows you to click a button to run it manually
   schedule:
-    - cron: '0 0 * * *'
-  
-  # Allow manual trigger
-  workflow_dispatch:
-  
-  # Optionally run on push to main (remove if not needed)
-  push:
-    branches:
-      - main
-    paths:
-      - 'dishtv_multi_scrape.py'
-      - 'channel.txt'
+    - cron: '0 2 * * *'   # Runs automatically every day at 2:00 AM UTC (7:30 AM IST)
 
+# Grants permission to read/write files to the repository
 permissions:
-  contents: write  # Required to commit and push changes
+  contents: write
 
 jobs:
-  scrape-epg:
+  scrape-and-save:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      
+      # 1. Checkout the repository content
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # 2. Setup Python environment
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      
-      - name: Install dependencies
+          python-version: '3.9'
+
+      # 3. Install dependencies (Your script only needs requests)
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-      
-      - name: Run DishTV scraper
+
+      # 4. Run your Python Script
+      - name: Run Scraper
         run: |
           python dishtv_multi_scrape.py
-      
-      - name: List generated files (debug)
+
+      # 5. Commit and Push changes (JSONs and Logs)
+      - name: Commit and Push Results
         run: |
-          echo "=== Contents of today/ ==="
-          ls -la today/ || echo "today/ directory not found"
-          echo "=== Contents of tomorrow/ ==="
-          ls -la tomorrow/ || echo "tomorrow/ directory not found"
-          echo "=== Log file ==="
-          ls -la scrape_log.log || echo "No log file found"
-      
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           
-          # Add all files including new directories
-          git add -A dishtv_today/ dishtv_tomorrow/ scrape_log.log
+          # Add the JSON folders and any new log files
+          git add today/ tomorrow/ *.log
           
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update EPG data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-            git push
-            echo "Changes pushed successfully"
-          fi
-      
-      - name: Upload logs as artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scrape-logs-${{ github.run_number }}
-          path: scrape_log.log
-          retention-days: 7
+          # Commit only if there are changes. 
+          # "|| exit 0" prevents the workflow from failing if there are no changes.
+          git commit -m "Update schedule and logs: $(date)" || exit 0
+          
+          git push
