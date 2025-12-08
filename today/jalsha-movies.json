@@ -3,12 +3,6 @@
   "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Shaitan",
-      "start_time": "12:00 AM",
-      "end_time": "01:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25518163_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Jaanbaaz",
       "start_time": "01:10 AM",
       "end_time": "03:25 AM",
@@ -65,7 +59,7 @@
     {
       "show_name": "Sentimentaal",
       "start_time": "10:15 PM",
-      "end_time": "12:00 AM",
+      "end_time": "12:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28815742_b_h9_aa.jpg?lock=880x660"
     }
   ]

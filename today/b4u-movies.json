@@ -5,14 +5,20 @@
     {
       "show_name": "Jaane Jigar",
       "start_time": "01:00 AM",
-      "end_time": "03:00 AM",
+      "end_time": "01:01 AM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Movie",
-      "start_time": "03:00 AM",
+      "show_name": "Jaane Jigar",
+      "start_time": "01:01 AM",
+      "end_time": "04:10 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Krishna Arjun",
+      "start_time": "04:10 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p137649_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

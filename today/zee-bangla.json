@@ -4,13 +4,13 @@
   "schedule": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
-      "start_time": "12:10 AM",
-      "end_time": "12:40 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30374836_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tui Amar Hero",
-      "start_time": "12:40 AM",
+      "start_time": "12:30 AM",
       "end_time": "01:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29705852_b_h9_aa.jpg?lock=880x660"
     },
