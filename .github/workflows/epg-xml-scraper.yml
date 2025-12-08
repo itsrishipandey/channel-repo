@@ -37,20 +37,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
+      - name: Clean old files
+        run: |
+          echo "Cleaning old JSON files..."
+          rm -rf today/*.json tomorrow/*.json 2>/dev/null || true
+          echo "Cleanup complete"
+      
       - name: Run EPG XML scraper
         run: |
-          python epg_xml_scraper.py
+          python epg_xml_scraper.py 2>&1 | tee script_output.log
       
       - name: List generated files (debug)
         run: |
+          echo "=== Script output check ==="
+          if [ -f scraper-epg.log ]; then
+            echo "✓ Log file exists"
+            wc -l scraper-epg.log
+          else
+            echo "✗ Log file NOT created"
+          fi
+          echo ""
           echo "=== Contents of today/ ==="
           ls -la today/ || echo "today/ directory not found"
           echo ""
           echo "=== Contents of tomorrow/ ==="
           ls -la tomorrow/ || echo "tomorrow/ directory not found"
-          echo ""
-          echo "=== Log file ==="
-          ls -la scraper-epg.log || echo "No log file found"
           echo ""
           echo "=== File count ==="
           echo "Today: $(find today/ -name '*.json' 2>/dev/null | wc -l) files"
@@ -61,8 +72,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Add all files including new directories
-          git add -A today/ tomorrow/ scraper-epg.log
+          # Add JSON files
+          git add -A today/ tomorrow/
+          
+          # Add log file only if it exists
+          if [ -f scraper-epg.log ]; then
+            git add scraper-epg.log
+          fi
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
