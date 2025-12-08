@@ -3,51 +3,62 @@ name: Run DishTV Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 19 * * *"   # adjust if needed (example = 1 AM IST)
+    # Runs every day at 1:00 AM IST (19:30 UTC)
+    - cron: "30 19 * * *"
 
 permissions:
-  contents: write   # IMPORTANT: allows workflow to write/commit files
+  contents: write   # REQUIRED: allows pushing files back to repo
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true   # required for committing changes
+          persist-credentials: true   # allows git push
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Install requirements
+      - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            pip install requests pytz
+            pip install requests pytz pillow
           fi
 
-      - name: Run scraper script
+      - name: Run EPG scraper
         run: |
+          echo "Starting DishTV scraper..."
           python dishtv_multi_scrape.py
+          echo "Scraper finished."
 
-      - name: Commit scraped JSON & images
+      # OPTIONAL: Run your image-downloader script too
+      # - name: Run image downloader
+      #   run: python download_images.py
+
+      - name: Commit updated JSON & images
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
-          
+
           git add today/*.json || true
           git add tomorrow/*.json || true
-          git add images/* || true
           git add scrape_log.log || true
+
+          # Add images only if you use image downloader
+          if [ -d "images" ]; then
+            git add images/* || true
+          fi
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update scraped schedule ($(date))"
+            git commit -m "Auto-update DishTV EPG ($(date '+%Y-%m-%d %H:%M:%S'))"
             git push
           fi
