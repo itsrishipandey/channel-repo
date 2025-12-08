@@ -41,19 +41,31 @@ jobs:
         run: |
           python dishtv_multi_scrape.py
       
-      - name: Check for changes
-        id: git-check
+      - name: List generated files (debug)
         run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+          echo "=== Contents of today/ ==="
+          ls -la today/ || echo "today/ directory not found"
+          echo "=== Contents of tomorrow/ ==="
+          ls -la tomorrow/ || echo "tomorrow/ directory not found"
+          echo "=== Log files ==="
+          ls -la scrape_log_*.log || echo "No log files found"
       
       - name: Commit and push changes
-        if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add today/ tomorrow/ scrape_log_*.log
-          git commit -m "Update EPG data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-          git push
+          
+          # Add all files including new directories
+          git add -A today/ tomorrow/ scrape_log_*.log
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update EPG data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "Changes pushed successfully"
+          fi
       
       - name: Upload logs as artifact
         if: always()
