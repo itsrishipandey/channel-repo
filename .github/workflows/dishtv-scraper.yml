@@ -1,0 +1,64 @@
+name: DishTV EPG Scraper
+
+on:
+  # Run on schedule (daily at midnight UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Optionally run on push to main (remove if not needed)
+  push:
+    branches:
+      - main
+    paths:
+      - 'dishtv_multi_scrape.py'
+      - 'channel.txt'
+
+permissions:
+  contents: write  # Required to commit and push changes
+
+jobs:
+  scrape-epg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Run DishTV scraper
+        run: |
+          python dishtv_multi_scrape.py
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add today/ tomorrow/ scrape_log_*.log
+          git commit -m "Update EPG data - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+      
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-logs-${{ github.run_number }}
+          path: scrape_log_*.log
+          retention-days: 7
