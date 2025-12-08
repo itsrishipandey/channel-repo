@@ -57,9 +57,7 @@ progress = {
 }
 
 # Log file
-LOG_TS = datetime.now().strftime("%Y%m%d_%H%M%S")
-LOG_FILE = f"scrape_log_{LOG_TS}.log"
-
+LOG_FILE = "scrape_log.log"
 
 def write_log(line: str):
     """Append a line to the log file (thread-safe)."""
