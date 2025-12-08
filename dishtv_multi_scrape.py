@@ -42,7 +42,7 @@ CHANNELS_FILE = "channel.txt"   # file containing channel ids (one per line)
 OUT_DIR_TODAY = "today"
 OUT_DIR_TOMORROW = "tomorrow"
 
-MAX_WORKERS = 20       # number of parallel threads
+MAX_WORKERS = 10       # number of parallel threads
 MAX_RETRIES = 3        # number of attempts per API call
 RETRY_BACKOFF = 1.2    # base backoff multiplier (seconds) for exponential backoff
 
