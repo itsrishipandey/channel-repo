@@ -1,0 +1,53 @@
+name: Run DishTV Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 19 * * *"   # adjust if needed (example = 1 AM IST)
+
+permissions:
+  contents: write   # IMPORTANT: allows workflow to write/commit files
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true   # required for committing changes
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests pytz
+          fi
+
+      - name: Run scraper script
+        run: |
+          python dishtv_multi_scrape.py
+
+      - name: Commit scraped JSON & images
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          
+          git add today/*.json || true
+          git add tomorrow/*.json || true
+          git add images/* || true
+          git add scrape_log.log || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update scraped schedule ($(date))"
+            git push
+          fi
