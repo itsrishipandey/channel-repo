@@ -7,6 +7,9 @@ import os
 import re
 from io import BytesIO
 
+# Log file
+LOG_FILE = "scraper-epg.log"
+
 def sanitize_filename(filename):
     """Sanitize filename for Windows/Linux compatibility"""
     filename = re.sub(r'[<>:"/\\|?*]', '-', filename)
