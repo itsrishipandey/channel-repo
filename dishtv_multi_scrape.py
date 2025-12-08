@@ -80,8 +80,21 @@ def simple_progress_bar():
 
 
 def ensure_dirs():
-    os.makedirs(OUT_DIR_TODAY, exist_ok=True)
-    os.makedirs(OUT_DIR_TOMORROW, exist_ok=True)
+    """Create directories and clean old files"""
+    # Remove old files if directories exist
+    if os.path.exists(OUT_DIR_TODAY):
+        for f in os.listdir(OUT_DIR_TODAY):
+            if f.endswith('.json'):
+                os.remove(os.path.join(OUT_DIR_TODAY, f))
+    else:
+        os.makedirs(OUT_DIR_TODAY)
+    
+    if os.path.exists(OUT_DIR_TOMORROW):
+        for f in os.listdir(OUT_DIR_TOMORROW):
+            if f.endswith('.json'):
+                os.remove(os.path.join(OUT_DIR_TOMORROW, f))
+    else:
+        os.makedirs(OUT_DIR_TOMORROW)
 
 
 def parse_channel_file(filename: str):
