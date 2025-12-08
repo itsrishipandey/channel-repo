@@ -1,6 +1,6 @@
 {
   "channel_name": "Pogo",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "Smaashhing Simmba",
@@ -177,22 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ls Aur Pralay Ki Pukar",
+      "show_name": "Little Singham Desh Ka Sipaahi",
       "start_time": "01:30 PM",
-      "end_time": "02:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29449403_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ls Aur Pralay Ki Pukar",
-      "start_time": "02:15 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29449403_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ls Aur Pralay Ki Pukar",
-      "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29449403_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22102911_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Grizzy and the Lemmings",
@@ -231,46 +219,34 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
     },
     {
-      "show_name": "Mighty Little Bheem",
+      "show_name": "Chhota Bheem",
       "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Mighty Little Bheem",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Mighty Little Bheem",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Mighty Little Bheem",
-      "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28954763_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Little Singham :De Dhana Dhan Cricket World Cup",
+      "show_name": "Lamput",
       "start_time": "08:30 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28622024_b_h9_aa.jpg?lock=880x660"
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14589825_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "LS Black Shadow Mission Intl",
+      "show_name": "Lamput",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14589825_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Lamput",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22091383_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14589825_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Ls: Mission International: New Frontiers",
+      "show_name": "Lamput",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28593849_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14589825_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chhota Bheem",

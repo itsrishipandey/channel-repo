@@ -1,34 +1,22 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Horror Shark",
-      "start_time": "12:35 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22621131_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chef vs Fridge",
-      "start_time": "02:00 AM",
-      "end_time": "02:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chef vs Fridge",
-      "start_time": "02:50 AM",
-      "end_time": "04:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Dance With Me",
-      "start_time": "04:20 AM",
-      "end_time": "05:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19074508_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "12:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "05:50 AM",
+      "start_time": "03:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
       "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
