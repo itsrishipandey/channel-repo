@@ -37,12 +37,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
-      - name: Clean old files
-        run: |
-          echo "Cleaning old JSON files..."
-          rm -rf today/*.json tomorrow/*.json 2>/dev/null || true
-          echo "Cleanup complete"
-      
       - name: Run DishTV scraper
         run: |
           python dishtv_multi_scrape.py
@@ -62,7 +56,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Add all files including new directories
-          git add -A today/ tomorrow/ scrape_log.log
+          git add -A dishtv_today/ dishtv_tomorrow/ scrape_log.log
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
