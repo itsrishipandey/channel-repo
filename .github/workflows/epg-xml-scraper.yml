@@ -49,6 +49,9 @@ jobs:
           echo "=== Contents of tomorrow/ ==="
           ls -la tomorrow/ || echo "tomorrow/ directory not found"
           echo ""
+          echo "=== Log file ==="
+          ls -la scraper-epg.log || echo "No log file found"
+          echo ""
           echo "=== File count ==="
           echo "Today: $(find today/ -name '*.json' 2>/dev/null | wc -l) files"
           echo "Tomorrow: $(find tomorrow/ -name '*.json' 2>/dev/null | wc -l) files"
@@ -59,7 +62,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Add all files including new directories
-          git add -A today/ tomorrow/
+          git add -A today/ tomorrow/ scraper-epg.log
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -69,3 +72,11 @@ jobs:
             git push
             echo "Changes pushed successfully"
           fi
+      
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-xml-logs-${{ github.run_number }}
+          path: scraper-epg.log
+          retention-days: 7
