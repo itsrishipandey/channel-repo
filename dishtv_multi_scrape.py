@@ -36,7 +36,7 @@ CHANNELS_FILE = "channel.txt"
 OUT_DIR_TODAY = "today"
 OUT_DIR_TOMORROW = "tomorrow"
 
-MAX_WORKERS = 10
+MAX_WORKERS = 50
 MAX_RETRIES = 3
 RETRY_BACKOFF = 1.2
 
@@ -81,21 +81,20 @@ def simple_progress_bar():
 
 
 def ensure_dirs():
-    """Ensure directories exist (DO NOT DELETE OLD FILES)."""
+    """Ensure directories exist (do NOT delete old JSON files)."""
     os.makedirs(OUT_DIR_TODAY, exist_ok=True)
     os.makedirs(OUT_DIR_TOMORROW, exist_ok=True)
 
 
 def parse_channel_file(filename: str):
-    """
-    Read channel file and return tuples: (channelid, channel_name_or_empty)
-    """
+    """Read channel file and return tuples: (channelid, channel_name_or_empty)."""
     channels = []
     with open(filename, "r", encoding="utf-8") as f:
         for raw in f:
             line = raw.strip()
             if not line or line.startswith("#"):
                 continue
+
             if "=" in line:
                 left, right = line.split("=", 1)
                 channelid = left.strip()
@@ -103,6 +102,7 @@ def parse_channel_file(filename: str):
             else:
                 channelid = line.strip()
                 name = ""
+
             channels.append((channelid, name))
     return channels
 
@@ -132,18 +132,20 @@ def time_12h_no_tz(iso_str):
     return dt.strftime("%I:%M %p")
 
 
-def make_slug_from_txt_name(name: str):
-    """Generate a stable slug from the channel name."""
-    if not name:
-        return "channel.json"
-    slug = name.lower().strip().replace(" ", "-")
-    slug = "".join(c for c in slug if c.isalnum() or c in "-")
-    return slug + ".json"
+def make_slug(name: str, channelid: str):
+    """Stable slug from channel name; fallback to <channelid>.json."""
+    if name and name.strip():
+        slug = name.lower().strip().replace(" ", "-")
+        slug = "".join(c for c in slug if c.isalnum() or c == "-")
+        return slug + ".json"
+    else:
+        return f"{channelid}.json"
 
 
 def format_output_from_epg(epg_data):
     """Formats final JSON output."""
     programs = epg_data if isinstance(epg_data, list) else epg_data.get("programs", [])
+
     channel_name = programs[0].get("channelname", "Unknown Channel") if programs else "Unknown Channel"
 
     if programs:
@@ -168,12 +170,14 @@ def format_output_from_epg(epg_data):
     }
 
 
-def save_json_out(data: dict, out_dir: str, txt_channel_name: str):
-    """Overwrite JSON file for the channel slug (Option B)."""
-    filename = make_slug_from_txt_name(txt_channel_name)
+def save_json_out(data: dict, out_dir: str, channelid: str, txt_channel_name: str):
+    """Save JSON using stable slug and overwrite if file exists."""
+    filename = make_slug(txt_channel_name, channelid)
     path = os.path.join(out_dir, filename)
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
     return path
 
 
@@ -192,8 +196,7 @@ def attempt_fetch_channel(channel_tuple, date_ddmmyyyy, out_dir):
             epg = fetch_epg_for_date(session, channelid, date_ddmmyyyy)
             formatted = format_output_from_epg(epg)
 
-            # Save using slug (overwrites old JSON)
-            saved_path = save_json_out(formatted, out_dir, txt_name)
+            saved_path = save_json_out(formatted, out_dir, channelid, txt_name)
 
             return True, saved_path
 
@@ -226,7 +229,7 @@ def main():
 
     # Overwrite log file each run
     ist_now = datetime.now(IST)
-    with open(LOG_FILE, "w") as lf:
+    with open(LOG_FILE, "w", encoding="utf-8") as lf:
         lf.write(f"Scrape started {ist_now.isoformat()}\n")
 
     if not os.path.exists(CHANNELS_FILE):
@@ -235,7 +238,6 @@ def main():
 
     channels = parse_channel_file(CHANNELS_FILE)
 
-    # Get today and tomorrow in IST
     today_ist = ist_now.strftime("%d/%m/%Y")
     tomorrow_ist = (ist_now + timedelta(days=1)).strftime("%d/%m/%Y")
 
