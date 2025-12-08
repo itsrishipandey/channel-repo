@@ -1,0 +1,18 @@
+{
+  "channel_name": "GOOD TiMES",
+  "date": "December 08, 2025",
+  "schedule": [
+    {
+      "show_name": "Break Free Midnight Escape",
+      "start_time": "12:00 AM",
+      "end_time": "2:00 AM",
+      "show_logo": ""
+    },
+    {
+      "show_name": "Kingfisher Supermodels 2",
+      "start_time": "2:00 AM",
+      "end_time": "3:00 AM",
+      "show_logo": ""
+    }
+  ]
+}
