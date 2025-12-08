@@ -18,6 +18,7 @@ import time
 import threading
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import pytz
 
 # ---------- CONFIG ----------
 SIGNIN_URL = "https://www.dishtv.in/services/epg/signin"
@@ -35,9 +36,12 @@ CHANNELS_FILE = "channel.txt"
 OUT_DIR_TODAY = "today"
 OUT_DIR_TOMORROW = "tomorrow"
 
-MAX_WORKERS = 30
+MAX_WORKERS = 10
 MAX_RETRIES = 3
 RETRY_BACKOFF = 1.2
+
+# Indian timezone
+IST = pytz.timezone('Asia/Kolkata')
 
 # ---------- END CONFIG ----------
 
@@ -52,7 +56,8 @@ LOG_FILE = "scrape_log.log"
 
 def write_log(line: str):
     """Append a line to the log file (thread-safe)."""
-    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ist_now = datetime.now(IST)
+    ts = ist_now.strftime("%Y-%m-%d %H:%M:%S IST")
     entry = f"[{ts}] {line}\n"
     with lock:
         with open(LOG_FILE, "a", encoding="utf-8") as lf:
@@ -216,8 +221,9 @@ def main():
     ensure_dirs()
 
     # Overwrite log file each run
+    ist_now = datetime.now(IST)
     with open(LOG_FILE, "w") as lf:
-        lf.write(f"Scrape started {datetime.now().isoformat()}\n")
+        lf.write(f"Scrape started {ist_now.isoformat()}\n")
 
     if not os.path.exists(CHANNELS_FILE):
         print("channel.txt not found")
@@ -225,22 +231,25 @@ def main():
 
     channels = parse_channel_file(CHANNELS_FILE)
 
-    today_ddmmyyyy = datetime.now().strftime("%d/%m/%Y")
-    tomorrow_ddmmyyyy = (datetime.now() + timedelta(days=1)).strftime("%d/%m/%Y")
+    # Get today and tomorrow in IST
+    today_ist = ist_now.strftime("%d/%m/%Y")
+    tomorrow_ist = (ist_now + timedelta(days=1)).strftime("%d/%m/%Y")
 
     progress["total"] = len(channels) * 2
     progress["done"] = 0
 
+    print(f"[+] IST Time: {ist_now.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"[+] Today: {today_ist}, Tomorrow: {tomorrow_ist}")
     print(f"[+] Scraping {len(channels)} channels (today + tomorrow) in parallel...")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = []
 
         for ch in channels:
-            futures.append(executor.submit(worker_task, ch, today_ddmmyyyy, OUT_DIR_TODAY))
+            futures.append(executor.submit(worker_task, ch, today_ist, OUT_DIR_TODAY))
 
         for ch in channels:
-            futures.append(executor.submit(worker_task, ch, tomorrow_ddmmyyyy, OUT_DIR_TOMORROW))
+            futures.append(executor.submit(worker_task, ch, tomorrow_ist, OUT_DIR_TOMORROW))
 
         for f in as_completed(futures):
             pass
