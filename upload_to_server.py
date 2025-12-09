@@ -42,9 +42,6 @@ SSH_PORT = int(os.getenv('SSH_PORT', '22'))
 SSH_USER = os.getenv('SSH_USER')
 SSH_PASSWORD = os.getenv('SSH_PASSWORD')
 
-# WP-CLI command (runs after upload)
-WP_CLI_CMD = "cd /usr/local/lsws/intvschedule.com/html; /usr/local/bin/wp schedule import --allow-root"
-
 # -----------------------------
 # LOGGING FUNCTION
 # -----------------------------
@@ -197,21 +194,23 @@ def upload_and_process():
         log("\nSTEP 4: Uploading and extracting JSON files...")
         
         # Determine odd/even mapping
+        # If today is EVEN → today folder goes to EVEN directory, tomorrow to ODD
+        # If today is ODD → today folder goes to ODD directory, tomorrow to EVEN
         today_day = datetime.now().day
-        is_today_odd = (today_day % 2 == 1)
+        is_today_even = (today_day % 2 == 0)
         
-        if is_today_odd:
-            mapping = {
-                "today": (ZIP_TODAY_PATH, REMOTE_JSON_ODD_DIR, "today-jsons.zip"),
-                "tomorrow": (ZIP_TOMORROW_PATH, REMOTE_JSON_EVEN_DIR, "tomorrow-jsons.zip")
-            }
-            log(f"Today ({today_day}) is ODD → today=odd, tomorrow=even")
-        else:
+        if is_today_even:
             mapping = {
                 "today": (ZIP_TODAY_PATH, REMOTE_JSON_EVEN_DIR, "today-jsons.zip"),
                 "tomorrow": (ZIP_TOMORROW_PATH, REMOTE_JSON_ODD_DIR, "tomorrow-jsons.zip")
             }
-            log(f"Today ({today_day}) is EVEN → today=even, tomorrow=odd")
+            log(f"Today ({today_day}) is EVEN → today/ → even/, tomorrow/ → odd/")
+        else:
+            mapping = {
+                "today": (ZIP_TODAY_PATH, REMOTE_JSON_ODD_DIR, "today-jsons.zip"),
+                "tomorrow": (ZIP_TOMORROW_PATH, REMOTE_JSON_EVEN_DIR, "tomorrow-jsons.zip")
+            }
+            log(f"Today ({today_day}) is ODD → today/ → odd/, tomorrow/ → even/")
         
         # Upload and extract each JSON folder
         for period, (local_zip, remote_dir, remote_zip_name) in mapping.items():
@@ -251,22 +250,7 @@ def upload_and_process():
             stdout.read(); stderr.read()
             log(f"Deleted remote {period} JSON ZIP")
         
-        # Step 5: Run WP-CLI import command
-        log("\nSTEP 5: Running WP-CLI import command...")
-        log(f"Command: {WP_CLI_CMD}")
-        
-        stdin, stdout, stderr = ssh.exec_command(WP_CLI_CMD)
-        out = stdout.read().decode()
-        err = stderr.read().decode()
-        
-        if out.strip():
-            log("WP-CLI Output:")
-            log(out.strip())
-        if err.strip():
-            log("WP-CLI Errors/Warnings:")
-            log(err.strip())
-        
-        log("WP-CLI command completed")
+        log("\nAll files uploaded and extracted successfully")
         
     except Exception as e:
         log(f"ERROR during upload/process: {e}")
@@ -279,7 +263,7 @@ def upload_and_process():
         log("\nConnections closed")
     
     # Step 6: Cleanup local ZIP files
-    log("\nSTEP 6: Cleaning up local ZIP files...")
+    log("\nSTEP 5: Cleaning up local ZIP files...")
     cleanup_local_zips()
     
     log("\n" + "=" * 70)
