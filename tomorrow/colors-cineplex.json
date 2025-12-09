@@ -3,12 +3,6 @@
   "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Power Unlimited",
-      "start_time": "12:00 AM",
-      "end_time": "1:10 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p13063660_v_h9_ab_e7532a44a2.webp"
-    },
-    {
       "show_name": "Amaran",
       "start_time": "1:10 AM",
       "end_time": "4:10 AM",
@@ -21,7 +15,7 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p8416745_b_h9_ae_ac8cf5ccc7.webp"
     },
     {
-      "show_name": "Gally Rowdy",
+      "show_name": "Gully Rowdy",
       "start_time": "5:30 AM",
       "end_time": "7:25 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p20647249_b_h9_ad_fb1b84dc41.webp"

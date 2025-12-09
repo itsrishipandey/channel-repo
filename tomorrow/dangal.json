@@ -3,16 +3,40 @@
   "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Movie",
+      "show_name": "Mann Sundar",
       "start_time": "12:01 AM",
-      "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "end_time": "12:23 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p27029926_b_h9_aa_7f7f57deb0.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "2:00 AM",
+      "show_name": "Mann Atisundar",
+      "start_time": "12:23 AM",
+      "end_time": "12:45 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p27029838_b_h9_aa_97a4f57687.webp"
+    },
+    {
+      "show_name": "Rangbaazi Dilon Ki",
+      "start_time": "12:45 AM",
+      "end_time": "1:07 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Do Hanso Ka Joda",
+      "start_time": "1:07 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Bade Ghar Ki Choti Bahu",
+      "start_time": "1:30 AM",
+      "end_time": "1:55 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p30485825_b_h9_aa_535a4c92b7.webp"
+    },
+    {
+      "show_name": "Rimjhim Chhoti Umar Bada Safar",
+      "start_time": "1:55 AM",
       "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dangal/tomorrow/p31427341_b_h9_aa_ca14d1ee42.webp"
     },
     {
       "show_name": "Ram Ratan Dhan Payo",

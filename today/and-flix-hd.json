@@ -3,16 +3,22 @@
   "date": "December 10, 2025",
   "schedule": [
     {
-      "show_name": "Movie",
-      "start_time": "12:00 AM",
-      "end_time": "3:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Vanguard",
+      "start_time": "1:27 AM",
+      "end_time": "3:10 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p18965213_v_h9_aj_75eb387db8.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "3:00 AM",
+      "show_name": "Dance With Me",
+      "start_time": "3:10 AM",
+      "end_time": "5:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p19074508_b_h9_aa_a9924b7fa5.webp"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "5:50 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p28254029_b_h9_aa_4b1f79367c.webp"
     },
     {
       "show_name": "Movie",
