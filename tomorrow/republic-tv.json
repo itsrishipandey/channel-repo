@@ -4,111 +4,165 @@
   "schedule": [
     {
       "show_name": "R News",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Debate Late Tonight",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Debate Late Tonight",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Debate Late Tonight",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Debate Late Tonight",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "R News",
       "start_time": "5:30 AM",
       "end_time": "6:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live This Morning",
       "start_time": "6:00 AM",
       "end_time": "6:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live This Morning",
       "start_time": "6:30 AM",
       "end_time": "7:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live This Morning",
       "start_time": "7:00 AM",
       "end_time": "7:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live This Morning",
       "start_time": "7:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live This Morning",
       "start_time": "8:00 AM",
       "end_time": "8:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "Live This Morning",
       "start_time": "8:30 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "Live And Breaking",
       "start_time": "9:00 AM",
       "end_time": "9:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "Live And Breaking",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "Live And Breaking",
       "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "R News",
-      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "R News",
+      "show_name": "Live And Breaking",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "12:30 PM",
       "end_time": "1:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "1:00 PM",
-      "end_time": "1:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live This Morning",
-      "start_time": "1:30 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Live And Breaking",
       "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Live And Breaking",
@@ -125,6 +179,12 @@
     {
       "show_name": "Live And Breaking",
       "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Live And Breaking",
+      "start_time": "4:00 PM",
       "end_time": "4:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
@@ -147,135 +207,75 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "6 Stories At 6",
       "start_time": "6:00 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "6:30 PM",
-      "end_time": "7:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "7:30 PM",
-      "end_time": "8:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "8:00 PM",
-      "end_time": "8:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "8:30 PM",
-      "end_time": "9:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "9:00 PM",
-      "end_time": "9:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "9:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live And Breaking",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "6 Stories At 6",
-      "start_time": "11:30 PM",
-      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799279_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Live And Breaking",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "This Is Exclusive",
-      "start_time": "12:30 AM",
-      "end_time": "1:00 AM",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22150944_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Trending",
-      "start_time": "1:00 AM",
-      "end_time": "1:30 AM",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799255_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate With Arnab Goswami @ 8",
-      "start_time": "1:30 AM",
-      "end_time": "2:00 AM",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27341884_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate With Arnab Goswami @ 8",
-      "start_time": "2:00 AM",
-      "end_time": "2:30 AM",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27341884_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate With Arnab Goswami @ 9",
-      "start_time": "2:30 AM",
-      "end_time": "3:00 AM",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799307_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate With Arnab Goswami @ 9",
-      "start_time": "3:00 AM",
-      "end_time": "3:30 AM",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799307_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate Late Tonight",
-      "start_time": "3:30 AM",
-      "end_time": "4:00 AM",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate Late Tonight",
-      "start_time": "4:00 AM",
-      "end_time": "4:30 AM",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate Late Tonight",
-      "start_time": "4:30 AM",
-      "end_time": "5:00 AM",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Debate Late Tonight",
-      "start_time": "5:00 AM",
-      "end_time": "5:30 AM",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29799267_b_h9_aa.jpg?lock=880x660"
     }
   ]

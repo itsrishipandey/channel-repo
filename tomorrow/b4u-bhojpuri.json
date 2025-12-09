@@ -4,56 +4,56 @@
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "6:49 AM",
-      "end_time": "7:48 AM",
+      "start_time": "1:19 AM",
+      "end_time": "2:18 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "7:48 AM",
-      "end_time": "10:30 AM",
+      "start_time": "2:18 AM",
+      "end_time": "5:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "10:30 AM",
-      "end_time": "11:30 AM",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:30 AM",
-      "end_time": "2:30 PM",
+      "start_time": "6:00 AM",
+      "end_time": "9:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "2:30 PM",
-      "end_time": "5:30 PM",
+      "start_time": "9:00 AM",
+      "end_time": "12:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "5:30 PM",
-      "end_time": "8:30 PM",
+      "start_time": "12:00 PM",
+      "end_time": "3:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "8:30 PM",
-      "end_time": "11:30 PM",
+      "start_time": "3:00 PM",
+      "end_time": "6:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:30 PM",
-      "end_time": "2:30 AM",
+      "start_time": "6:00 PM",
+      "end_time": "9:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "2:30 AM",
-      "end_time": "7:30 AM",
+      "start_time": "9:00 PM",
+      "end_time": "2:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]

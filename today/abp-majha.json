@@ -4,326 +4,326 @@
   "schedule": [
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "5:30 AM",
-      "end_time": "6:00 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "6:00 AM",
-      "end_time": "6:30 AM",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "6:30 AM",
-      "end_time": "7:30 AM",
+      "start_time": "1:00 AM",
+      "end_time": "2:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "7:30 AM",
-      "end_time": "8:30 AM",
+      "start_time": "2:00 AM",
+      "end_time": "3:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "8:30 AM",
-      "end_time": "9:30 AM",
+      "start_time": "3:00 AM",
+      "end_time": "4:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "9:30 AM",
-      "end_time": "10:30 AM",
+      "start_time": "4:00 AM",
+      "end_time": "5:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divasbharatlya Baatmya",
-      "start_time": "10:30 AM",
-      "end_time": "11:15 AM",
+      "start_time": "5:00 AM",
+      "end_time": "5:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Divyang Bulletin",
-      "start_time": "11:15 AM",
-      "end_time": "11:30 AM",
+      "start_time": "5:45 AM",
+      "end_time": "6:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464383_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "100 Headlines",
-      "start_time": "11:30 AM",
-      "end_time": "11:58 AM",
+      "start_time": "6:00 AM",
+      "end_time": "6:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464317_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Maharashtra Live",
-      "start_time": "11:58 AM",
-      "end_time": "12:30 PM",
+      "start_time": "6:28 AM",
+      "end_time": "7:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26951031_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Morning Prime Time",
-      "start_time": "12:30 PM",
-      "end_time": "12:58 PM",
+      "start_time": "7:00 AM",
+      "end_time": "7:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28877762_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Morning Prime Time",
-      "start_time": "12:58 PM",
-      "end_time": "1:28 PM",
+      "start_time": "7:28 AM",
+      "end_time": "7:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28877762_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "8 Chya Updates",
-      "start_time": "1:28 PM",
-      "end_time": "1:58 PM",
+      "start_time": "7:58 AM",
+      "end_time": "8:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31045630_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "8 Chya Updates",
-      "start_time": "1:58 PM",
-      "end_time": "2:28 PM",
+      "start_time": "8:28 AM",
+      "end_time": "8:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31045630_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Breakfast News",
-      "start_time": "2:28 PM",
-      "end_time": "2:58 PM",
+      "start_time": "8:58 AM",
+      "end_time": "9:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p214501_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Breakfast News",
-      "start_time": "2:58 PM",
-      "end_time": "3:28 PM",
+      "start_time": "9:28 AM",
+      "end_time": "9:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p214501_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "100 Headlines",
-      "start_time": "3:28 PM",
-      "end_time": "3:58 PM",
+      "start_time": "9:58 AM",
+      "end_time": "10:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464317_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Namaskar Maharashtra",
-      "start_time": "3:58 PM",
-      "end_time": "4:28 PM",
+      "start_time": "10:28 AM",
+      "end_time": "10:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680033_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "CITY SIXTY",
-      "start_time": "4:28 PM",
-      "end_time": "4:58 PM",
+      "start_time": "10:58 AM",
+      "end_time": "11:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27211561_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Namaskar Maharashtra",
-      "start_time": "4:58 PM",
-      "end_time": "5:28 PM",
+      "start_time": "11:28 AM",
+      "end_time": "11:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680033_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Batmyancha Ardhashatak",
-      "start_time": "5:28 PM",
-      "end_time": "5:58 PM",
+      "start_time": "11:58 AM",
+      "end_time": "12:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464521_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Duparchya Batamya",
-      "start_time": "5:58 PM",
-      "end_time": "6:28 PM",
+      "start_time": "12:28 PM",
+      "end_time": "12:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29203642_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Duparchya Batamya",
-      "start_time": "6:28 PM",
-      "end_time": "6:35 PM",
+      "start_time": "12:58 PM",
+      "end_time": "1:05 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29203642_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "6:35 PM",
-      "end_time": "6:50 PM",
+      "start_time": "1:05 PM",
+      "end_time": "1:20 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Majha Doctor",
-      "start_time": "6:50 PM",
-      "end_time": "7:15 PM",
+      "start_time": "1:20 PM",
+      "end_time": "1:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464687_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Duparchya Batamya",
-      "start_time": "7:15 PM",
-      "end_time": "7:28 PM",
+      "start_time": "1:45 PM",
+      "end_time": "1:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29203642_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Majha MID Day",
-      "start_time": "7:28 PM",
-      "end_time": "7:58 PM",
+      "start_time": "1:58 PM",
+      "end_time": "2:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464771_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Majha MID Day",
-      "start_time": "7:58 PM",
-      "end_time": "8:28 PM",
+      "start_time": "2:28 PM",
+      "end_time": "2:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464771_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "MAHARASHTRA SUPERFAST",
-      "start_time": "8:28 PM",
-      "end_time": "8:50 PM",
+      "start_time": "2:58 PM",
+      "end_time": "3:20 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27211559_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Commercial",
-      "start_time": "8:50 PM",
-      "end_time": "9:15 PM",
+      "start_time": "3:20 PM",
+      "end_time": "3:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464730_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Majha MID Day",
-      "start_time": "9:15 PM",
-      "end_time": "9:28 PM",
+      "start_time": "3:45 PM",
+      "end_time": "3:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464771_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tea Time News",
-      "start_time": "9:28 PM",
-      "end_time": "9:40 PM",
+      "start_time": "3:58 PM",
+      "end_time": "4:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27246972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "9:40 PM",
-      "end_time": "9:58 PM",
+      "start_time": "4:10 PM",
+      "end_time": "4:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Batmyancha Ardhashatak",
-      "start_time": "9:58 PM",
-      "end_time": "10:15 PM",
+      "start_time": "4:28 PM",
+      "end_time": "4:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464521_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Tea Time News",
-      "start_time": "10:15 PM",
-      "end_time": "10:28 PM",
+      "start_time": "4:45 PM",
+      "end_time": "4:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27246972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Maharashtra Live",
-      "start_time": "10:28 PM",
-      "end_time": "10:58 PM",
+      "start_time": "4:58 PM",
+      "end_time": "5:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26951031_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Maharashtra Live",
-      "start_time": "10:58 PM",
-      "end_time": "11:23 PM",
+      "start_time": "5:28 PM",
+      "end_time": "5:53 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26951031_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "11:23 PM",
-      "end_time": "11:28 PM",
+      "start_time": "5:53 PM",
+      "end_time": "5:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chaufer Maharashtra",
-      "start_time": "11:28 PM",
-      "end_time": "11:58 PM",
+      "start_time": "5:58 PM",
+      "end_time": "6:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464867_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chaufer Maharashtra",
-      "start_time": "11:58 PM",
-      "end_time": "12:23 AM",
+      "start_time": "6:28 PM",
+      "end_time": "6:53 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464867_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "12:23 AM",
-      "end_time": "12:28 AM",
+      "start_time": "6:53 PM",
+      "end_time": "6:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Maharashtra Desha",
-      "start_time": "12:28 AM",
-      "end_time": "12:58 AM",
+      "start_time": "6:58 PM",
+      "end_time": "7:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680115_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Maharashtra Desha",
-      "start_time": "12:58 AM",
-      "end_time": "1:23 AM",
+      "start_time": "7:28 PM",
+      "end_time": "7:53 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680115_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "1:23 AM",
-      "end_time": "1:28 AM",
+      "start_time": "7:53 PM",
+      "end_time": "7:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Zero Hour",
-      "start_time": "1:28 AM",
-      "end_time": "2:00 AM",
+      "start_time": "7:58 PM",
+      "end_time": "8:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464954_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Zero Hour",
-      "start_time": "2:00 AM",
-      "end_time": "2:23 AM",
+      "start_time": "8:30 PM",
+      "end_time": "8:53 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464954_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "2:23 AM",
-      "end_time": "2:28 AM",
+      "start_time": "8:53 PM",
+      "end_time": "8:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special Report",
-      "start_time": "2:28 AM",
-      "end_time": "2:58 AM",
+      "start_time": "8:58 PM",
+      "end_time": "9:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special Report",
-      "start_time": "2:58 AM",
-      "end_time": "3:28 AM",
+      "start_time": "9:28 PM",
+      "end_time": "9:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "10 Chya Batmya",
-      "start_time": "3:28 AM",
-      "end_time": "3:40 AM",
+      "start_time": "9:58 PM",
+      "end_time": "10:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680134_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
-      "start_time": "3:40 AM",
-      "end_time": "3:58 AM",
+      "start_time": "10:10 PM",
+      "end_time": "10:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "10 Chya Batmya",
-      "start_time": "3:58 AM",
-      "end_time": "4:28 AM",
+      "start_time": "10:28 PM",
+      "end_time": "10:58 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680134_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mumbai East West",
-      "start_time": "4:28 AM",
-      "end_time": "4:58 AM",
+      "start_time": "10:58 PM",
+      "end_time": "11:28 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8680140_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special Report",
-      "start_time": "4:58 AM",
-      "end_time": "5:30 AM",
+      "start_time": "11:28 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     }
   ]

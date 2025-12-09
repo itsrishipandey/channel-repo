@@ -4,92 +4,92 @@
   "schedule": [
     {
       "show_name": "Return of Wu Kong",
-      "start_time": "6:03 AM",
-      "end_time": "7:26 AM",
+      "start_time": "12:33 AM",
+      "end_time": "1:56 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19853018_v_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Matchless Mulan",
-      "start_time": "7:26 AM",
-      "end_time": "8:56 AM",
+      "start_time": "1:56 AM",
+      "end_time": "3:26 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19742000_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "8:56 AM",
-      "end_time": "10:53 AM",
+      "start_time": "3:26 AM",
+      "end_time": "5:23 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
-      "start_time": "10:53 AM",
-      "end_time": "11:38 AM",
+      "start_time": "5:23 AM",
+      "end_time": "6:08 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19074508_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:38 AM",
-      "end_time": "1:30 PM",
+      "start_time": "6:08 AM",
+      "end_time": "8:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "1:30 PM",
-      "end_time": "3:10 PM",
+      "start_time": "8:00 AM",
+      "end_time": "9:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "3:10 PM",
-      "end_time": "4:45 PM",
+      "start_time": "9:40 AM",
+      "end_time": "11:15 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "4:45 PM",
-      "end_time": "6:50 PM",
+      "start_time": "11:15 AM",
+      "end_time": "1:20 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "6:50 PM",
-      "end_time": "8:25 PM",
+      "start_time": "1:20 PM",
+      "end_time": "2:55 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "8:25 PM",
-      "end_time": "9:50 PM",
+      "start_time": "2:55 PM",
+      "end_time": "4:20 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "9:50 PM",
-      "end_time": "11:30 PM",
+      "start_time": "4:20 PM",
+      "end_time": "6:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:30 PM",
-      "end_time": "1:10 AM",
+      "start_time": "6:00 PM",
+      "end_time": "7:40 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "1:10 AM",
-      "end_time": "2:30 AM",
+      "start_time": "7:40 PM",
+      "end_time": "9:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "2:30 AM",
-      "end_time": "4:15 AM",
+      "start_time": "9:00 PM",
+      "end_time": "10:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "4:15 AM",
-      "end_time": "5:50 AM",
+      "start_time": "10:45 PM",
+      "end_time": "12:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]

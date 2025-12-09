@@ -4,45 +4,111 @@
   "schedule": [
     {
       "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "5:30 AM",
-      "end_time": "6:00 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Jai Jai Swami Samarth",
-      "start_time": "6:00 AM",
-      "end_time": "6:30 AM",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ashok Mama",
-      "start_time": "6:30 AM",
-      "end_time": "7:00 AM",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Aai Tuljabhavani",
-      "start_time": "7:00 AM",
-      "end_time": "7:30 AM",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Indrayani",
-      "start_time": "7:30 AM",
-      "end_time": "8:00 AM",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "8:00 AM",
-      "end_time": "8:30 AM",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Abeer Gulal",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27461446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Indrayani",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pinga Ga Pori Pinga",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jai Jai Swami Samarth",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ashok Mama",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aai Tuljabhavani",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Indrayani",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pinga Ga Pori Pinga",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jai Jai Swami Samarth",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ashok Mama",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aai Tuljabhavani",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "8:30 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27461446_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Indrayani",
@@ -81,10 +147,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pinga Ga Pori Pinga",
+      "show_name": "Ashok Mama",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Jai Jai Swami Samarth",
@@ -93,70 +159,70 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ashok Mama",
+      "show_name": "Aai Tuljabhavani",
       "start_time": "1:00 PM",
       "end_time": "1:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Aai Tuljabhavani",
+      "show_name": "Indrayani",
       "start_time": "1:30 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jai Jai Swami Samarth",
+      "show_name": "Raja Ranichi Ga Jodi",
       "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Indrayani",
+      "show_name": "Raja Ranichi Ga Jodi",
       "start_time": "2:30 PM",
       "end_time": "3:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "3:00 PM",
-      "end_time": "3:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
-      "start_time": "3:30 PM",
-      "end_time": "4:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ashok Mama",
-      "start_time": "4:00 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aai Tuljabhavani",
-      "start_time": "4:30 PM",
-      "end_time": "5:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Indrayani",
-      "start_time": "5:00 PM",
-      "end_time": "5:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ashok Mama",
-      "start_time": "5:30 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Jai Jai Swami Samarth",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jai Jai Swami Samarth",
+      "show_name": "Balu Mamachya Navan Changbhal",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Balu Mamachya Navan Changbhal",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Balu Mamachya Navan Changbhal",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "6:00 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Aai Tuljabhavani",
@@ -171,16 +237,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Raja Ranichi Ga Jodi",
+      "show_name": "Pinga Ga Pori Pinga",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Raja Ranichi Ga Jodi",
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "8:00 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ashok Mama",
@@ -189,105 +255,39 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Indrayani",
+      "show_name": "Aai Tuljabhavani",
       "start_time": "9:00 PM",
       "end_time": "9:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Jai Jai Swami Samarth",
+      "show_name": "Indrayani",
       "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Balu Mamachya Navan Changbhal",
+      "show_name": "Jai Jai Swami Samarth",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Balu Mamachya Navan Changbhal",
+      "show_name": "Ashok Mama",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Balu Mamachya Navan Changbhal",
+      "show_name": "Aai Tuljabhavani",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Balu Mamachya Navan Changbhal",
+      "show_name": "Indrayani",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aai Tuljabhavani",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Indrayani",
-      "start_time": "12:30 AM",
-      "end_time": "1:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Pinga Ga Pori Pinga",
-      "start_time": "1:00 AM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28615784_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
-      "start_time": "1:30 AM",
-      "end_time": "2:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ashok Mama",
-      "start_time": "2:00 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aai Tuljabhavani",
-      "start_time": "2:30 AM",
-      "end_time": "3:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Indrayani",
-      "start_time": "3:00 AM",
-      "end_time": "3:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Jai Jai Swami Samarth",
-      "start_time": "3:30 AM",
-      "end_time": "4:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19295726_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ashok Mama",
-      "start_time": "4:00 AM",
-      "end_time": "4:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aai Tuljabhavani",
-      "start_time": "4:30 AM",
-      "end_time": "5:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28426384_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Indrayani",
-      "start_time": "5:00 AM",
-      "end_time": "5:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26993470_b_h9_aa.jpg?lock=880x660"
     }
   ]

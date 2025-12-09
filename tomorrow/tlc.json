@@ -4,165 +4,9 @@
   "schedule": [
     {
       "show_name": "Say Yes to the Dress",
-      "start_time": "5:30 AM",
-      "end_time": "6:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Cake Boss",
-      "start_time": "6:30 AM",
-      "end_time": "7:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Cake Boss",
-      "start_time": "7:00 AM",
-      "end_time": "7:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Rental Redo",
-      "start_time": "7:30 AM",
-      "end_time": "8:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21299439_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Point of View: A Designer Profile",
-      "start_time": "8:00 AM",
-      "end_time": "8:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20101613_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress",
-      "start_time": "8:30 AM",
-      "end_time": "9:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "90 Day: The Single Life",
-      "start_time": "9:30 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19507036_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Virgins",
-      "start_time": "10:30 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30170388_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Paradise",
-      "start_time": "11:30 AM",
-      "end_time": "12:16 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress",
-      "start_time": "12:16 PM",
-      "end_time": "1:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22415048_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Buddy vs. Duff",
-      "start_time": "1:09 PM",
-      "end_time": "2:01 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20109546_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Restaurant: Impossible",
-      "start_time": "2:01 PM",
-      "end_time": "2:54 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20031530_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Paradise",
-      "start_time": "2:54 PM",
-      "end_time": "3:46 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Factory",
-      "start_time": "3:46 PM",
-      "end_time": "4:12 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Factory",
-      "start_time": "4:12 PM",
-      "end_time": "4:38 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Factory",
-      "start_time": "4:38 PM",
-      "end_time": "5:04 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress",
-      "start_time": "5:04 PM",
-      "end_time": "5:59 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Cake Boss",
-      "start_time": "5:59 PM",
-      "end_time": "6:26 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Cake Boss",
-      "start_time": "6:26 PM",
-      "end_time": "6:54 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Paradise",
-      "start_time": "6:54 PM",
-      "end_time": "7:49 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Paradise International",
-      "start_time": "7:49 PM",
-      "end_time": "8:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12971407_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Paradise",
-      "start_time": "8:35 PM",
-      "end_time": "9:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chopped",
-      "start_time": "9:30 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12399488_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Factory",
-      "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Food Factory",
-      "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress",
-      "start_time": "11:30 PM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Cake Boss",
-      "start_time": "12:30 AM",
+      "start_time": "12:00 AM",
       "end_time": "1:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Cake Boss",
@@ -171,33 +15,189 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rental Redo",
+      "show_name": "Cake Boss",
       "start_time": "1:30 AM",
       "end_time": "2:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rental Redo",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p21299439_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Point of View: A Designer Profile",
-      "start_time": "2:00 AM",
-      "end_time": "2:30 AM",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20101613_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "3:00 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "90 Day: The Single Life",
+      "start_time": "4:00 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19507036_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Virgins",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30170388_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise",
+      "start_time": "6:00 AM",
+      "end_time": "6:46 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "6:46 AM",
+      "end_time": "7:39 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22415048_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Buddy vs. Duff",
+      "start_time": "7:39 AM",
+      "end_time": "8:31 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20109546_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Restaurant: Impossible",
+      "start_time": "8:31 AM",
+      "end_time": "9:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20031530_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise",
+      "start_time": "9:24 AM",
+      "end_time": "10:16 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Factory",
+      "start_time": "10:16 AM",
+      "end_time": "10:42 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Factory",
+      "start_time": "10:42 AM",
+      "end_time": "11:08 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Factory",
+      "start_time": "11:08 AM",
+      "end_time": "11:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "11:34 AM",
+      "end_time": "12:29 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cake Boss",
+      "start_time": "12:29 PM",
+      "end_time": "12:56 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cake Boss",
+      "start_time": "12:56 PM",
+      "end_time": "1:24 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise",
+      "start_time": "1:24 PM",
+      "end_time": "2:19 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise International",
+      "start_time": "2:19 PM",
+      "end_time": "3:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12971407_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise",
+      "start_time": "3:05 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15507435_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chopped",
+      "start_time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12399488_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Factory",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Factory",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cake Boss",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cake Boss",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rental Redo",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21299439_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Point of View: A Designer Profile",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20101613_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Say Yes to the Dress UK",
-      "start_time": "2:30 AM",
-      "end_time": "3:00 AM",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "Say Yes to the Dress UK",
-      "start_time": "3:00 AM",
-      "end_time": "3:30 AM",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "90 Day Fiancé: The Other Way",
-      "start_time": "3:30 AM",
-      "end_time": "5:30 AM",
+      "start_time": "10:00 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23894583_b_h9_aa.jpg?lock=880x660"
     }
   ]

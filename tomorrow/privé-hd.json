@@ -4,55 +4,73 @@
   "schedule": [
     {
       "show_name": "Movie",
-      "start_time": "5:50 AM",
-      "end_time": "7:25 AM",
+      "start_time": "12:20 AM",
+      "end_time": "1:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "7:25 AM",
-      "end_time": "9:25 AM",
+      "start_time": "1:55 AM",
+      "end_time": "3:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "DWM",
-      "start_time": "9:25 AM",
-      "end_time": "10:15 AM",
+      "start_time": "3:55 AM",
+      "end_time": "4:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30911218_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DWM",
-      "start_time": "10:15 AM",
-      "end_time": "11:05 AM",
+      "start_time": "4:45 AM",
+      "end_time": "5:35 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30911218_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Cvf",
-      "start_time": "11:05 AM",
-      "end_time": "11:30 AM",
+      "start_time": "5:35 AM",
+      "end_time": "6:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30650498_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:30 AM",
-      "end_time": "1:10 PM",
+      "start_time": "6:00 AM",
+      "end_time": "7:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "1:10 PM",
-      "end_time": "2:50 PM",
+      "start_time": "7:40 AM",
+      "end_time": "9:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "2:50 PM",
-      "end_time": "4:20 PM",
+      "start_time": "9:20 AM",
+      "end_time": "10:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "4:20 PM",
+      "start_time": "10:50 AM",
+      "end_time": "12:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "12:35 PM",
+      "end_time": "2:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "2:10 PM",
+      "end_time": "4:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "4:10 PM",
       "end_time": "6:05 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
@@ -65,37 +83,19 @@
     {
       "show_name": "Movie",
       "start_time": "7:40 PM",
-      "end_time": "9:40 PM",
+      "end_time": "9:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "9:40 PM",
-      "end_time": "11:35 PM",
+      "start_time": "9:00 PM",
+      "end_time": "10:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:35 PM",
-      "end_time": "1:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "1:10 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "2:30 AM",
-      "end_time": "4:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "4:00 AM",
-      "end_time": "5:30 AM",
+      "start_time": "10:30 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]
