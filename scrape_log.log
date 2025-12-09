@@ -1,403 +1,395 @@
-[2025-12-09 23:52:37] Scrape started
-[2025-12-09 23:52:37] Timezone: IST (UTC+5:30)
-[2025-12-09 23:52:37] 
+[2025-12-10 00:01:04] Scrape started
+[2025-12-10 00:01:04] Timezone: IST (UTC+5:30)
+[2025-12-10 00:01:04] 
 === STARTING MERGED EPG SCRAPER ===
 
-[2025-12-09 23:52:37] 
+[2025-12-10 00:01:04] 
 === DISHTV SOURCE ===
-[2025-12-09 23:52:37] Loaded 77 channels from channel.txt
-[2025-12-09 23:52:37] Scraping for: 09/12/2025 and 10/12/2025
-[2025-12-09 23:52:39] ✓ DishTV | Colors Cineplex (158146) | 09/12/2025
-[2025-12-09 23:52:39] ✓ DishTV | Colors Infinity SD (157578) | 09/12/2025
-[2025-12-09 23:52:39] ✓ DishTV | Zee News (159298) | 09/12/2025
-[2025-12-09 23:52:39] ✓ DishTV | Sun TV (117852) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Dangal (142771) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Sony Max (157590) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Russia Today (142401) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | MTV (143558) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | CNBC TV18 (142743) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Colors Marathi SD (157580) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | B4U Music (158141) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | ZOOM (157600) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Mirror Now (143543) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | India Today (143197) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Zee UP UK (144480) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | ET Now (143021) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | NTV (154897) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | DD Punjabi (142800) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Surya TV (143888) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | History TV18 HD (143133) | 09/12/2025
-[2025-12-09 23:52:40] ✓ DishTV | Colors Kannada Cinema (157579) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | SONY SPORTS TEN1 (157591) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | BBC World News (158142) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | 9X Tashan (142504) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | B4U Movies (140063) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | Discovery Kids (159011) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | ALL Time MOVIES (160750) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | Argus News (142650) | 09/12/2025
-[2025-12-09 23:52:41] ✓ DishTV | Cartoon Network (157576) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Assam Talks (142683) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | B4U Bhojpuri (142694) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | 9XM (77447) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | And Flix HD (142636) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Star Kiran (143820) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Big Magic (142715) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | ABP News (158138) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | &Privé HD (142639) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Kolkata TV (143271) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Jalsha Movies (143218) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Aakash Aath (142510) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | 9X Jhakaas (90012) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Aaj Tak (142507) | 09/12/2025
-[2025-12-09 23:52:42] ✓ DishTV | Zee 24 Ghanta (144431) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | DD Bangla (142778) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | Colors Bangla (157577) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | TV9 Bangla (144026) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | Sony Aath (157968) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | TV9 Gujarati (144028) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | ABP Asmita (142519) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | Zee TV (144478) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | Zee Bangla (117853) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | ABP Ananda (142518) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | 10TV (142495) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | Star Jalsha (143818) | 09/12/2025
-[2025-12-09 23:52:43] ✓ DishTV | ABN Andhra Jyothy (142517) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Zee 24 Kalak (144432) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Sony SAB (159125) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Colors Gujarati (158148) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Star Bharat (159130) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Sony (157589) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Alankar (142630) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Colors (158144) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Aastha Gujarati (158135) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Star Plus (143831) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Aastha Bhajan (142514) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Aastha Telugu (158136) | 09/12/2025
-[2025-12-09 23:52:44] ✓ DishTV | Aastha Kannada (158134) | 09/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | ABP Majha (142521) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | ET Now (143021) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | DD India (158251) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Aastha (158133) | 09/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | MTV (143558) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Pogo (143663) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Sun TV (117852) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Surya TV (143888) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Zee News (159298) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | CNBC TV18 (142743) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Mirror Now (143543) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | India Today (143197) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | Republic TV (143723) | 10/12/2025
-[2025-12-09 23:52:45] ✓ DishTV | ZOOM (157600) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Colors Marathi SD (157580) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | History TV18 HD (143133) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Sony Max (157590) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Colors Infinity SD (157578) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Dangal (142771) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Colors Bangla Cinema (142748) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Zee UP UK (144480) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | DD Punjabi (142800) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Colors Gujarati Cinema (142751) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | ETV Plus (143030) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Colors Kannada Cinema (157579) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | WION (144087) | 10/12/2025
-[2025-12-09 23:52:46] ✓ DishTV | Russia Today (142401) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | B4U Music (158141) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | Colors Cineplex (158146) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | SONY SPORTS TEN1 (157591) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | TLC (158023) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | ALL Time MOVIES (160750) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | NTV (154897) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | BBC World News (158142) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | Assam Talks (142683) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | Argus News (142650) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | Discovery Kids (159011) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | B4U Bhojpuri (142694) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | B4U Movies (140063) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | Cartoon Network (157576) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | ABP News (158138) | 10/12/2025
-[2025-12-09 23:52:47] ✓ DishTV | 9XM (77447) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Star Kiran (143820) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | And Flix HD (142636) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | 9X Tashan (142504) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | 9X Jhakaas (90012) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | &Privé HD (142639) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Aaj Tak (142507) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Aakash Aath (142510) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Zee 24 Ghanta (144431) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Big Magic (142715) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | TV9 Bangla (144026) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | TV9 Gujarati (144028) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Sony Aath (157968) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | ABP Asmita (142519) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | DD Bangla (142778) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | ABP Ananda (142518) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Star Jalsha (143818) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Colors Bangla (157577) | 10/12/2025
-[2025-12-09 23:52:48] ✓ DishTV | Kolkata TV (143271) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Jalsha Movies (143218) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Colors Gujarati (158148) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Zee Bangla (117853) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Sony SAB (159125) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Star Bharat (159130) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Zee 24 Kalak (144432) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Sony (157589) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Colors (158144) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Alankar (142630) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Zee TV (144478) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Aastha Telugu (158136) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | 10TV (142495) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Star Plus (143831) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Aastha Kannada (158134) | 10/12/2025
-[2025-12-09 23:52:49] ✓ DishTV | Aastha Gujarati (158135) | 10/12/2025
-[2025-12-09 23:52:50] ✓ DishTV | Aastha Bhajan (142514) | 10/12/2025
-[2025-12-09 23:52:50] ✓ DishTV | ABN Andhra Jyothy (142517) | 10/12/2025
-[2025-12-09 23:52:50] ✓ DishTV | Aastha (158133) | 10/12/2025
-[2025-12-09 23:52:52] Attempt 1 failed for 142521 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 142751 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 144087 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 142748 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 143723 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 143663 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 158251 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 158023 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:52] Attempt 1 failed for 143030 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
-[2025-12-09 23:52:55] ✓ DishTV | Colors Gujarati Cinema (142751) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | ABP Majha (142521) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | WION (144087) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | Colors Bangla Cinema (142748) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | Republic TV (143723) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | Pogo (143663) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | DD India (158251) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | TLC (158023) | 09/12/2025
-[2025-12-09 23:52:55] ✓ DishTV | ETV Plus (143030) | 09/12/2025
-[2025-12-09 23:52:55] 
+[2025-12-10 00:01:04] Loaded 77 channels from channel.txt
+[2025-12-10 00:01:04] Scraping for: 09/12/2025 and 10/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | Mirror Now (143543) | 09/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | MTV (143558) | 09/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | ABP Majha (142521) | 09/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | Sun TV (117852) | 09/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | NTV (154897) | 09/12/2025
+[2025-12-10 00:01:06] ✓ DishTV | B4U Music (158141) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Colors Cineplex (158146) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Colors Gujarati Cinema (142751) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | India Today (143197) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | ETV Plus (143030) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Sony Max (157590) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Russia Today (142401) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Colors Bangla Cinema (142748) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Pogo (143663) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Zee UP UK (144480) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | DD Punjabi (142800) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Zee News (159298) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | ET Now (143021) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Surya TV (143888) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Colors Infinity SD (157578) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Dangal (142771) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | DD India (158251) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Republic TV (143723) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | CNBC TV18 (142743) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | ZOOM (157600) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | WION (144087) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | Colors Marathi SD (157580) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | History TV18 HD (143133) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | TLC (158023) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | ALL Time MOVIES (160750) | 09/12/2025
+[2025-12-10 00:01:07] ✓ DishTV | BBC World News (158142) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | And Flix HD (142636) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | 9XM (77447) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | 9X Jhakaas (90012) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | &Privé HD (142639) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Cartoon Network (157576) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | SONY SPORTS TEN1 (157591) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | TV9 Gujarati (144028) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Jalsha Movies (143218) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Zee 24 Ghanta (144431) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Argus News (142650) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Aakash Aath (142510) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | ABP Asmita (142519) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Discovery Kids (159011) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Assam Talks (142683) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | B4U Bhojpuri (142694) | 09/12/2025
+[2025-12-10 00:01:08] ✓ DishTV | Big Magic (142715) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Kolkata TV (143271) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Star Jalsha (143818) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | ABP News (158138) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | B4U Movies (140063) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | ABP Ananda (142518) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | 9X Tashan (142504) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | TV9 Bangla (144026) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Star Kiran (143820) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Sony Aath (157968) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Zee 24 Kalak (144432) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | DD Bangla (142778) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Sony (157589) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Aaj Tak (142507) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Colors Bangla (157577) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Sony SAB (159125) | 09/12/2025
+[2025-12-10 00:01:09] ✓ DishTV | Star Bharat (159130) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Aastha Bhajan (142514) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Aastha Gujarati (158135) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Zee TV (144478) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | ET Now (143021) | 10/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Aastha Telugu (158136) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Alankar (142630) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Colors (158144) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Zee Bangla (117853) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Colors Gujarati (158148) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Star Plus (143831) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | 10TV (142495) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | ABN Andhra Jyothy (142517) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | ABP Majha (142521) | 10/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Aastha Kannada (158134) | 09/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Zee UP UK (144480) | 10/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | Zee News (159298) | 10/12/2025
+[2025-12-10 00:01:10] ✓ DishTV | CNBC TV18 (142743) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Aastha (158133) | 09/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Sun TV (117852) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Mirror Now (143543) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | India Today (143197) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | History TV18 HD (143133) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | MTV (143558) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Surya TV (143888) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | DD India (158251) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Sony Max (157590) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Colors Infinity SD (157578) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Pogo (143663) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Republic TV (143723) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Dangal (142771) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Colors Cineplex (158146) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | ETV Plus (143030) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | Colors Kannada Cinema (157579) | 10/12/2025
+[2025-12-10 00:01:11] ✓ DishTV | ZOOM (157600) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | WION (144087) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Russia Today (142401) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | DD Punjabi (142800) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | B4U Music (158141) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Colors Gujarati Cinema (142751) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | ALL Time MOVIES (160750) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Argus News (142650) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Colors Marathi SD (157580) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | B4U Movies (140063) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Big Magic (142715) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Colors Bangla Cinema (142748) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Cartoon Network (157576) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | NTV (154897) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | 9X Tashan (142504) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | TLC (158023) | 10/12/2025
+[2025-12-10 00:01:12] ✓ DishTV | Jalsha Movies (143218) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Kolkata TV (143271) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Aaj Tak (142507) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | SONY SPORTS TEN1 (157591) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Discovery Kids (159011) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | BBC World News (158142) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | B4U Bhojpuri (142694) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Assam Talks (142683) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Aakash Aath (142510) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | TV9 Bangla (144026) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Zee 24 Ghanta (144431) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | DD Bangla (142778) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Zee 24 Kalak (144432) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | TV9 Gujarati (144028) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | And Flix HD (142636) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | &Privé HD (142639) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | 9XM (77447) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | ABP News (158138) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Star Jalsha (143818) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | ABP Ananda (142518) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Star Kiran (143820) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | Colors Bangla (157577) | 10/12/2025
+[2025-12-10 00:01:13] ✓ DishTV | 9X Jhakaas (90012) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Sony Aath (157968) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Colors Gujarati (158148) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Sony SAB (159125) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Sony (157589) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Star Bharat (159130) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Colors (158144) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Zee Bangla (117853) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Alankar (142630) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Zee TV (144478) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Star Plus (143831) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | 10TV (142495) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | ABN Andhra Jyothy (142517) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | ABP Asmita (142519) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Aastha Telugu (158136) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Aastha Kannada (158134) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Aastha Gujarati (158135) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Aastha Bhajan (142514) | 10/12/2025
+[2025-12-10 00:01:14] ✓ DishTV | Aastha (158133) | 10/12/2025
+[2025-12-10 00:01:20] Attempt 1 failed for 157579 on 09/12/2025: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.dishtv.in', port=443): Read timed out. (read timeout=15)"))
+[2025-12-10 00:01:23] ✓ DishTV | Colors Kannada Cinema (157579) | 09/12/2025
+[2025-12-10 00:01:23] 
 === XML EPG SOURCES ===
-[2025-12-09 23:52:55] 
+[2025-12-10 00:01:23] 
 === Processing Jio TV EPG ===
-[2025-12-09 23:52:55] Converting UTC to IST (UTC+5:30)
-[2025-12-09 23:52:55] Downloading: https://avkb.short.gy/jioepg.xml.gz
-[2025-12-09 23:52:58] ✓ Downloaded Jio TV | Found 1036 channels
-[2025-12-09 23:52:58] ✗ Jio TV | Dabangg | TODAY (no programs)
-[2025-12-09 23:52:58] ✗ Jio TV | Dabangg | TOMORROW (no programs)
-[2025-12-09 23:52:58] ✓ Jio TV | Pogo Tamil | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | Pogo Tamil | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | Food Food | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | Food Food | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | Animal Planet Hindi | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | Animal Planet Hindi | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | GOOD TiMES | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | GOOD TiMES | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | Pogo Telugu | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | Pogo Telugu | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | BRAVE TV | TODAY
-[2025-12-09 23:52:58] ✗ Jio TV | BRAVE TV | TOMORROW (no programs)
-[2025-12-09 23:52:58] ✓ Jio TV | Big TV | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | Big TV | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV | National Tv India | TODAY
-[2025-12-09 23:52:58] ✓ Jio TV | National Tv India | TOMORROW
-[2025-12-09 23:52:58] ✓ Jio TV: Processed 9 channels
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:23] Converting UTC to IST (UTC+5:30)
+[2025-12-10 00:01:23] Downloading: https://avkb.short.gy/jioepg.xml.gz
+[2025-12-10 00:01:25] ✓ Downloaded Jio TV | Found 1036 channels
+[2025-12-10 00:01:25] ✗ Jio TV | Dabangg | TODAY (no programs)
+[2025-12-10 00:01:25] ✗ Jio TV | Dabangg | TOMORROW (no programs)
+[2025-12-10 00:01:25] ✓ Jio TV | Pogo Tamil | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | Pogo Tamil | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | Food Food | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | Food Food | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | Animal Planet Hindi | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | Animal Planet Hindi | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | GOOD TiMES | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | GOOD TiMES | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | Pogo Telugu | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | Pogo Telugu | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | BRAVE TV | TODAY
+[2025-12-10 00:01:25] ✗ Jio TV | BRAVE TV | TOMORROW (no programs)
+[2025-12-10 00:01:25] ✓ Jio TV | Big TV | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | Big TV | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV | National Tv India | TODAY
+[2025-12-10 00:01:25] ✓ Jio TV | National Tv India | TOMORROW
+[2025-12-10 00:01:25] ✓ Jio TV: Processed 9 channels
+[2025-12-10 00:01:26] 
 === Processing Tata Play EPG ===
-[2025-12-09 23:52:58] Converting UTC to IST (UTC+5:30)
-[2025-12-09 23:52:58] Downloading: https://avkb.short.gy/tsepg.xml.gz
-[2025-12-09 23:52:58] ✓ Downloaded Tata Play | Found 851 channels
-[2025-12-09 23:52:58] ✓ Tata Play | GOOD TiMES | TODAY
-[2025-12-09 23:52:58] ✓ Tata Play | GOOD TiMES | TOMORROW
-[2025-12-09 23:52:58] ✓ Tata Play | Food Food | TODAY
-[2025-12-09 23:52:58] ✗ Tata Play | Food Food | TOMORROW (no programs)
-[2025-12-09 23:52:58] ✓ Tata Play | KM News | TODAY
-[2025-12-09 23:52:58] ✗ Tata Play | KM News | TOMORROW (no programs)
-[2025-12-09 23:52:58] ✓ Tata Play | National TV India | TODAY
-[2025-12-09 23:52:58] ✗ Tata Play | National TV India | TOMORROW (no programs)
-[2025-12-09 23:52:58] ✓ Tata Play: Processed 4 channels
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26] Converting UTC to IST (UTC+5:30)
+[2025-12-10 00:01:26] Downloading: https://avkb.short.gy/tsepg.xml.gz
+[2025-12-10 00:01:26] ✓ Downloaded Tata Play | Found 851 channels
+[2025-12-10 00:01:26] ✓ Tata Play | GOOD TiMES | TODAY
+[2025-12-10 00:01:26] ✓ Tata Play | GOOD TiMES | TOMORROW
+[2025-12-10 00:01:26] ✓ Tata Play | Food Food | TODAY
+[2025-12-10 00:01:26] ✗ Tata Play | Food Food | TOMORROW (no programs)
+[2025-12-10 00:01:26] ✓ Tata Play | KM News | TODAY
+[2025-12-10 00:01:26] ✗ Tata Play | KM News | TOMORROW (no programs)
+[2025-12-10 00:01:26] ✓ Tata Play | National TV India | TODAY
+[2025-12-10 00:01:26] ✗ Tata Play | National TV India | TOMORROW (no programs)
+[2025-12-10 00:01:26] ✓ Tata Play: Processed 4 channels
+[2025-12-10 00:01:26] 
 ============================================================
-[2025-12-09 23:52:58] FINAL SUMMARY
-[2025-12-09 23:52:58] ============================================================
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26] FINAL SUMMARY
+[2025-12-10 00:01:26] ============================================================
+[2025-12-10 00:01:26] 
 CHANNELS FOUND - TODAY:
-[2025-12-09 23:52:58]   ✓ 10tv.json
-[2025-12-09 23:52:58]   ✓ 9x-jhakaas.json
-[2025-12-09 23:52:58]   ✓ 9x-tashan.json
-[2025-12-09 23:52:58]   ✓ 9xm.json
-[2025-12-09 23:52:58]   ✓ aaj-tak.json
-[2025-12-09 23:52:58]   ✓ aakash-aath.json
-[2025-12-09 23:52:58]   ✓ aastha-bhajan.json
-[2025-12-09 23:52:58]   ✓ aastha-gujarati.json
-[2025-12-09 23:52:58]   ✓ aastha-kannada.json
-[2025-12-09 23:52:58]   ✓ aastha-telugu.json
-[2025-12-09 23:52:58]   ✓ aastha.json
-[2025-12-09 23:52:58]   ✓ abn-andhra-jyothy.json
-[2025-12-09 23:52:58]   ✓ abp-ananda.json
-[2025-12-09 23:52:58]   ✓ abp-asmita.json
-[2025-12-09 23:52:58]   ✓ abp-majha.json
-[2025-12-09 23:52:58]   ✓ abp-news.json
-[2025-12-09 23:52:58]   ✓ alankar.json
-[2025-12-09 23:52:58]   ✓ all-time-movies.json
-[2025-12-09 23:52:58]   ✓ and-flix-hd.json
-[2025-12-09 23:52:58]   ✓ animal-planet-hindi
-[2025-12-09 23:52:58]   ✓ argus-news.json
-[2025-12-09 23:52:58]   ✓ assam-talks.json
-[2025-12-09 23:52:58]   ✓ b4u-bhojpuri.json
-[2025-12-09 23:52:58]   ✓ b4u-movies.json
-[2025-12-09 23:52:58]   ✓ b4u-music.json
-[2025-12-09 23:52:58]   ✓ bbc-world-news.json
-[2025-12-09 23:52:58]   ✓ big-magic.json
-[2025-12-09 23:52:58]   ✓ big-tv
-[2025-12-09 23:52:58]   ✓ brave-tv
-[2025-12-09 23:52:58]   ✓ cartoon-network.json
-[2025-12-09 23:52:58]   ✓ cnbc-tv18.json
-[2025-12-09 23:52:58]   ✓ colors-bangla-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-bangla.json
-[2025-12-09 23:52:58]   ✓ colors-cineplex.json
-[2025-12-09 23:52:58]   ✓ colors-gujarati-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-gujarati.json
-[2025-12-09 23:52:58]   ✓ colors-infinity-sd.json
-[2025-12-09 23:52:58]   ✓ colors-kannada-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-marathi-sd.json
-[2025-12-09 23:52:58]   ✓ colors.json
-[2025-12-09 23:52:58]   ✓ dangal.json
-[2025-12-09 23:52:58]   ✓ dd-bangla.json
-[2025-12-09 23:52:58]   ✓ dd-india.json
-[2025-12-09 23:52:58]   ✓ dd-punjabi.json
-[2025-12-09 23:52:58]   ✓ discovery-kids.json
-[2025-12-09 23:52:58]   ✓ et-now.json
-[2025-12-09 23:52:58]   ✓ etv-plus.json
-[2025-12-09 23:52:58]   ✓ food-food
-[2025-12-09 23:52:58]   ✓ good-times
-[2025-12-09 23:52:58]   ✓ history-tv18-hd.json
-[2025-12-09 23:52:58]   ✓ india-today.json
-[2025-12-09 23:52:58]   ✓ jalsha-movies.json
-[2025-12-09 23:52:58]   ✓ km-news
-[2025-12-09 23:52:58]   ✓ kolkata-tv.json
-[2025-12-09 23:52:58]   ✓ mirror-now.json
-[2025-12-09 23:52:58]   ✓ mtv.json
-[2025-12-09 23:52:58]   ✓ national-tv-india
-[2025-12-09 23:52:58]   ✓ ntv.json
-[2025-12-09 23:52:58]   ✓ pogo-tamil
-[2025-12-09 23:52:58]   ✓ pogo-telugu
-[2025-12-09 23:52:58]   ✓ pogo.json
-[2025-12-09 23:52:58]   ✓ privé-hd.json
-[2025-12-09 23:52:58]   ✓ republic-tv.json
-[2025-12-09 23:52:58]   ✓ russia-today.json
-[2025-12-09 23:52:58]   ✓ sony-aath.json
-[2025-12-09 23:52:58]   ✓ sony-max.json
-[2025-12-09 23:52:58]   ✓ sony-sab.json
-[2025-12-09 23:52:58]   ✓ sony-sports-ten1.json
-[2025-12-09 23:52:58]   ✓ sony.json
-[2025-12-09 23:52:58]   ✓ star-bharat.json
-[2025-12-09 23:52:58]   ✓ star-jalsha.json
-[2025-12-09 23:52:58]   ✓ star-kiran.json
-[2025-12-09 23:52:58]   ✓ star-plus.json
-[2025-12-09 23:52:58]   ✓ sun-tv.json
-[2025-12-09 23:52:58]   ✓ surya-tv.json
-[2025-12-09 23:52:58]   ✓ tlc.json
-[2025-12-09 23:52:58]   ✓ tv9-bangla.json
-[2025-12-09 23:52:58]   ✓ tv9-gujarati.json
-[2025-12-09 23:52:58]   ✓ wion.json
-[2025-12-09 23:52:58]   ✓ zee-24-ghanta.json
-[2025-12-09 23:52:58]   ✓ zee-24-kalak.json
-[2025-12-09 23:52:58]   ✓ zee-bangla.json
-[2025-12-09 23:52:58]   ✓ zee-news.json
-[2025-12-09 23:52:58]   ✓ zee-tv.json
-[2025-12-09 23:52:58]   ✓ zee-up-uk.json
-[2025-12-09 23:52:58]   ✓ zoom.json
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26]   ✓ 10tv.json
+[2025-12-10 00:01:26]   ✓ 9x-jhakaas.json
+[2025-12-10 00:01:26]   ✓ 9x-tashan.json
+[2025-12-10 00:01:26]   ✓ 9xm.json
+[2025-12-10 00:01:26]   ✓ aaj-tak.json
+[2025-12-10 00:01:26]   ✓ aakash-aath.json
+[2025-12-10 00:01:26]   ✓ aastha-bhajan.json
+[2025-12-10 00:01:26]   ✓ aastha-gujarati.json
+[2025-12-10 00:01:26]   ✓ aastha-kannada.json
+[2025-12-10 00:01:26]   ✓ aastha-telugu.json
+[2025-12-10 00:01:26]   ✓ aastha.json
+[2025-12-10 00:01:26]   ✓ abn-andhra-jyothy.json
+[2025-12-10 00:01:26]   ✓ abp-ananda.json
+[2025-12-10 00:01:26]   ✓ abp-asmita.json
+[2025-12-10 00:01:26]   ✓ abp-majha.json
+[2025-12-10 00:01:26]   ✓ abp-news.json
+[2025-12-10 00:01:26]   ✓ alankar.json
+[2025-12-10 00:01:26]   ✓ all-time-movies.json
+[2025-12-10 00:01:26]   ✓ and-flix-hd.json
+[2025-12-10 00:01:26]   ✓ animal-planet-hindi
+[2025-12-10 00:01:26]   ✓ argus-news.json
+[2025-12-10 00:01:26]   ✓ assam-talks.json
+[2025-12-10 00:01:26]   ✓ b4u-bhojpuri.json
+[2025-12-10 00:01:26]   ✓ b4u-movies.json
+[2025-12-10 00:01:26]   ✓ b4u-music.json
+[2025-12-10 00:01:26]   ✓ bbc-world-news.json
+[2025-12-10 00:01:26]   ✓ big-magic.json
+[2025-12-10 00:01:26]   ✓ big-tv
+[2025-12-10 00:01:26]   ✓ brave-tv
+[2025-12-10 00:01:26]   ✓ cartoon-network.json
+[2025-12-10 00:01:26]   ✓ cnbc-tv18.json
+[2025-12-10 00:01:26]   ✓ colors-bangla-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-bangla.json
+[2025-12-10 00:01:26]   ✓ colors-cineplex.json
+[2025-12-10 00:01:26]   ✓ colors-gujarati-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-gujarati.json
+[2025-12-10 00:01:26]   ✓ colors-infinity-sd.json
+[2025-12-10 00:01:26]   ✓ colors-kannada-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-marathi-sd.json
+[2025-12-10 00:01:26]   ✓ colors.json
+[2025-12-10 00:01:26]   ✓ dangal.json
+[2025-12-10 00:01:26]   ✓ dd-bangla.json
+[2025-12-10 00:01:26]   ✓ dd-india.json
+[2025-12-10 00:01:26]   ✓ dd-punjabi.json
+[2025-12-10 00:01:26]   ✓ discovery-kids.json
+[2025-12-10 00:01:26]   ✓ et-now.json
+[2025-12-10 00:01:26]   ✓ etv-plus.json
+[2025-12-10 00:01:26]   ✓ food-food
+[2025-12-10 00:01:26]   ✓ good-times
+[2025-12-10 00:01:26]   ✓ history-tv18-hd.json
+[2025-12-10 00:01:26]   ✓ india-today.json
+[2025-12-10 00:01:26]   ✓ jalsha-movies.json
+[2025-12-10 00:01:26]   ✓ km-news
+[2025-12-10 00:01:26]   ✓ kolkata-tv.json
+[2025-12-10 00:01:26]   ✓ mirror-now.json
+[2025-12-10 00:01:26]   ✓ mtv.json
+[2025-12-10 00:01:26]   ✓ national-tv-india
+[2025-12-10 00:01:26]   ✓ ntv.json
+[2025-12-10 00:01:26]   ✓ pogo-tamil
+[2025-12-10 00:01:26]   ✓ pogo-telugu
+[2025-12-10 00:01:26]   ✓ pogo.json
+[2025-12-10 00:01:26]   ✓ privé-hd.json
+[2025-12-10 00:01:26]   ✓ republic-tv.json
+[2025-12-10 00:01:26]   ✓ russia-today.json
+[2025-12-10 00:01:26]   ✓ sony-aath.json
+[2025-12-10 00:01:26]   ✓ sony-max.json
+[2025-12-10 00:01:26]   ✓ sony-sab.json
+[2025-12-10 00:01:26]   ✓ sony-sports-ten1.json
+[2025-12-10 00:01:26]   ✓ sony.json
+[2025-12-10 00:01:26]   ✓ star-bharat.json
+[2025-12-10 00:01:26]   ✓ star-jalsha.json
+[2025-12-10 00:01:26]   ✓ star-kiran.json
+[2025-12-10 00:01:26]   ✓ star-plus.json
+[2025-12-10 00:01:26]   ✓ sun-tv.json
+[2025-12-10 00:01:26]   ✓ surya-tv.json
+[2025-12-10 00:01:26]   ✓ tlc.json
+[2025-12-10 00:01:26]   ✓ tv9-bangla.json
+[2025-12-10 00:01:26]   ✓ tv9-gujarati.json
+[2025-12-10 00:01:26]   ✓ wion.json
+[2025-12-10 00:01:26]   ✓ zee-24-ghanta.json
+[2025-12-10 00:01:26]   ✓ zee-24-kalak.json
+[2025-12-10 00:01:26]   ✓ zee-bangla.json
+[2025-12-10 00:01:26]   ✓ zee-news.json
+[2025-12-10 00:01:26]   ✓ zee-tv.json
+[2025-12-10 00:01:26]   ✓ zee-up-uk.json
+[2025-12-10 00:01:26]   ✓ zoom.json
+[2025-12-10 00:01:26] 
 CHANNELS NOT FOUND - TODAY:
-[2025-12-09 23:52:58]   ✗ dabangg
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26]   ✗ dabangg
+[2025-12-10 00:01:26] 
 CHANNELS FOUND - TOMORROW:
-[2025-12-09 23:52:58]   ✓ 10tv.json
-[2025-12-09 23:52:58]   ✓ 9x-jhakaas.json
-[2025-12-09 23:52:58]   ✓ 9x-tashan.json
-[2025-12-09 23:52:58]   ✓ 9xm.json
-[2025-12-09 23:52:58]   ✓ aaj-tak.json
-[2025-12-09 23:52:58]   ✓ aakash-aath.json
-[2025-12-09 23:52:58]   ✓ aastha-bhajan.json
-[2025-12-09 23:52:58]   ✓ aastha-gujarati.json
-[2025-12-09 23:52:58]   ✓ aastha-kannada.json
-[2025-12-09 23:52:58]   ✓ aastha-telugu.json
-[2025-12-09 23:52:58]   ✓ aastha.json
-[2025-12-09 23:52:58]   ✓ abn-andhra-jyothy.json
-[2025-12-09 23:52:58]   ✓ abp-ananda.json
-[2025-12-09 23:52:58]   ✓ abp-asmita.json
-[2025-12-09 23:52:58]   ✓ abp-majha.json
-[2025-12-09 23:52:58]   ✓ abp-news.json
-[2025-12-09 23:52:58]   ✓ alankar.json
-[2025-12-09 23:52:58]   ✓ all-time-movies.json
-[2025-12-09 23:52:58]   ✓ and-flix-hd.json
-[2025-12-09 23:52:58]   ✓ animal-planet-hindi
-[2025-12-09 23:52:58]   ✓ argus-news.json
-[2025-12-09 23:52:58]   ✓ assam-talks.json
-[2025-12-09 23:52:58]   ✓ b4u-bhojpuri.json
-[2025-12-09 23:52:58]   ✓ b4u-movies.json
-[2025-12-09 23:52:58]   ✓ b4u-music.json
-[2025-12-09 23:52:58]   ✓ bbc-world-news.json
-[2025-12-09 23:52:58]   ✓ big-magic.json
-[2025-12-09 23:52:58]   ✓ big-tv
-[2025-12-09 23:52:58]   ✓ cartoon-network.json
-[2025-12-09 23:52:58]   ✓ cnbc-tv18.json
-[2025-12-09 23:52:58]   ✓ colors-bangla-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-bangla.json
-[2025-12-09 23:52:58]   ✓ colors-cineplex.json
-[2025-12-09 23:52:58]   ✓ colors-gujarati-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-gujarati.json
-[2025-12-09 23:52:58]   ✓ colors-infinity-sd.json
-[2025-12-09 23:52:58]   ✓ colors-kannada-cinema.json
-[2025-12-09 23:52:58]   ✓ colors-marathi-sd.json
-[2025-12-09 23:52:58]   ✓ colors.json
-[2025-12-09 23:52:58]   ✓ dangal.json
-[2025-12-09 23:52:58]   ✓ dd-bangla.json
-[2025-12-09 23:52:58]   ✓ dd-india.json
-[2025-12-09 23:52:58]   ✓ dd-punjabi.json
-[2025-12-09 23:52:58]   ✓ discovery-kids.json
-[2025-12-09 23:52:58]   ✓ et-now.json
-[2025-12-09 23:52:58]   ✓ etv-plus.json
-[2025-12-09 23:52:58]   ✓ food-food
-[2025-12-09 23:52:58]   ✓ good-times
-[2025-12-09 23:52:58]   ✓ history-tv18-hd.json
-[2025-12-09 23:52:58]   ✓ india-today.json
-[2025-12-09 23:52:58]   ✓ jalsha-movies.json
-[2025-12-09 23:52:58]   ✓ kolkata-tv.json
-[2025-12-09 23:52:58]   ✓ mirror-now.json
-[2025-12-09 23:52:58]   ✓ mtv.json
-[2025-12-09 23:52:58]   ✓ national-tv-india
-[2025-12-09 23:52:58]   ✓ ntv.json
-[2025-12-09 23:52:58]   ✓ pogo-tamil
-[2025-12-09 23:52:58]   ✓ pogo-telugu
-[2025-12-09 23:52:58]   ✓ pogo.json
-[2025-12-09 23:52:58]   ✓ privé-hd.json
-[2025-12-09 23:52:58]   ✓ republic-tv.json
-[2025-12-09 23:52:58]   ✓ russia-today.json
-[2025-12-09 23:52:58]   ✓ sony-aath.json
-[2025-12-09 23:52:58]   ✓ sony-max.json
-[2025-12-09 23:52:58]   ✓ sony-sab.json
-[2025-12-09 23:52:58]   ✓ sony-sports-ten1.json
-[2025-12-09 23:52:58]   ✓ sony.json
-[2025-12-09 23:52:58]   ✓ star-bharat.json
-[2025-12-09 23:52:58]   ✓ star-jalsha.json
-[2025-12-09 23:52:58]   ✓ star-kiran.json
-[2025-12-09 23:52:58]   ✓ star-plus.json
-[2025-12-09 23:52:58]   ✓ sun-tv.json
-[2025-12-09 23:52:58]   ✓ surya-tv.json
-[2025-12-09 23:52:58]   ✓ tlc.json
-[2025-12-09 23:52:58]   ✓ tv9-bangla.json
-[2025-12-09 23:52:58]   ✓ tv9-gujarati.json
-[2025-12-09 23:52:58]   ✓ wion.json
-[2025-12-09 23:52:58]   ✓ zee-24-ghanta.json
-[2025-12-09 23:52:58]   ✓ zee-24-kalak.json
-[2025-12-09 23:52:58]   ✓ zee-bangla.json
-[2025-12-09 23:52:58]   ✓ zee-news.json
-[2025-12-09 23:52:58]   ✓ zee-tv.json
-[2025-12-09 23:52:58]   ✓ zee-up-uk.json
-[2025-12-09 23:52:58]   ✓ zoom.json
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26]   ✓ 10tv.json
+[2025-12-10 00:01:26]   ✓ 9x-jhakaas.json
+[2025-12-10 00:01:26]   ✓ 9x-tashan.json
+[2025-12-10 00:01:26]   ✓ 9xm.json
+[2025-12-10 00:01:26]   ✓ aaj-tak.json
+[2025-12-10 00:01:26]   ✓ aakash-aath.json
+[2025-12-10 00:01:26]   ✓ aastha-bhajan.json
+[2025-12-10 00:01:26]   ✓ aastha-gujarati.json
+[2025-12-10 00:01:26]   ✓ aastha-kannada.json
+[2025-12-10 00:01:26]   ✓ aastha-telugu.json
+[2025-12-10 00:01:26]   ✓ aastha.json
+[2025-12-10 00:01:26]   ✓ abn-andhra-jyothy.json
+[2025-12-10 00:01:26]   ✓ abp-ananda.json
+[2025-12-10 00:01:26]   ✓ abp-asmita.json
+[2025-12-10 00:01:26]   ✓ abp-majha.json
+[2025-12-10 00:01:26]   ✓ abp-news.json
+[2025-12-10 00:01:26]   ✓ alankar.json
+[2025-12-10 00:01:26]   ✓ all-time-movies.json
+[2025-12-10 00:01:26]   ✓ and-flix-hd.json
+[2025-12-10 00:01:26]   ✓ animal-planet-hindi
+[2025-12-10 00:01:26]   ✓ argus-news.json
+[2025-12-10 00:01:26]   ✓ assam-talks.json
+[2025-12-10 00:01:26]   ✓ b4u-bhojpuri.json
+[2025-12-10 00:01:26]   ✓ b4u-movies.json
+[2025-12-10 00:01:26]   ✓ b4u-music.json
+[2025-12-10 00:01:26]   ✓ bbc-world-news.json
+[2025-12-10 00:01:26]   ✓ big-magic.json
+[2025-12-10 00:01:26]   ✓ big-tv
+[2025-12-10 00:01:26]   ✓ cartoon-network.json
+[2025-12-10 00:01:26]   ✓ cnbc-tv18.json
+[2025-12-10 00:01:26]   ✓ colors-bangla-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-bangla.json
+[2025-12-10 00:01:26]   ✓ colors-cineplex.json
+[2025-12-10 00:01:26]   ✓ colors-gujarati-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-gujarati.json
+[2025-12-10 00:01:26]   ✓ colors-infinity-sd.json
+[2025-12-10 00:01:26]   ✓ colors-kannada-cinema.json
+[2025-12-10 00:01:26]   ✓ colors-marathi-sd.json
+[2025-12-10 00:01:26]   ✓ colors.json
+[2025-12-10 00:01:26]   ✓ dangal.json
+[2025-12-10 00:01:26]   ✓ dd-bangla.json
+[2025-12-10 00:01:26]   ✓ dd-india.json
+[2025-12-10 00:01:26]   ✓ dd-punjabi.json
+[2025-12-10 00:01:26]   ✓ discovery-kids.json
+[2025-12-10 00:01:26]   ✓ et-now.json
+[2025-12-10 00:01:26]   ✓ etv-plus.json
+[2025-12-10 00:01:26]   ✓ food-food
+[2025-12-10 00:01:26]   ✓ good-times
+[2025-12-10 00:01:26]   ✓ history-tv18-hd.json
+[2025-12-10 00:01:26]   ✓ india-today.json
+[2025-12-10 00:01:26]   ✓ jalsha-movies.json
+[2025-12-10 00:01:26]   ✓ kolkata-tv.json
+[2025-12-10 00:01:26]   ✓ mirror-now.json
+[2025-12-10 00:01:26]   ✓ mtv.json
+[2025-12-10 00:01:26]   ✓ national-tv-india
+[2025-12-10 00:01:26]   ✓ ntv.json
+[2025-12-10 00:01:26]   ✓ pogo-tamil
+[2025-12-10 00:01:26]   ✓ pogo-telugu
+[2025-12-10 00:01:26]   ✓ pogo.json
+[2025-12-10 00:01:26]   ✓ privé-hd.json
+[2025-12-10 00:01:26]   ✓ republic-tv.json
+[2025-12-10 00:01:26]   ✓ russia-today.json
+[2025-12-10 00:01:26]   ✓ sony-aath.json
+[2025-12-10 00:01:26]   ✓ sony-max.json
+[2025-12-10 00:01:26]   ✓ sony-sab.json
+[2025-12-10 00:01:26]   ✓ sony-sports-ten1.json
+[2025-12-10 00:01:26]   ✓ sony.json
+[2025-12-10 00:01:26]   ✓ star-bharat.json
+[2025-12-10 00:01:26]   ✓ star-jalsha.json
+[2025-12-10 00:01:26]   ✓ star-kiran.json
+[2025-12-10 00:01:26]   ✓ star-plus.json
+[2025-12-10 00:01:26]   ✓ sun-tv.json
+[2025-12-10 00:01:26]   ✓ surya-tv.json
+[2025-12-10 00:01:26]   ✓ tlc.json
+[2025-12-10 00:01:26]   ✓ tv9-bangla.json
+[2025-12-10 00:01:26]   ✓ tv9-gujarati.json
+[2025-12-10 00:01:26]   ✓ wion.json
+[2025-12-10 00:01:26]   ✓ zee-24-ghanta.json
+[2025-12-10 00:01:26]   ✓ zee-24-kalak.json
+[2025-12-10 00:01:26]   ✓ zee-bangla.json
+[2025-12-10 00:01:26]   ✓ zee-news.json
+[2025-12-10 00:01:26]   ✓ zee-tv.json
+[2025-12-10 00:01:26]   ✓ zee-up-uk.json
+[2025-12-10 00:01:26]   ✓ zoom.json
+[2025-12-10 00:01:26] 
 CHANNELS NOT FOUND - TOMORROW:
-[2025-12-09 23:52:58]   ✗ brave-tv
-[2025-12-09 23:52:58]   ✗ dabangg
-[2025-12-09 23:52:58]   ✗ food-food
-[2025-12-09 23:52:58]   ✗ km-news
-[2025-12-09 23:52:58]   ✗ national-tv-india
-[2025-12-09 23:52:58] ============================================================
-[2025-12-09 23:52:58] 
+[2025-12-10 00:01:26]   ✗ brave-tv
+[2025-12-10 00:01:26]   ✗ dabangg
+[2025-12-10 00:01:26]   ✗ food-food
+[2025-12-10 00:01:26]   ✗ km-news
+[2025-12-10 00:01:26]   ✗ national-tv-india
+[2025-12-10 00:01:26] ============================================================
+[2025-12-10 00:01:26] 
 Scrape completed successfully
