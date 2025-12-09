@@ -32,15 +32,16 @@ jobs:
       - name: Run EPG Scraper
         run: python merged_epg_scraper.py
       
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -m "🔄 EPG Update - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git push
-          else
-            echo "No changes to commit"
-        shell: bash
+    - name: Commit and push changes
+      shell: bash
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        if [ -n "$(git status --porcelain)" ]; then
+          git add -A
+          git commit -m "🔄 EPG Update - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
