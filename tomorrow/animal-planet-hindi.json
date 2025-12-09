@@ -1,0 +1,180 @@
+{
+  "channel_name": "Animal Planet Hindi",
+  "date": "December 11, 2025",
+  "schedule": [
+    {
+      "show_name": "Extreme Africa",
+      "start_time": "12:00 AM",
+      "end_time": "12:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566000.jpg"
+    },
+    {
+      "show_name": "Big Cats of the Serengeti",
+      "start_time": "12:39 AM",
+      "end_time": "1:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566001.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "1:39 AM",
+      "end_time": "2:38 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566002.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "2:38 AM",
+      "end_time": "3:09 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566003.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "3:09 AM",
+      "end_time": "3:40 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566004.jpg"
+    },
+    {
+      "show_name": "Lions & Hyenas",
+      "start_time": "3:40 AM",
+      "end_time": "4:39 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566005.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "4:39 AM",
+      "end_time": "5:33 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566006.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "5:33 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566007.jpg"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "6:00 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566008.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "7:00 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566009.jpg"
+    },
+    {
+      "show_name": "Extreme Africa",
+      "start_time": "8:00 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566010.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566011.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566012.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566013.jpg"
+    },
+    {
+      "show_name": "Extreme Snakes",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566014.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566015.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "12:30 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566016.jpg"
+    },
+    {
+      "show_name": "Lions & Hyenas",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566017.jpg"
+    },
+    {
+      "show_name": "Attack of the Devil Shark",
+      "start_time": "2:00 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566018.jpg"
+    },
+    {
+      "show_name": "Amur, Asia's Amazon",
+      "start_time": "3:00 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566019.jpg"
+    },
+    {
+      "show_name": "The Lions Rule",
+      "start_time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566020.jpg"
+    },
+    {
+      "show_name": "Cute to Killer",
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566021.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566022.jpg"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566023.jpg"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566024.jpg"
+    },
+    {
+      "show_name": "The Loneliness Of The Leopard",
+      "start_time": "8:00 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566025.jpg"
+    },
+    {
+      "show_name": "Elephants Up Close",
+      "start_time": "9:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566026.jpg"
+    },
+    {
+      "show_name": "Great Species of Africa",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566027.jpg"
+    },
+    {
+      "show_name": "Hot Life Africa",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-11/251211566028.jpg"
+    }
+  ]
+}
