@@ -1,0 +1,60 @@
+{
+  "channel_name": "B4U Movies",
+  "date": "December 09, 2025",
+  "schedule": [
+    {
+      "show_name": "Jaane Jigar",
+      "start_time": "6:30 AM",
+      "end_time": "6:31 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Jaane Jigar",
+      "start_time": "6:31 AM",
+      "end_time": "9:40 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Krishna Arjun",
+      "start_time": "9:40 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p137649_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "11:30 AM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "2:30 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "5:30 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "8:30 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "11:30 PM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "2:30 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    }
+  ]
+}

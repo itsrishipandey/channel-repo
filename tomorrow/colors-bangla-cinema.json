@@ -1,0 +1,72 @@
+{
+  "channel_name": "Colors Bangla Cinema",
+  "date": "December 10, 2025",
+  "schedule": [
+    {
+      "show_name": "Badsha: The Don",
+      "start_time": "5:30 AM",
+      "end_time": "7:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19527288_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chopper",
+      "start_time": "7:05 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29153033_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "8:30 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Taan",
+      "start_time": "9:30 AM",
+      "end_time": "11:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19763766_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Krishna Bhakta Sudama",
+      "start_time": "11:15 AM",
+      "end_time": "1:05 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Rang Be Rang",
+      "start_time": "1:05 PM",
+      "end_time": "3:20 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Agni Pariksha",
+      "start_time": "3:20 PM",
+      "end_time": "6:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23945126_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sneher Protidan",
+      "start_time": "6:25 PM",
+      "end_time": "9:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15809288_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hirak Jayanti",
+      "start_time": "9:35 PM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15163152_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Minister Phatakesto",
+      "start_time": "12:30 AM",
+      "end_time": "3:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25054193_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bindaas",
+      "start_time": "3:25 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15342936_b_h9_ad.jpg?lock=880x660"
+    }
+  ]
+}

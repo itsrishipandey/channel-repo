@@ -1,0 +1,72 @@
+{
+  "channel_name": "All Time Movies",
+  "date": "December 09, 2025",
+  "schedule": [
+    {
+      "show_name": "Marainthirunthu Paarkum Marmam Enna",
+      "start_time": "6:42 AM",
+      "end_time": "8:14 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29240391_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Directer Cut",
+      "start_time": "8:14 AM",
+      "end_time": "8:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039007_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Issaq",
+      "start_time": "8:15 AM",
+      "end_time": "10:29 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12563929_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "10:29 AM",
+      "end_time": "11:59 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Madha Mathu Manasi",
+      "start_time": "11:59 AM",
+      "end_time": "2:04 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14921572_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Lal Badshah",
+      "start_time": "2:04 PM",
+      "end_time": "5:20 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Seetimaarr",
+      "start_time": "5:20 PM",
+      "end_time": "7:39 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21962648_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rajadhi Raja",
+      "start_time": "7:39 PM",
+      "end_time": "9:54 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21370816_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maruthu",
+      "start_time": "9:54 PM",
+      "end_time": "12:29 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12906588_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Poojai",
+      "start_time": "12:29 AM",
+      "end_time": "3:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11188899_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baasha",
+      "start_time": "3:24 AM",
+      "end_time": "5:39 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10048677_b_h9_ad.jpg?lock=880x660"
+    }
+  ]
+}

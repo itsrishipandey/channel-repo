@@ -1,0 +1,72 @@
+{
+  "channel_name": "Alankar",
+  "date": "December 09, 2025",
+  "schedule": [
+    {
+      "show_name": "Bandha Padichi Se Bandhu Premare",
+      "start_time": "6:30 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30419693_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Stars Choice",
+      "start_time": "10:30 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31257341_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Alankar Hits",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bidhata",
+      "start_time": "12:30 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25066506_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "MORNING SHOW",
+      "start_time": "1:30 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820632_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Haata Dhari Chaaluthaa",
+      "start_time": "4:30 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29119491_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jwain Amara American",
+      "start_time": "7:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29389318_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kemiti E Bandhana",
+      "start_time": "10:30 PM",
+      "end_time": "1:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30310280_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "1:20 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sneha Kangala",
+      "start_time": "1:30 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29559316_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

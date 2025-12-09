@@ -1,0 +1,72 @@
+{
+  "channel_name": "Jalsha Movies",
+  "date": "December 10, 2025",
+  "schedule": [
+    {
+      "show_name": "Byomkesh Pawrbo",
+      "start_time": "6:25 AM",
+      "end_time": "8:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15416574_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jyeshthoputro",
+      "start_time": "8:25 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17993634_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asookh",
+      "start_time": "10:30 AM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9796750_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "1 Ishwar Katha",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28205013_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ghatothkach: Master of Magic",
+      "start_time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8657526_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ghatotkach",
+      "start_time": "3:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10835224_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ghatothkach 2",
+      "start_time": "4:30 PM",
+      "end_time": "6:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13742615_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Parbo Na Ami Chharte Toke",
+      "start_time": "6:15 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25471221_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aradhana",
+      "start_time": "9:00 PM",
+      "end_time": "12:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p142060_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saat Paake Bandha",
+      "start_time": "12:15 AM",
+      "end_time": "3:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25472182_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Villain",
+      "start_time": "3:15 AM",
+      "end_time": "6:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19059254_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}
