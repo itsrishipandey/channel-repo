@@ -1,0 +1,66 @@
+{
+  "channel_name": "SONY MAX",
+  "date": "December 11, 2025",
+  "schedule": [
+    {
+      "show_name": "Movie",
+      "start_time": "12:27 AM",
+      "end_time": "2:47 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "2:47 AM",
+      "end_time": "4:06 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "4:06 AM",
+      "end_time": "5:37 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "5:37 AM",
+      "end_time": "7:41 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "7:41 AM",
+      "end_time": "11:03 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "11:03 AM",
+      "end_time": "1:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "1:35 PM",
+      "end_time": "4:14 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "4:14 PM",
+      "end_time": "7:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "7:50 PM",
+      "end_time": "10:54 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "10:54 PM",
+      "end_time": "1:08 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    }
+  ]
+}

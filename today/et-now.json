@@ -1,0 +1,222 @@
+{
+  "channel_name": "ET Now",
+  "date": "December 10, 2025",
+  "schedule": [
+    {
+      "show_name": "Beat the Street",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Tonight",
+      "start_time": "12:30 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242464_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Startup Central",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242495_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Your Trades",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242506_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Development Debate",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19231444_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beat the Street",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Money Show",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242505_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Big Voices",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24473293_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Startup Central",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242495_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Tonight",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242464_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beat the Street",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Your Trades",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242506_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Market Café",
+      "start_time": "7:00 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242477_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Market",
+      "start_time": "8:00 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242503_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "First Trade",
+      "start_time": "9:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23115126_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "ET NOW BNSN: The Stock Game",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242416_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Markets @ Noon",
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242487_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Newsroom",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20815065_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Market Fatafat",
+      "start_time": "1:30 PM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242482_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "ET NOW Closing Trades",
+      "start_time": "2:30 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242422_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Primetime",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242405_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beat the Street",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talent Superheroes",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26997110_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Money Show",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242505_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Now",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242492_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Startup Central",
+      "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242495_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Your Trades",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242506_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rush Hour",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "BUDGET 2024 - Special",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29714557_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Tonight",
+      "start_time": "8:00 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242464_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Development Debate",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19231444_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Big Voices",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24473293_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Money Show",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242505_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "IDFC First Bank Presents ET Now Leaders",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22499255_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Your Trades",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242506_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Development Debate",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19231444_b_h9_ab.jpg?lock=880x660"
+    }
+  ]
+}

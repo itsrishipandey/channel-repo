@@ -1,0 +1,72 @@
+{
+  "channel_name": "Alankar",
+  "date": "December 11, 2025",
+  "schedule": [
+    {
+      "show_name": "Gana Duskarma",
+      "start_time": "1:00 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29879373_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Stars Choice",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31257341_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Alankar Hits",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pahili Raja",
+      "start_time": "7:00 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29119426_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "MORNING SHOW",
+      "start_time": "8:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820632_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ishq Puni Thare",
+      "start_time": "11:00 AM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029444_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Love Master",
+      "start_time": "2:00 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029465_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kie Daba Takkar",
+      "start_time": "5:00 PM",
+      "end_time": "7:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029615_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "7:50 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhulija Jaha Bhul Heichi",
+      "start_time": "8:00 PM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    }
+  ]
+}

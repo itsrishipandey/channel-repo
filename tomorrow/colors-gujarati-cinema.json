@@ -1,0 +1,66 @@
+{
+  "channel_name": "Colors Gujarati Cinema",
+  "date": "December 11, 2025",
+  "schedule": [
+    {
+      "show_name": "Mangal Fera",
+      "start_time": "12:00 AM",
+      "end_time": "12:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26539748_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baliyadev",
+      "start_time": "12:40 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18727805_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "3:00 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Parka Padar Ni Gorande",
+      "start_time": "5:00 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19827716_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Desi Beats",
+      "start_time": "8:00 AM",
+      "end_time": "10:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mare Todle Betho Mor",
+      "start_time": "10:05 AM",
+      "end_time": "12:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18263038_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Parki Jani",
+      "start_time": "12:55 PM",
+      "end_time": "4:05 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Shetal Ne Kanthe",
+      "start_time": "4:05 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14930853_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dholi",
+      "start_time": "7:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23294043_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ashapura Mata Ni Chundari",
+      "start_time": "9:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30899253_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}
