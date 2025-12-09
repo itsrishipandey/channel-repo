@@ -1,164 +1,184 @@
-Scrape started at 2025-12-09 21:02:55.337802+05:30
-[2025-12-09 21:02:55] --- Starting DishTV Scraper ---
-[2025-12-09 21:02:57] DISH SUCCESS: 143663 -> pogo.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 117852 -> sun-tv.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142743 -> cnbc-tv18.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142743 -> cnbc-tv18.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143663 -> pogo.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143888 -> surya-tv.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 157590 -> sony-max.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 158251 -> dd-india.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143543 -> mirror-now.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143197 -> india-today.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 157590 -> sony-max.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143558 -> mtv.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142521 -> abp-majha.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143543 -> mirror-now.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143021 -> et-now.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 159298 -> zee-news.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142771 -> dangal.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 158251 -> dd-india.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142771 -> dangal.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143558 -> mtv.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143021 -> et-now.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143723 -> republic-tv.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 159298 -> zee-news.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143197 -> india-today.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143723 -> republic-tv.json (09/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143888 -> surya-tv.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 117852 -> sun-tv.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143133 -> history-tv18-hd.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 142521 -> abp-majha.json (10/12/2025)
-[2025-12-09 21:02:57] DISH SUCCESS: 143133 -> history-tv18-hd.json (09/12/2025)
-[2025-12-09 21:02:58] DISH SUCCESS: 144480 -> zee-up-uk.json (09/12/2025)
-[2025-12-09 21:02:58] DISH SUCCESS: 144480 -> zee-up-uk.json (10/12/2025)
-[2025-12-09 21:02:58] DISH SUCCESS: 157580 -> colors-marathi-sd.json (09/12/2025)
-[2025-12-09 21:02:58] DISH SUCCESS: 157578 -> colors-infinity-sd.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157580 -> colors-marathi-sd.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157600 -> zoom.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157600 -> zoom.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157579 -> colors-kannada-cinema.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 158141 -> b4u-music.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142800 -> dd-punjabi.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 158023 -> tlc.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 154897 -> ntv.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142748 -> colors-bangla-cinema.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 158146 -> colors-cineplex.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157578 -> colors-infinity-sd.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 158141 -> b4u-music.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 157579 -> colors-kannada-cinema.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142751 -> colors-gujarati-cinema.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 144087 -> wion.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 158146 -> colors-cineplex.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142748 -> colors-bangla-cinema.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142751 -> colors-gujarati-cinema.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142401 -> russia-today.json (09/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 144087 -> wion.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142401 -> russia-today.json (10/12/2025)
-[2025-12-09 21:02:59] DISH SUCCESS: 142800 -> dd-punjabi.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 143030 -> etv-plus.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 158023 -> tlc.json (10/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 158142 -> bbc-world-news.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 154897 -> ntv.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 143030 -> etv-plus.json (10/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 157591 -> sony-sports-ten1.json (10/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 157591 -> sony-sports-ten1.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 142683 -> assam-talks.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 158142 -> bbc-world-news.json (10/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 159011 -> discovery-kids.json (10/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 159011 -> discovery-kids.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 160750 -> all-time-movies.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 142650 -> argus-news.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 142715 -> big-magic.json (09/12/2025)
-[2025-12-09 21:03:00] DISH SUCCESS: 160750 -> all-time-movies.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 157576 -> cartoon-network.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142715 -> big-magic.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142650 -> argus-news.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 140063 -> b4u-movies.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142683 -> assam-talks.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142507 -> aaj-tak.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 143820 -> star-kiran.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142636 -> and-flix-hd.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142636 -> and-flix-hd.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 157576 -> cartoon-network.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 77447 -> 9xm.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 77447 -> 9xm.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142694 -> b4u-bhojpuri.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142639 -> &privé-hd.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 90012 -> 9x-jhakaas.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 90012 -> 9x-jhakaas.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 143271 -> kolkata-tv.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142694 -> b4u-bhojpuri.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 143218 -> jalsha-movies.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 143820 -> star-kiran.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142507 -> aaj-tak.json (10/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 142504 -> 9x-tashan.json (09/12/2025)
-[2025-12-09 21:03:01] DISH SUCCESS: 140063 -> b4u-movies.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 158138 -> abp-news.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 158138 -> abp-news.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 142504 -> 9x-tashan.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 142510 -> aakash-aath.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 142639 -> &privé-hd.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144026 -> tv9-bangla.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 157968 -> sony-aath.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144431 -> zee-24-ghanta.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 143271 -> kolkata-tv.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 143218 -> jalsha-movies.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144431 -> zee-24-ghanta.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144028 -> tv9-gujarati.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144028 -> tv9-gujarati.json (10/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 142778 -> dd-bangla.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 142510 -> aakash-aath.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144026 -> tv9-bangla.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144432 -> zee-24-kalak.json (09/12/2025)
-[2025-12-09 21:03:02] DISH SUCCESS: 144432 -> zee-24-kalak.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 143818 -> star-jalsha.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 142778 -> dd-bangla.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 157968 -> sony-aath.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 142518 -> abp-ananda.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 143818 -> star-jalsha.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 157577 -> colors-bangla.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 159125 -> sony-sab.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 157577 -> colors-bangla.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 159125 -> sony-sab.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 117853 -> zee-bangla.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 158148 -> colors-gujarati.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 157589 -> sony.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 157589 -> sony.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 142519 -> abp-asmita.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 142519 -> abp-asmita.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 142518 -> abp-ananda.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 144478 -> zee-tv.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 159130 -> star-bharat.json (09/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 158144 -> colors.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 159130 -> star-bharat.json (10/12/2025)
-[2025-12-09 21:03:03] DISH SUCCESS: 158144 -> colors.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 117853 -> zee-bangla.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142630 -> alankar.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142630 -> alankar.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158148 -> colors-gujarati.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 143831 -> star-plus.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158136 -> aastha-telugu.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158134 -> aastha-kannada.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142495 -> 10tv.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158136 -> aastha-telugu.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158135 -> aastha-gujarati.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142517 -> abn-andhra-jyothy.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 144478 -> zee-tv.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158135 -> aastha-gujarati.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158133 -> aastha.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158133 -> aastha.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142517 -> abn-andhra-jyothy.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142514 -> aastha-bhajan.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 143831 -> star-plus.json (09/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 142514 -> aastha-bhajan.json (10/12/2025)
-[2025-12-09 21:03:04] DISH SUCCESS: 158134 -> aastha-kannada.json (10/12/2025)
-[2025-12-09 21:03:05] DISH SUCCESS: 142495 -> 10tv.json (10/12/2025)
-[2025-12-09 21:03:05] --- Starting XMLTV Scraper ---
-[2025-12-09 21:03:05] Downloading XMLTV: https://avkb.short.gy/tsepg.xml.gz
-[2025-12-09 21:03:05] Parsed 453 channels from Tata Play
-[2025-12-09 21:03:05] Downloading XMLTV: https://avkb.short.gy/jioepg.xml.gz
-[2025-12-09 21:03:09] Parsed 1036 channels from Jio TV
-[2025-12-09 21:03:09] Filtering 1293 scraped channels against 10 allowed files.
-[2025-12-09 21:03:09] XMLTV Save Complete. 8 channels saved successfully from 10 requested.
-[2025-12-09 21:03:09] --- All Scraping Done ---
+Scrape started at 2025-12-09 23:26:16.009116+05:30
+[2025-12-09 23:26:16] --- Starting DishTV Scraper ---
+[2025-12-09 23:26:18] DISH OK: 143543 -> mirror-now.json [10/12/2025]
+[2025-12-09 23:26:18] DISH OK: 143558 -> mtv.json [09/12/2025]
+[2025-12-09 23:26:19] DISH OK: 117852 -> sun-tv.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143021 -> et-now.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142521 -> abp-majha.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142771 -> dangal.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 159298 -> zee-news.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143021 -> et-now.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 158251 -> dd-india.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 157590 -> sony-max.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143543 -> mirror-now.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142521 -> abp-majha.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143197 -> india-today.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143723 -> republic-tv.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142743 -> cnbc-tv18.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143663 -> pogo.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 159298 -> zee-news.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142743 -> cnbc-tv18.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 158251 -> dd-india.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143197 -> india-today.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 157590 -> sony-max.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143888 -> surya-tv.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 142771 -> dangal.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143723 -> republic-tv.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143133 -> history-tv18-hd.json [10/12/2025]
+[2025-12-09 23:26:20] DISH OK: 144480 -> zee-up-uk.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143888 -> surya-tv.json [09/12/2025]
+[2025-12-09 23:26:20] DISH OK: 143133 -> history-tv18-hd.json [09/12/2025]
+[2025-12-09 23:26:21] DISH OK: 117852 -> sun-tv.json [10/12/2025]
+[2025-12-09 23:26:21] DISH OK: 144480 -> zee-up-uk.json [10/12/2025]
+[2025-12-09 23:26:21] DISH OK: 157600 -> zoom.json [09/12/2025]
+[2025-12-09 23:26:22] DISH OK: 157579 -> colors-kannada-cinema.json [09/12/2025]
+[2025-12-09 23:26:22] DISH OK: 142748 -> colors-bangla-cinema.json [10/12/2025]
+[2025-12-09 23:26:22] DISH OK: 157600 -> zoom.json [10/12/2025]
+[2025-12-09 23:26:23] DISH OK: 158023 -> tlc.json [09/12/2025]
+[2025-12-09 23:26:23] DISH OK: 157579 -> colors-kannada-cinema.json [10/12/2025]
+[2025-12-09 23:26:23] DISH OK: 158023 -> tlc.json [10/12/2025]
+[2025-12-09 23:26:23] DISH OK: 157580 -> colors-marathi-sd.json [09/12/2025]
+[2025-12-09 23:26:23] DISH OK: 157580 -> colors-marathi-sd.json [10/12/2025]
+[2025-12-09 23:26:23] DISH OK: 158141 -> b4u-music.json [09/12/2025]
+[2025-12-09 23:26:23] DISH OK: 157578 -> colors-infinity-sd.json [09/12/2025]
+[2025-12-09 23:26:23] DISH OK: 143030 -> etv-plus.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142751 -> colors-gujarati-cinema.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142748 -> colors-bangla-cinema.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 158141 -> b4u-music.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 143030 -> etv-plus.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 158146 -> colors-cineplex.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 157578 -> colors-infinity-sd.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142751 -> colors-gujarati-cinema.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 144087 -> wion.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 158146 -> colors-cineplex.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142401 -> russia-today.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 154897 -> ntv.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 144087 -> wion.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142401 -> russia-today.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 154897 -> ntv.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142800 -> dd-punjabi.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142800 -> dd-punjabi.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 157591 -> sony-sports-ten1.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 158142 -> bbc-world-news.json [09/12/2025]
+[2025-12-09 23:26:24] DISH OK: 157591 -> sony-sports-ten1.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 158142 -> bbc-world-news.json [10/12/2025]
+[2025-12-09 23:26:24] DISH OK: 142683 -> assam-talks.json [09/12/2025]
+[2025-12-09 23:26:25] DISH OK: 160750 -> all-time-movies.json [10/12/2025]
+[2025-12-09 23:26:25] DISH OK: 159011 -> discovery-kids.json [10/12/2025]
+[2025-12-09 23:26:25] DISH OK: 159011 -> discovery-kids.json [09/12/2025]
+[2025-12-09 23:26:25] DISH OK: 142694 -> b4u-bhojpuri.json [10/12/2025]
+[2025-12-09 23:26:25] DISH OK: 160750 -> all-time-movies.json [09/12/2025]
+[2025-12-09 23:26:26] DISH OK: 140063 -> b4u-movies.json [10/12/2025]
+[2025-12-09 23:26:26] DISH OK: 142650 -> argus-news.json [09/12/2025]
+[2025-12-09 23:26:26] DISH OK: 140063 -> b4u-movies.json [09/12/2025]
+[2025-12-09 23:26:26] DISH OK: 142650 -> argus-news.json [10/12/2025]
+[2025-12-09 23:26:26] DISH OK: 142715 -> big-magic.json [09/12/2025]
+[2025-12-09 23:26:26] DISH OK: 158138 -> abp-news.json [10/12/2025]
+[2025-12-09 23:26:26] DISH OK: 158138 -> abp-news.json [09/12/2025]
+[2025-12-09 23:26:26] DISH OK: 77447 -> 9xm.json [09/12/2025]
+[2025-12-09 23:26:27] DISH OK: 77447 -> 9xm.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 143820 -> star-kiran.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142694 -> b4u-bhojpuri.json [09/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142683 -> assam-talks.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142504 -> 9x-tashan.json [09/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142715 -> big-magic.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 157576 -> cartoon-network.json [09/12/2025]
+[2025-12-09 23:26:27] DISH OK: 143820 -> star-kiran.json [09/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142636 -> and-flix-hd.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 157576 -> cartoon-network.json [10/12/2025]
+[2025-12-09 23:26:27] DISH OK: 142639 -> &privé-hd.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 90012 -> 9x-jhakaas.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142504 -> 9x-tashan.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 90012 -> 9x-jhakaas.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142507 -> aaj-tak.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142507 -> aaj-tak.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 143271 -> kolkata-tv.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 143271 -> kolkata-tv.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142636 -> and-flix-hd.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142639 -> &privé-hd.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 143218 -> jalsha-movies.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 143218 -> jalsha-movies.json [10/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142510 -> aakash-aath.json [09/12/2025]
+[2025-12-09 23:26:28] DISH OK: 142510 -> aakash-aath.json [10/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144431 -> zee-24-ghanta.json [10/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144026 -> tv9-bangla.json [10/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144431 -> zee-24-ghanta.json [09/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144026 -> tv9-bangla.json [09/12/2025]
+[2025-12-09 23:26:29] DISH OK: 157968 -> sony-aath.json [09/12/2025]
+[2025-12-09 23:26:29] DISH OK: 157968 -> sony-aath.json [10/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144028 -> tv9-gujarati.json [09/12/2025]
+[2025-12-09 23:26:29] DISH OK: 142519 -> abp-asmita.json [09/12/2025]
+[2025-12-09 23:26:29] DISH OK: 144028 -> tv9-gujarati.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 142778 -> dd-bangla.json [09/12/2025]
+[2025-12-09 23:26:30] DISH OK: 142778 -> dd-bangla.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 142519 -> abp-asmita.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 142518 -> abp-ananda.json [09/12/2025]
+[2025-12-09 23:26:30] DISH OK: 144432 -> zee-24-kalak.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 144432 -> zee-24-kalak.json [09/12/2025]
+[2025-12-09 23:26:30] DISH OK: 142518 -> abp-ananda.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 143818 -> star-jalsha.json [10/12/2025]
+[2025-12-09 23:26:30] DISH OK: 157577 -> colors-bangla.json [09/12/2025]
+[2025-12-09 23:26:30] DISH OK: 143818 -> star-jalsha.json [09/12/2025]
+[2025-12-09 23:26:30] DISH OK: 157577 -> colors-bangla.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 159125 -> sony-sab.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 158148 -> colors-gujarati.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 159125 -> sony-sab.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 117853 -> zee-bangla.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 117853 -> zee-bangla.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 158148 -> colors-gujarati.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 158144 -> colors.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 157589 -> sony.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 144478 -> zee-tv.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 144478 -> zee-tv.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 158144 -> colors.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 159130 -> star-bharat.json [10/12/2025]
+[2025-12-09 23:26:31] DISH OK: 159130 -> star-bharat.json [09/12/2025]
+[2025-12-09 23:26:31] DISH OK: 157589 -> sony.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 143831 -> star-plus.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142630 -> alankar.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142630 -> alankar.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142495 -> 10tv.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 143831 -> star-plus.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142495 -> 10tv.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158136 -> aastha-telugu.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142517 -> abn-andhra-jyothy.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158134 -> aastha-kannada.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 142517 -> abn-andhra-jyothy.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158136 -> aastha-telugu.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158135 -> aastha-gujarati.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158134 -> aastha-kannada.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158133 -> aastha.json [09/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158135 -> aastha-gujarati.json [10/12/2025]
+[2025-12-09 23:26:32] DISH OK: 158133 -> aastha.json [10/12/2025]
+[2025-12-09 23:26:33] DISH OK: 142514 -> aastha-bhajan.json [09/12/2025]
+[2025-12-09 23:26:33] DISH OK: 142514 -> aastha-bhajan.json [10/12/2025]
+[2025-12-09 23:26:33] DISH OK: 143558 -> mtv.json [10/12/2025]
+[2025-12-09 23:26:34] DISH OK: 143663 -> pogo.json [10/12/2025]
+[2025-12-09 23:26:34] --- Starting XMLTV Scraper ---
+[2025-12-09 23:26:34] Downloading XMLTV: https://avkb.short.gy/tsepg.xml.gz
+[2025-12-09 23:26:35] Parsed 453 channels from Tata Play
+[2025-12-09 23:26:35] Downloading XMLTV: https://avkb.short.gy/jioepg.xml.gz
+[2025-12-09 23:26:38] Parsed 1036 channels from Jio TV
+[2025-12-09 23:26:38] Filtering 1293 scraped channels against 10 requested files.
+
+==================================================
+FINAL EXECUTION SUMMARY
+==================================================
+
+--- DISH TV REPORT ---
+Today Found: 77, Missing: 0
+Tomorrow Found: 77, Missing: 0
+
+--- XMLTV REPORT ---
+Today Found: 9, Missing: 1
+Tomorrow Found: 7, Missing: 3
+
+[MISSING TODAY - XMLTV]:
+dabangg.json
+
+[MISSING TOMORROW - XMLTV]:
+km-news.json
+brave-tv.json
+dabangg.json
+
+==================================================
