@@ -16,6 +16,7 @@ import paramiko
 import zipfile
 from datetime import datetime
 from pathlib import Path
+import pytz
 
 # -----------------------------
 # CONFIG SECTION
@@ -42,12 +43,15 @@ SSH_PORT = int(os.getenv('SSH_PORT', '22'))
 SSH_USER = os.getenv('SSH_USER')
 SSH_PASSWORD = os.getenv('SSH_PASSWORD')
 
+# Indian timezone
+IST = pytz.timezone('Asia/Kolkata')
+
 # -----------------------------
 # LOGGING FUNCTION
 # -----------------------------
 def log(message):
-    """Log message with timestamp"""
-    timestamp = datetime.now().strftime("[%Y-%m-%d %H:%M:%S]")
+    """Log message with IST timestamp"""
+    timestamp = datetime.now(IST).strftime("[%Y-%m-%d %H:%M:%S IST]")
     print(f"{timestamp} {message}")
     sys.stdout.flush()
 
@@ -193,11 +197,13 @@ def upload_and_process():
         # Step 4: Upload and extract JSON files (odd/even logic)
         log("\nSTEP 4: Uploading and extracting JSON files...")
         
-        # Determine odd/even mapping
-        # If today is EVEN → today folder goes to EVEN directory, tomorrow to ODD
-        # If today is ODD → today folder goes to ODD directory, tomorrow to EVEN
-        today_day = datetime.now().day
+        # Get current date in IST timezone
+        today_ist = datetime.now(IST)
+        today_day = today_ist.day
         is_today_even = (today_day % 2 == 0)
+        
+        log(f"Current IST time: {today_ist.strftime('%Y-%m-%d %H:%M:%S')}")
+        log(f"Current IST date: {today_day}")
         
         if is_today_even:
             mapping = {
