@@ -1,6 +1,6 @@
 {
   "channel_name": "MTV",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Night Out",
@@ -71,12 +71,12 @@
     {
       "show_name": "Roadies",
       "start_time": "3:50 PM",
-      "end_time": "6:00 PM",
+      "end_time": "6:20 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p25117854_b_h9_ac_d348330d0c.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "6:00 PM",
+      "start_time": "6:20 PM",
       "end_time": "7:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27085844_b_h9_aa_48937ec2b6.webp"
     },
@@ -87,20 +87,26 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27085844_b_h9_aa_48937ec2b6.webp"
     },
     {
-      "show_name": "Roadies Real Heroes",
-      "start_time": "9:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p23738766_b_h9_aa_786b112f92.webp"
-    },
-    {
       "show_name": "Date 2 Remember",
-      "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
+      "start_time": "9:00 PM",
+      "end_time": "9:50 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p31788477_b_h9_ab_abb8c9784a.webp"
     },
     {
+      "show_name": "Splitsvilla",
+      "start_time": "9:50 PM",
+      "end_time": "10:45 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p23739137_b_h9_aa_eb75934e1d.webp"
+    },
+    {
       "show_name": "Roadies",
-      "start_time": "11:00 PM",
+      "start_time": "10:45 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27749474_b_h9_aa_65f21f859d.webp"
+    },
+    {
+      "show_name": "Roadies",
+      "start_time": "11:30 PM",
       "end_time": "12:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p25117854_b_h9_ac_d348330d0c.webp"
     }

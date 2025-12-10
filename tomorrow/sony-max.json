@@ -1,66 +1,84 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Movie",
-      "start_time": "12:27 AM",
-      "end_time": "2:47 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "1:08 AM",
+      "end_time": "3:25 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+    },
+    {
+      "show_name": "Extraaa Storiez",
+      "start_time": "3:25 AM",
+      "end_time": "3:47 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p29237953_b_h9_ab_5c33c00ccc.webp"
+    },
+    {
+      "show_name": "Extraaa Storiez",
+      "start_time": "3:47 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p29237953_b_h9_ab_5c33c00ccc.webp"
+    },
+    {
+      "show_name": "Extraaa Storiez",
+      "start_time": "4:00 AM",
+      "end_time": "4:11 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p29237953_b_h9_ab_5c33c00ccc.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "2:47 AM",
-      "end_time": "4:06 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "4:11 AM",
+      "end_time": "5:28 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "4:06 AM",
-      "end_time": "5:37 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "5:28 AM",
+      "end_time": "7:29 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "5:37 AM",
-      "end_time": "7:41 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "7:29 AM",
+      "end_time": "8:58 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "7:41 AM",
-      "end_time": "11:03 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "8:58 AM",
+      "end_time": "11:36 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:03 AM",
-      "end_time": "1:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "11:36 AM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "1:35 PM",
-      "end_time": "4:14 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "2:00 PM",
+      "end_time": "4:45 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "4:14 PM",
+      "start_time": "4:45 PM",
       "end_time": "7:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
       "start_time": "7:50 PM",
-      "end_time": "10:54 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "end_time": "10:33 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:54 PM",
-      "end_time": "1:08 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "10:33 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     }
   ]
 }

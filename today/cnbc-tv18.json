@@ -1,6 +1,6 @@
 {
   "channel_name": "CNBC TV18",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "The Exchange",
@@ -99,10 +99,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617351_b_h9_aa_5a98401a95.webp"
     },
     {
-      "show_name": "Your Stocks",
+      "show_name": "MF Corner",
       "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617838_b_h9_aa_cddbe055d9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617329_b_h9_aa_1c6617d83a.webp"
     },
     {
       "show_name": "NSE Closing Bell",
@@ -111,10 +111,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617370_b_h9_aa_634e305b9f.webp"
     },
     {
-      "show_name": "Investment Guide",
+      "show_name": "NSE Closing Bell",
       "start_time": "3:30 PM",
       "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617242_b_h9_aa_5c8db92366.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617370_b_h9_aa_634e305b9f.webp"
     },
     {
       "show_name": "After The Bell",
@@ -147,10 +147,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617491_b_h9_aa_e9fd25d074.webp"
     },
     {
-      "show_name": "Start Up Street",
+      "show_name": "Young Turks",
       "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617549_b_h9_aa_20956023d3.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cnbc-tv18/today/p27617820_b_h9_aa_ce84c790ba.webp"
     },
     {
       "show_name": "U.S Markets Opening Bell",

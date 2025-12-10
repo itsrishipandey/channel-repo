@@ -1,84 +1,90 @@
 {
   "channel_name": "Zee TV",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "12:01 AM",
-      "end_time": "12:24 AM",
+      "start_time": "12:03 AM",
+      "end_time": "12:25 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p31048787_b_h9_aa_2a410f5292.webp"
     },
     {
       "show_name": "Jaane Anjaane Hum Mile",
-      "start_time": "12:24 AM",
-      "end_time": "12:49 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28718993_b_h9_aa_8f1ae3a0d9.webp"
+      "start_time": "12:25 AM",
+      "end_time": "12:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28717999_b_h9_ab_0647253091.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "12:49 AM",
-      "end_time": "1:34 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "start_time": "12:50 AM",
+      "end_time": "1:15 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
+    },
+    {
+      "show_name": "Tum Se Tum Tak",
+      "start_time": "1:15 AM",
+      "end_time": "1:35 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "1:34 AM",
-      "end_time": "1:58 AM",
+      "start_time": "1:35 AM",
+      "end_time": "1:59 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p31048787_b_h9_aa_2a410f5292.webp"
     },
     {
       "show_name": "Vasudha",
-      "start_time": "1:58 AM",
-      "end_time": "2:22 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "start_time": "1:59 AM",
+      "end_time": "2:23 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "2:22 AM",
-      "end_time": "2:46 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306552_b_h9_aa_c7c72ef663.webp"
+      "start_time": "2:23 AM",
+      "end_time": "2:47 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306541_b_h9_ab_edd0e645bb.webp"
     },
     {
       "show_name": "Saru",
-      "start_time": "2:46 AM",
-      "end_time": "3:11 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30187745_b_h9_aa_7faa7d7daa.webp"
+      "start_time": "2:47 AM",
+      "end_time": "3:12 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30133051_b_h9_ab_fa13e3936f.webp"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "3:11 AM",
-      "end_time": "3:34 AM",
+      "start_time": "3:12 AM",
+      "end_time": "3:36 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p31048787_b_h9_aa_2a410f5292.webp"
     },
     {
       "show_name": "Vasudha",
-      "start_time": "3:34 AM",
+      "start_time": "3:36 AM",
       "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
-      "show_name": "Baba Ramdev Ka Yog",
+      "show_name": "Baba Ramdev",
       "start_time": "4:00 AM",
-      "end_time": "4:48 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p8521168_b_h9_aa_c956dbc1fe.webp"
+      "end_time": "4:49 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p582356_b_h9_aa_86c41f6801.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "4:48 AM",
+      "start_time": "4:49 AM",
       "end_time": "5:12 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "5:12 AM",
       "end_time": "5:37 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306552_b_h9_aa_c7c72ef663.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306541_b_h9_ab_edd0e645bb.webp"
     },
     {
       "show_name": "Vasudha",
       "start_time": "5:37 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "TWR Satyavachan",
@@ -102,7 +108,7 @@
       "show_name": "Tum Se Tum Tak",
       "start_time": "7:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Jagadhatri",
@@ -120,13 +126,13 @@
       "show_name": "Vasudha",
       "start_time": "9:00 AM",
       "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Jagadhatri",
@@ -144,13 +150,13 @@
       "show_name": "Vasudha",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Jagadhatri",
@@ -168,13 +174,13 @@
       "show_name": "Saru",
       "start_time": "1:00 PM",
       "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30187745_b_h9_aa_7faa7d7daa.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30133051_b_h9_ab_fa13e3936f.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "1:30 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Trinayani",
@@ -186,13 +192,13 @@
       "show_name": "Vasudha",
       "start_time": "6:00 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -204,19 +210,19 @@
       "show_name": "Saru",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30187745_b_h9_aa_7faa7d7daa.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30133051_b_h9_ab_fa13e3936f.webp"
     },
     {
       "show_name": "Jaane Anjaane Hum Mile",
       "start_time": "8:00 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28718993_b_h9_aa_8f1ae3a0d9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28717999_b_h9_ab_0647253091.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -228,7 +234,7 @@
       "show_name": "Vasudha",
       "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     },
     {
       "show_name": "Jagadhatri",
@@ -240,19 +246,19 @@
       "show_name": "Jagriti - Ek Nayi Subah",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306552_b_h9_aa_c7c72ef663.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28306541_b_h9_ab_edd0e645bb.webp"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30559141_b_h9_aa_53c9a79f2a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p30514065_b_h9_ac_efa511a2cc.webp"
     },
     {
       "show_name": "Vasudha",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28249714_b_h9_aa_3d642606f0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/zee-tv/today/p28225153_b_h9_ac_5439267b00.webp"
     }
   ]
 }

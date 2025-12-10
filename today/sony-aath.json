@@ -1,18 +1,24 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Teleshopping",
+      "show_name": "CID",
+      "start_time": "12:00 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p10082803_b_h9_ab_93e291a7a0.webp"
+    },
+    {
+      "show_name": "Crime Patrol",
       "start_time": "1:00 AM",
       "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22352387_b_h9_ae_df82b7173b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p23847536_b_h9_aa_4005ebf6c4.webp"
     },
     {
       "show_name": "Crime Patrol",
       "start_time": "2:00 AM",
       "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p9596798_b_h9_ac_aa9259e14c.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p23847536_b_h9_aa_4005ebf6c4.webp"
     },
     {
       "show_name": "Nut Boltu",
@@ -21,22 +27,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22654625_b_h9_aa_cc56d9648c.webp"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Movie",
       "start_time": "5:00 AM",
       "end_time": "7:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22352387_b_h9_ae_df82b7173b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Nix",
       "start_time": "7:00 AM",
       "end_time": "7:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22352387_b_h9_ae_df82b7173b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p13225379_b_h9_aa_dffac54572.webp"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Nix",
       "start_time": "7:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22352387_b_h9_ae_df82b7173b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p13225379_b_h9_aa_dffac54572.webp"
     },
     {
       "show_name": "Nut Boltu",
@@ -54,19 +60,19 @@
       "show_name": "Gopal Bhar",
       "start_time": "9:00 AM",
       "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22654478_b_h9_aa_20914c1164.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p11899458_b_h9_aa_1b106615b6.webp"
     },
     {
       "show_name": "Gopal Bhar",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22654478_b_h9_aa_20914c1164.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p11899458_b_h9_aa_1b106615b6.webp"
     },
     {
       "show_name": "Gopal Bhar",
       "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p22654478_b_h9_aa_20914c1164.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p11899458_b_h9_aa_1b106615b6.webp"
     },
     {
       "show_name": "Gultemama",
@@ -179,7 +185,7 @@
     {
       "show_name": "CID",
       "start_time": "11:00 PM",
-      "end_time": "1:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-aath/today/p10082803_b_h9_ab_93e291a7a0.webp"
     }
   ]

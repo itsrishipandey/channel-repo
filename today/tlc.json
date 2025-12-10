@@ -1,6 +1,6 @@
 {
   "channel_name": "TLC",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Say Yes to the Dress",
@@ -33,22 +33,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p20101613_b_h9_ab_4410eb3ba5.webp"
     },
     {
-      "show_name": "Say Yes to the Dress",
+      "show_name": "Say Yes to the Dress UK",
       "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p14969756_b_h9_ae_90272ad1f2.webp"
+    },
+    {
+      "show_name": "Say Yes to the Dress UK",
+      "start_time": "3:30 AM",
       "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p17777078_b_h9_aa_e02cde8c4f.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p14969756_b_h9_ae_90272ad1f2.webp"
     },
     {
-      "show_name": "90 Day: The Single Life",
+      "show_name": "90 Day Fiancé: The Other Way",
       "start_time": "4:00 AM",
-      "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p19507036_b_h9_aa_af543e8fb2.webp"
-    },
-    {
-      "show_name": "Virgins",
-      "start_time": "5:00 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p30170388_b_h9_ab_b811ff1a36.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p23894583_b_h9_aa_4f38f3cce5.webp"
     },
     {
       "show_name": "Food Paradise",
@@ -153,10 +153,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p12768207_b_h9_ac_ed32a1883c.webp"
     },
     {
-      "show_name": "Say Yes to the Dress",
+      "show_name": "Say Yes to the Dress UK",
       "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p14969756_b_h9_ae_90272ad1f2.webp"
+    },
+    {
+      "show_name": "Say Yes to the Dress UK",
+      "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p17777078_b_h9_aa_e02cde8c4f.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p14969756_b_h9_ae_90272ad1f2.webp"
     },
     {
       "show_name": "Cake Boss",
@@ -171,16 +177,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p17036703_b_h9_aa_22533c60ca.webp"
     },
     {
-      "show_name": "Rental Redo",
+      "show_name": "Design Down Under",
       "start_time": "8:00 PM",
-      "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p21299439_b_h9_aa_aff71cca95.webp"
-    },
-    {
-      "show_name": "Point of View: A Designer Profile",
-      "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p20101613_b_h9_ab_4410eb3ba5.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tlc/today/p25336906_b_h9_ab_25d1f5cbc1.webp"
     },
     {
       "show_name": "Say Yes to the Dress UK",
