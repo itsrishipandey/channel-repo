@@ -1,36 +1,18 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Dushmano Ka Dushman",
-      "start_time": "1:09 AM",
-      "end_time": "3:10 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p14139337_v_h9_aa_4463c72239.webp"
+      "show_name": "Pati Patni Aur Woh",
+      "start_time": "12:52 AM",
+      "end_time": "2:53 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p17661756_v_h9_aa_5b37220370.webp"
     },
     {
-      "show_name": "Comedy Station",
-      "start_time": "3:10 AM",
-      "end_time": "3:19 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "3:19 AM",
-      "end_time": "3:32 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "3:32 AM",
-      "end_time": "3:47 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "3:47 AM",
+      "show_name": "Apradhi Kaun?",
+      "start_time": "2:53 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p15168346_v_h9_aa_47daacd25a.webp"
     },
     {
       "show_name": "Movie",
@@ -65,7 +47,7 @@
     {
       "show_name": "Movie",
       "start_time": "9:00 PM",
-      "end_time": "1:08 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_bq_119e7d60e0.webp"
     }
   ]

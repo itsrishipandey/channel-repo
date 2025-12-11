@@ -1,6 +1,6 @@
 {
   "channel_name": "BBC News",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "The World Today with Maryam Moshiri",
@@ -21,10 +21,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p26773890_b_h9_aa_6335a09567.webp"
     },
     {
-      "show_name": "Talking Movies",
+      "show_name": "The Travel Show",
       "start_time": "1:25 AM",
       "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p499183_b_h9_ac_e41543aff6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
     },
     {
       "show_name": "The Context",
@@ -51,10 +51,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p30659309_b_h9_aa_75d5ca83bb.webp"
     },
     {
-      "show_name": "Talking Movies",
+      "show_name": "The Travel Show",
       "start_time": "3:25 AM",
       "end_time": "3:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p499183_b_h9_ac_e41543aff6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
     },
     {
       "show_name": "BBC World News America",
@@ -63,16 +63,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p208539_b_h9_af_4dd5b51786.webp"
     },
     {
-      "show_name": "Newsnight",
+      "show_name": "Talking Business",
       "start_time": "4:00 AM",
       "end_time": "4:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p269693_b_h9_ae_573222bf49.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p11861669_b_h9_ad_668c345f74.webp"
     },
     {
       "show_name": "BBC World News America",
       "start_time": "4:30 AM",
-      "end_time": "5:30 AM",
+      "end_time": "5:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p208539_b_h9_af_4dd5b51786.webp"
+    },
+    {
+      "show_name": "The President's Path",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p28270931_b_h9_ab_1e15ba24f5.webp"
     },
     {
       "show_name": "BBC News",
@@ -81,10 +87,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Newscast",
+      "show_name": "Tech Now",
       "start_time": "6:00 AM",
       "end_time": "6:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p17872906_b_h9_ac_dffb872665.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p29377809_b_h9_ac_675cee61f4.webp"
     },
     {
       "show_name": "BBC News",
@@ -93,64 +99,46 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "The Media Show",
+      "show_name": "Nobel Minds",
       "start_time": "7:00 AM",
       "end_time": "7:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p26195234_b_h9_aa_608af7b7c2.webp"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
+    },
+    {
+      "show_name": "World Questions",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p19077841_b_h9_aa_69a0f094fa.webp"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
+    },
+    {
+      "show_name": "The Media Show",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p19017636_b_h9_aa_ee6eb0b621.webp"
     },
     {
-      "show_name": "Newsday",
-      "start_time": "7:30 AM",
-      "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8702243_b_h9_ah_c47b388526.webp"
-    },
-    {
-      "show_name": "Business Today",
-      "start_time": "8:00 AM",
-      "end_time": "8:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "BBC Sport",
-      "start_time": "8:15 AM",
-      "end_time": "8:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p15797626_b_h9_ac_5b2ce4a290.webp"
-    },
-    {
-      "show_name": "Newsday",
-      "start_time": "8:30 AM",
-      "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8702243_b_h9_ah_c47b388526.webp"
-    },
-    {
-      "show_name": "Business Today",
-      "start_time": "9:00 AM",
-      "end_time": "9:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "BBC Sport",
-      "start_time": "9:15 AM",
-      "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p15797626_b_h9_ac_5b2ce4a290.webp"
-    },
-    {
-      "show_name": "Newsday",
+      "show_name": "BBC News",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8702243_b_h9_ah_c47b388526.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "The Travel Show",
       "start_time": "10:00 AM",
-      "end_time": "10:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "BBC Sport",
-      "start_time": "10:15 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p15797626_b_h9_ac_5b2ce4a290.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p23438486_b_h9_aa_8b22a91a76.webp"
     },
     {
       "show_name": "BBC News",
@@ -159,10 +147,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "AI Decoded",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p29970379_b_h9_ad_868adce258.webp"
     },
     {
       "show_name": "BBC News",
@@ -171,16 +159,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "Tech Now",
       "start_time": "12:00 PM",
-      "end_time": "12:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "12:25 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p29377809_b_h9_ac_675cee61f4.webp"
     },
     {
       "show_name": "BBC News",
@@ -189,16 +171,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "Nobel Minds",
       "start_time": "1:00 PM",
-      "end_time": "1:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "1:25 PM",
       "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p26195234_b_h9_aa_608af7b7c2.webp"
     },
     {
       "show_name": "BBC News",
@@ -207,28 +183,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "BBC News",
+      "show_name": "Global Eye",
       "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
       "show_name": "BBC News",
       "start_time": "2:30 PM",
-      "end_time": "3:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
-    },
-    {
-      "show_name": "BBC News",
-      "start_time": "3:00 PM",
-      "end_time": "3:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "3:25 PM",
       "end_time": "3:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
       "show_name": "BBC News",
@@ -237,10 +201,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "BBC News",
+      "show_name": "Talking Business",
       "start_time": "4:00 PM",
       "end_time": "4:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p11861669_b_h9_ad_668c345f74.webp"
     },
     {
       "show_name": "BBC News",
@@ -249,118 +213,82 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "Ukrainecast",
       "start_time": "5:00 PM",
-      "end_time": "5:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
+      "end_time": "5:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p21903512_b_h9_ab_f722621ac4.webp"
     },
     {
       "show_name": "BBC News",
-      "start_time": "5:15 PM",
-      "end_time": "5:25 PM",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "The Travel Show",
-      "start_time": "5:25 PM",
-      "end_time": "5:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
-    },
-    {
-      "show_name": "BBC News Now",
-      "start_time": "5:30 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
-    },
-    {
-      "show_name": "BBC News Now",
+      "show_name": "Arts in Motion",
       "start_time": "6:00 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27774952_b_h9_aa_f94ca2e0b3.webp"
     },
     {
-      "show_name": "BBC News Now",
+      "show_name": "BBC News",
       "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "BBC News Now",
+      "show_name": "AI Decoded",
       "start_time": "7:00 PM",
-      "end_time": "7:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "7:25 PM",
       "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p29970379_b_h9_ad_868adce258.webp"
     },
     {
-      "show_name": "BBC News Now",
+      "show_name": "BBC News",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Business Today",
+      "show_name": "The Media Show",
       "start_time": "8:00 PM",
-      "end_time": "8:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p27282827_b_h9_ag_04faa374d1.webp"
-    },
-    {
-      "show_name": "BBC News Now",
-      "start_time": "8:15 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753781_b_h9_ab_9b4839cdf1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p19017636_b_h9_aa_ee6eb0b621.webp"
     },
     {
-      "show_name": "Verified Live",
+      "show_name": "BBC News",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753790_b_h9_ac_89b8c91c68.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Verified Live",
+      "show_name": "World Questions",
       "start_time": "9:00 PM",
       "end_time": "9:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753790_b_h9_ac_89b8c91c68.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p19077841_b_h9_aa_69a0f094fa.webp"
     },
     {
-      "show_name": "Verified Live",
+      "show_name": "BBC News",
       "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753790_b_h9_ac_89b8c91c68.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "Verified Live",
+      "show_name": "Jordan Bardella; Political Thinking with Nick Robinson",
       "start_time": "10:00 PM",
-      "end_time": "10:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753790_b_h9_ac_89b8c91c68.webp"
-    },
-    {
-      "show_name": "The Travel Show",
-      "start_time": "10:25 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p10525316_b_h9_ac_07fa9af0b4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p14986697_b_h9_ab_0f3a3f9668.webp"
     },
     {
-      "show_name": "Verified Live",
+      "show_name": "BBC News",
       "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p24753790_b_h9_ac_89b8c91c68.webp"
-    },
-    {
-      "show_name": "Focus on Africa",
-      "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p11232982_b_h9_ab_3e3a1f24fc.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     },
     {
-      "show_name": "The World Today with Maryam Moshiri",
+      "show_name": "BBC News",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p26773890_b_h9_aa_6335a09567.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/bbc-world-news/tomorrow/p8133775_b_h9_ab_465014e7a0.webp"
     }
   ]
 }

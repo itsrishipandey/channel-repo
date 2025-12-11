@@ -1,6 +1,6 @@
 {
   "channel_name": "Mirror Now",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "The Urban Debate",
@@ -167,8 +167,14 @@
     {
       "show_name": "9 PM Nation Tonight",
       "start_time": "9:00 PM",
-      "end_time": "10:00 PM",
+      "end_time": "9:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mirror-now/today/p29051503_b_h9_aa_bc96e7afb1.webp"
+    },
+    {
+      "show_name": "Global Mirror",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mirror-now/today/p29052064_b_h9_aa_77df65f3d7.webp"
     },
     {
       "show_name": "Beyond The Headline",

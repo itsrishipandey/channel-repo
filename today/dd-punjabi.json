@@ -1,36 +1,30 @@
 {
   "channel_name": "DD Punjabi",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Hulle Hulare",
+      "show_name": "Geet Bahar",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944706_b_h9_aa_b4fddbd182.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
     },
     {
-      "show_name": "Shabad Lok",
+      "show_name": "Rawayati Sangeet",
       "start_time": "12:30 AM",
       "end_time": "1:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946240_b_h9_aa_68ef44e2ca.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945659_b_h9_aa_433a70418d.webp"
     },
     {
-      "show_name": "Sanjh Suran Di",
+      "show_name": "Mehfil",
       "start_time": "1:00 AM",
       "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945750_b_h9_aa_a5c344449b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p27198821_b_h9_aa_2cafcb8808.webp"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Nachiye Gayiye Shagan Manayiye",
       "start_time": "2:00 AM",
-      "end_time": "2:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
-    },
-    {
-      "show_name": "Teri Meri Tu Tu Main Main",
-      "start_time": "2:45 AM",
       "end_time": "3:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907586_b_h9_aa_4a4f290754.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945431_b_h9_aa_ca4765bcb7.webp"
     },
     {
       "show_name": "Kavishree/Dhadiwarran",
@@ -45,34 +39,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907770_b_h9_aa_bd99e06b0e.webp"
     },
     {
-      "show_name": "Bhakti Sangeet",
+      "show_name": "Shabad Kirtan",
       "start_time": "5:30 AM",
-      "end_time": "5:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28931625_b_h9_aa_8cff688292.webp"
-    },
-    {
-      "show_name": "Bhakti Sangeet",
-      "start_time": "5:45 AM",
       "end_time": "6:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28931625_b_h9_aa_8cff688292.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907960_b_h9_aa_34c7cd6132.webp"
     },
     {
       "show_name": "Shabad Vichar",
       "start_time": "6:15 AM",
-      "end_time": "6:40 AM",
+      "end_time": "6:45 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p9589446_b_h9_aa_7ac9610851.webp"
     },
     {
-      "show_name": "Bhakti Sangeet",
-      "start_time": "6:40 AM",
-      "end_time": "7:10 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28931625_b_h9_aa_8cff688292.webp"
-    },
-    {
-      "show_name": "Bhakti Sangeet",
-      "start_time": "7:10 AM",
+      "show_name": "Satsangat Mile So Tarey",
+      "start_time": "6:45 AM",
       "end_time": "7:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28931625_b_h9_aa_8cff688292.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946074_b_h9_aa_4ed3820fb4.webp"
     },
     {
       "show_name": "Sanskrit News",
@@ -81,10 +63,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28802726_b_h9_aa_97ce08c616.webp"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Sachhi Baani",
       "start_time": "7:30 AM",
       "end_time": "7:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945735_b_h9_aa_bdab476b54.webp"
     },
     {
       "show_name": "Ajj Da Vichar",
@@ -93,64 +75,76 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943772_b_h9_ab_59969daef6.webp"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Shabad Vichar",
       "start_time": "8:00 AM",
       "end_time": "8:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p9589446_b_h9_aa_7ac9610851.webp"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "So Than Sohawa",
       "start_time": "8:15 AM",
-      "end_time": "8:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p850566_b_h9_aa_250df02e8b.webp"
-    },
-    {
-      "show_name": "Sachi Bani",
-      "start_time": "8:30 AM",
       "end_time": "8:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946258_b_h9_aa_7c38f63efc.webp"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "Aur Ek Kahani",
       "start_time": "8:40 AM",
-      "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p850566_b_h9_aa_250df02e8b.webp"
+      "end_time": "9:15 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943849_b_h9_aa_e384d412a7.webp"
     },
     {
-      "show_name": "Sachi Bani",
-      "start_time": "9:00 AM",
-      "end_time": "12:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_name": "Hing Lage Na Fatkari",
+      "start_time": "9:15 AM",
+      "end_time": "9:35 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944689_b_h9_aa_40210acee6.webp"
     },
     {
-      "show_name": "Sachi Bani",
-      "start_time": "12:15 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_name": "Geetanjali",
+      "start_time": "9:35 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944521_b_h9_aa_32154fa2e6.webp"
     },
     {
-      "show_name": "Mera Pind Mere Khet",
-      "start_time": "12:30 PM",
+      "show_name": "Hing Lage Na Fatkari",
+      "start_time": "10:00 AM",
+      "end_time": "10:10 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944689_b_h9_aa_40210acee6.webp"
+    },
+    {
+      "show_name": "Vigyan Prasar",
+      "start_time": "10:10 AM",
+      "end_time": "10:35 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28932196_b_h9_aa_334e4b1fdf.webp"
+    },
+    {
+      "show_name": "Aur Ek Kahani",
+      "start_time": "10:35 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943849_b_h9_aa_e384d412a7.webp"
+    },
+    {
+      "show_name": "Vigyan Prasar",
+      "start_time": "11:00 AM",
       "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945365_b_h9_aa_70f74de1c4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28932196_b_h9_aa_334e4b1fdf.webp"
     },
     {
-      "show_name": "Sachi Bani",
+      "show_name": "Ajj Di Gal",
       "start_time": "1:00 PM",
       "end_time": "1:10 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907930_b_h9_aa_47b373e5a1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943815_b_h9_aa_b5d207d531.webp"
     },
     {
-      "show_name": "Rituraj Basant",
+      "show_name": "Gallan Te Geet",
       "start_time": "1:10 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945680_b_h9_aa_0f3c2ee5f1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944502_b_h9_aa_74c9f3896f.webp"
     },
     {
-      "show_name": "Ajadi Di Rooh Jallian Wala Bagh",
+      "show_name": "Ajj Di Gal",
       "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943756_b_h9_aa_8a69d9838e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943815_b_h9_aa_b5d207d531.webp"
     },
     {
       "show_name": "Peeley Patteya Di Dastan",
@@ -165,16 +159,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p19013496_b_h9_ab_41d4cc9c27.webp"
     },
     {
-      "show_name": "Sat Guru Ram Singh Ji Da Jiwan Ate Falsafa",
+      "show_name": "Ek Bharat Shreshtha Bharat",
       "start_time": "3:05 PM",
       "end_time": "3:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945767_b_h9_aa_e569cf5738.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p19055577_b_h9_aa_0fc010525c.webp"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "Wirasat",
       "start_time": "3:30 PM",
       "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946368_b_h9_aa_7c3511d25e.webp"
     },
     {
       "show_name": "DDK Chandigarh",
@@ -183,10 +177,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944273_b_h9_aa_cb9958a3e4.webp"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "Wirasat",
       "start_time": "5:00 PM",
       "end_time": "5:05 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946368_b_h9_aa_7c3511d25e.webp"
     },
     {
       "show_name": "Shabad Kirtan",
@@ -201,52 +195,46 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945365_b_h9_aa_70f74de1c4.webp"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "Songs",
       "start_time": "6:00 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28386741_b_h9_aa_afccaadbda.webp"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "Pagal Lok",
       "start_time": "6:30 PM",
       "end_time": "6:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945475_b_h9_aa_f01aa69e5b.webp"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "Songs",
       "start_time": "6:45 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p850566_b_h9_aa_250df02e8b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28386741_b_h9_aa_afccaadbda.webp"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Pagal Lok",
       "start_time": "7:00 PM",
-      "end_time": "7:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946396_b_h9_aa_cdd4934d81.webp"
-    },
-    {
-      "show_name": "Teri Meri Tu Tu Main Main",
-      "start_time": "7:15 PM",
       "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28907586_b_h9_aa_4a4f290754.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945475_b_h9_aa_f01aa69e5b.webp"
     },
     {
-      "show_name": "Wirasat Basant Panchami",
+      "show_name": "Dhamak Punjab Di",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946347_b_h9_aa_47833d0056.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p650445_b_h9_aa_21ceb73ad3.webp"
     },
     {
-      "show_name": "Chhankar",
+      "show_name": "Rooh Punjab Di",
       "start_time": "8:00 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944194_b_h9_aa_7359a8dd2b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p13713610_b_h9_aa_ee805a2d18.webp"
     },
     {
-      "show_name": "Kangna",
+      "show_name": "Hulle Hulare",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945111_b_h9_aa_b9f428c6cd.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944706_b_h9_aa_b4fddbd182.webp"
     },
     {
       "show_name": "Peeley Patteya Di Dastan",
@@ -255,22 +243,40 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28945605_b_h9_aa_24f5c289a4.webp"
     },
     {
-      "show_name": "Geet Bahar",
+      "show_name": "Rooh Punjab Di",
       "start_time": "9:30 PM",
       "end_time": "9:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944544_b_h9_aa_e9832c9ba6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p13713610_b_h9_aa_ee805a2d18.webp"
     },
     {
-      "show_name": "Patriotic Songs",
+      "show_name": "Hing Lage Na Fatkari",
       "start_time": "9:45 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p850566_b_h9_aa_250df02e8b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944689_b_h9_aa_40210acee6.webp"
     },
     {
-      "show_name": "Gaddar Di Goonj",
+      "show_name": "Gallan Te Geet",
       "start_time": "10:00 PM",
+      "end_time": "10:40 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944502_b_h9_aa_74c9f3896f.webp"
+    },
+    {
+      "show_name": "Ek Bharat Shreshtha Bharat",
+      "start_time": "10:40 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p19055577_b_h9_aa_0fc010525c.webp"
+    },
+    {
+      "show_name": "Aur Ek Kahani",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28943849_b_h9_aa_e384d412a7.webp"
+    },
+    {
+      "show_name": "Wirasat",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28944430_b_h9_aa_8d452b2f02.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-punjabi/today/p28946368_b_h9_aa_7c3511d25e.webp"
     }
   ]
 }

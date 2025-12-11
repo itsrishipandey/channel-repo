@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Gujarati",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Bhagyalaxmi",
@@ -183,10 +183,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati/tomorrow/p20084953_b_h9_ae_4763eb3bbf.webp"
     },
     {
-      "show_name": "Naagin",
+      "show_name": "Gujarat Gatha",
       "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati/tomorrow/p20935916_b_h9_aa_f6267d45ad.webp"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati/tomorrow/p12613104_b_h9_ab_14ad24f39e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati/tomorrow/p16041045_b_h9_ab_d1ec6a7ab6.webp"
     },
     {
       "show_name": "Radha Krishna",

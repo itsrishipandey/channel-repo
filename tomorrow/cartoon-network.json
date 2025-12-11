@@ -1,7 +1,13 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
+    {
+      "show_name": "Courage the Cowardly Dog",
+      "start_time": "12:00 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p186142_b_h9_ah_da547dd6be.webp"
+    },
     {
       "show_name": "One Piece",
       "start_time": "1:00 AM",
@@ -33,86 +39,98 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p10478306_b_h9_bb_d868adfc78.webp"
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "7:00 AM",
       "end_time": "7:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p446157_b_h9_bc_e40cb909a6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "7:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p446157_b_h9_bc_e40cb909a6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "8:00 AM",
       "end_time": "8:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p446157_b_h9_bc_e40cb909a6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "8:30 AM",
-      "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p446157_b_h9_bc_e40cb909a6.webp"
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Mr. Bean: The Animated Series",
+      "show_name": "Grizzy and the Lemmings",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+    },
+    {
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p446157_b_h9_bc_e40cb909a6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Grizzy and the Lemmings",
       "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+    },
+    {
+      "show_name": "Grizzy and the Lemmings",
+      "start_time": "11:00 AM",
+      "end_time": "11:20 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+    },
+    {
+      "show_name": "Grizzy and the Lemmings",
+      "start_time": "11:20 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
       "show_name": "Teen Titans GO!",
       "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
-    },
-    {
-      "show_name": "Teen Titans GO!",
-      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "12:30 PM",
       "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "1:30 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+    },
+    {
+      "show_name": "Ekans Takshak ka Abhishap",
+      "start_time": "2:00 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28427762_b_h9_aa_d194f46b63.webp"
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Ekans: Mystery of Three Gems",
       "start_time": "2:30 PM",
-      "end_time": "3:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p26987992_b_h9_aa_0ed1e4259a.webp"
     },
     {
       "show_name": "Teen Titans GO!",
-      "start_time": "3:00 PM",
-      "end_time": "3:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
-    },
-    {
-      "show_name": "Teen Titans GO!",
-      "start_time": "3:30 PM",
+      "start_time": "4:00 PM",
       "end_time": "4:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
@@ -143,44 +161,44 @@
     {
       "show_name": "Teen Titans GO!",
       "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+    },
+    {
+      "show_name": "Teen Titans GO!",
+      "start_time": "8:00 PM",
       "end_time": "8:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "8:30 PM",
-      "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
-    },
-    {
-      "show_name": "Bandbudh Aur Budbak",
-      "start_time": "9:00 PM",
       "end_time": "9:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Bandbudh Aur Budbak",
+      "show_name": "Teen Titans GO!",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28539350_b_h9_aa_d495764199.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "My Hero Academia",
+      "show_name": "Teen Titans GO!",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p12793542_b_h9_aj_0fcd8c2510.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "My Hero Academia",
+      "show_name": "Teen Titans GO!",
       "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p12793542_b_h9_aj_0fcd8c2510.webp"
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     }
   ]
 }

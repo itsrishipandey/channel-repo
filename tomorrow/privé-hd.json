@@ -1,113 +1,101 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Movie",
-      "start_time": "1:30 AM",
-      "end_time": "3:05 AM",
+      "start_time": "1:55 AM",
+      "end_time": "3:20 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "DWM",
-      "start_time": "3:05 AM",
-      "end_time": "3:55 AM",
+      "start_time": "3:20 AM",
+      "end_time": "4:10 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p30911218_b_h9_aa_0f1e8c4c0e.webp"
     },
     {
       "show_name": "DWM",
-      "start_time": "3:55 AM",
-      "end_time": "4:45 AM",
+      "start_time": "4:10 AM",
+      "end_time": "5:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p30911218_b_h9_aa_0f1e8c4c0e.webp"
     },
     {
       "show_name": "DWM",
-      "start_time": "4:45 AM",
-      "end_time": "5:35 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p30911218_b_h9_aa_0f1e8c4c0e.webp"
-    },
-    {
-      "show_name": "Cvf",
-      "start_time": "5:35 AM",
+      "start_time": "5:00 AM",
       "end_time": "5:50 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p30650498_b_h9_aa_03bd5ad9af.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p30911218_b_h9_aa_0f1e8c4c0e.webp"
     },
     {
       "show_name": "Movie",
       "start_time": "5:50 AM",
-      "end_time": "7:55 AM",
+      "end_time": "7:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "7:55 AM",
-      "end_time": "9:10 AM",
+      "start_time": "7:00 AM",
+      "end_time": "8:40 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "9:10 AM",
-      "end_time": "10:35 AM",
+      "start_time": "8:40 AM",
+      "end_time": "10:15 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:35 AM",
-      "end_time": "12:20 PM",
+      "start_time": "10:15 AM",
+      "end_time": "11:35 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "12:20 PM",
-      "end_time": "1:45 PM",
+      "start_time": "11:35 AM",
+      "end_time": "1:40 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "1:45 PM",
-      "end_time": "3:00 PM",
+      "start_time": "1:40 PM",
+      "end_time": "3:05 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "3:00 PM",
+      "start_time": "3:05 PM",
       "end_time": "4:40 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
       "start_time": "4:40 PM",
-      "end_time": "6:25 PM",
+      "end_time": "6:05 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "6:25 PM",
-      "end_time": "7:40 PM",
+      "start_time": "6:05 PM",
+      "end_time": "7:20 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "7:40 PM",
+      "start_time": "7:20 PM",
       "end_time": "9:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
       "start_time": "9:00 PM",
-      "end_time": "10:35 PM",
+      "end_time": "10:55 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:35 PM",
-      "end_time": "11:55 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "11:55 PM",
-      "end_time": "1:55 AM",
+      "start_time": "10:55 PM",
+      "end_time": "12:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     }
   ]
