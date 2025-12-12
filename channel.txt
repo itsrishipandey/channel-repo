@@ -78,3 +78,5 @@
 142632= Amrita TV
 142637= and Pictures
 142505= Aadinath
+142548= Adithya TV
+159135= Al Jazeera English
