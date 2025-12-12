@@ -80,3 +80,6 @@
 142505= Aadinath
 142548= Adithya TV
 159135= Al Jazeera English
+157574= Animal Planet
+142649= Aradana TV
+142668= Asianet
