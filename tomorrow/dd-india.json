@@ -1,6 +1,6 @@
 {
   "channel_name": "DD India",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "The Economic Brief",
@@ -9,10 +9,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p27890276_b_h9_aa_cbc7fa824d.webp"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "Eco India",
       "start_time": "12:30 AM",
       "end_time": "1:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p13402395_b_h9_aa_e69b34c361.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p22376489_b_h9_aa_49d5c495b1.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -21,16 +21,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
     },
     {
-      "show_name": "Voice of the Global South",
+      "show_name": "Indian Diplomacy",
       "start_time": "2:00 AM",
       "end_time": "2:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25978359_b_h9_aa_b2f663bd5e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p24937525_b_h9_aa_39cf89a832.webp"
     },
     {
-      "show_name": "Connecting the Dots",
+      "show_name": "Media Scan",
       "start_time": "2:30 AM",
       "end_time": "3:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p26015708_b_h9_aa_8d42232866.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25262339_b_h9_aa_082fc46389.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -39,16 +39,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
     },
     {
-      "show_name": "Eco India",
+      "show_name": "Defence Dynamics",
       "start_time": "4:00 AM",
       "end_time": "4:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p22376489_b_h9_aa_49d5c495b1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p27682276_b_h9_aa_1b4367a85f.webp"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "Voice of the Global South",
       "start_time": "4:30 AM",
       "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p13402395_b_h9_aa_e69b34c361.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25978359_b_h9_aa_b2f663bd5e.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -75,22 +75,34 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p224191_b_h9_aa_e2ca28a172.webp"
     },
     {
-      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "show_name": "DD India",
       "start_time": "7:30 AM",
       "end_time": "8:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p224191_b_h9_aa_e2ca28a172.webp"
+    },
+    {
+      "show_name": "Indian Diplomacy",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p24937525_b_h9_aa_39cf89a832.webp"
+    },
+    {
+      "show_name": "Media Scan",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25262339_b_h9_aa_082fc46389.webp"
+    },
+    {
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28813358_b_h9_ac_4f27f9104f.webp"
     },
     {
-      "show_name": "DD India News Hour",
-      "start_time": "8:00 AM",
-      "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "9:00 AM",
+      "show_name": "Voice of the Global South",
+      "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25978359_b_h9_aa_b2f663bd5e.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -99,28 +111,40 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
     },
     {
-      "show_name": "DD India News Hour",
+      "show_name": "Mann Ki Baat Prime Minister Broadcast on All India Radio",
       "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "12:00 PM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
+      "end_time": "11:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p11827198_b_h9_aa_c4095ee688.webp"
     },
     {
       "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-      "start_time": "1:00 PM",
-      "end_time": "1:30 PM",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28813365_b_h9_aa_5a90674268.webp"
     },
     {
-      "show_name": "Indian Diplomacy",
+      "show_name": "DD India",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p224191_b_h9_aa_e2ca28a172.webp"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "12:30 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p224191_b_h9_aa_e2ca28a172.webp"
+    },
+    {
+      "show_name": "Wellness Watch",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p13402395_b_h9_aa_e69b34c361.webp"
+    },
+    {
+      "show_name": "Connecting the Dots",
       "start_time": "1:30 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p24937525_b_h9_aa_39cf89a832.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p26015708_b_h9_aa_8d42232866.webp"
     },
     {
       "show_name": "DD India",
@@ -141,10 +165,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28813358_b_h9_ac_4f27f9104f.webp"
     },
     {
-      "show_name": "Defence Dynamics",
+      "show_name": "Indian Diplomacy",
       "start_time": "3:30 PM",
       "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p27682276_b_h9_aa_1b4367a85f.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p24937525_b_h9_aa_39cf89a832.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -153,16 +177,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25410278_b_h9_ad_4aa1375b93.webp"
     },
     {
-      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "show_name": "Eco India",
       "start_time": "5:00 PM",
       "end_time": "5:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28822506_b_h9_aa_4291686f41.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p22376489_b_h9_aa_49d5c495b1.webp"
     },
     {
-      "show_name": "Connecting the Dots",
+      "show_name": "The Economic Brief-Rio Summit Spl",
       "start_time": "5:30 PM",
       "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p26015708_b_h9_aa_8d42232866.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28812160_b_h9_aa_b98a3091a6.webp"
     },
     {
       "show_name": "DD India",
@@ -183,22 +207,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25978359_b_h9_aa_b2f663bd5e.webp"
     },
     {
-      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "show_name": "International Cooperative Alliance",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28813365_b_h9_aa_5a90674268.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28827958_b_h9_aa_7a8d43e48a.webp"
     },
     {
-      "show_name": "Media Scan-Has the New Right Arrived in India?",
+      "show_name": "Wellness Watch",
       "start_time": "8:00 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28822512_b_h9_aa_a02a4e7c52.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p13402395_b_h9_aa_e69b34c361.webp"
     },
     {
-      "show_name": "Indian Diplomacy",
+      "show_name": "Media Scan",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p24937525_b_h9_aa_39cf89a832.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p25262339_b_h9_aa_082fc46389.webp"
     },
     {
       "show_name": "DD India News Hour",
@@ -213,10 +237,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28813358_b_h9_ac_4f27f9104f.webp"
     },
     {
-      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "show_name": "International Cooperative Alliance",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28822506_b_h9_aa_4291686f41.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-india/tomorrow/p28827958_b_h9_aa_7a8d43e48a.webp"
     },
     {
       "show_name": "DD India News Hour",

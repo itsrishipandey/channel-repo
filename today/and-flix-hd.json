@@ -1,34 +1,28 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "The Amazing Spider-Man",
-      "start_time": "12:23 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p8548776_v_h9_ab_e12c7fb1f4.webp"
+      "show_name": "Nowhere to Hide",
+      "start_time": "12:15 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Huge Shark",
+      "start_time": "1:30 AM",
+      "end_time": "2:45 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p24088821_b_h9_aa_96fadb1ef9.webp"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "2:30 AM",
-      "end_time": "2:51 AM",
+      "start_time": "2:45 AM",
+      "end_time": "5:55 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p20453532_b_h9_aa_68f8054c99.webp"
     },
     {
-      "show_name": "Dance With Me",
-      "start_time": "2:51 AM",
-      "end_time": "4:18 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p19074508_b_h9_aa_a9924b7fa5.webp"
-    },
-    {
-      "show_name": "Universal Soldier 4",
-      "start_time": "4:18 AM",
-      "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p9410609_b_h9_ag_55679f5b51.webp"
-    },
-    {
       "show_name": "Movie",
-      "start_time": "6:00 AM",
+      "start_time": "5:55 AM",
       "end_time": "9:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p809737_b_h9_bq_119e7d60e0.webp"
     },

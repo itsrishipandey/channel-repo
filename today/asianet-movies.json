@@ -1,0 +1,60 @@
+{
+  "channel_name": "Asianet Movies",
+  "date": "December 13, 2025",
+  "schedule": [
+    {
+      "show_name": "Idiots",
+      "start_time": "1:00 AM",
+      "end_time": "2:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p10817806_b_h9_ab_19f5e88492.webp"
+    },
+    {
+      "show_name": "Aattam",
+      "start_time": "2:50 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Maharaja Talkies",
+      "start_time": "5:00 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Varathan",
+      "start_time": "7:00 AM",
+      "end_time": "9:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Nadodikkattu",
+      "start_time": "9:50 AM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p9947780_b_h9_aa_0ed177a209.webp"
+    },
+    {
+      "show_name": "RDX",
+      "start_time": "1:00 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p25481267_v_h9_ac_17665f59b7.webp"
+    },
+    {
+      "show_name": "In Ghost House Inn",
+      "start_time": "4:00 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p8180506_b_h9_aa_a85149e483.webp"
+    },
+    {
+      "show_name": "Return Of The Dragon",
+      "start_time": "7:00 PM",
+      "end_time": "10:20 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p30601112_v_h9_aa_f3165d7abd.webp"
+    },
+    {
+      "show_name": "Oru Yamandan Premakadha",
+      "start_time": "10:20 PM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet-movies/today/p16842444_v_h9_aa_7145532566.webp"
+    }
+  ]
+}

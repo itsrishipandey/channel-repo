@@ -1,0 +1,252 @@
+{
+  "channel_name": "Al Jazeera English",
+  "date": "December 14, 2025",
+  "schedule": [
+    {
+      "show_name": "News",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Jose Manuel Albares; Talk to Al Jazeera",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021730_b_h9_aa_324e18bf49.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Inside Story",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28974971_b_h9_aa_11011ec06f.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "2:30 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "A Sense of Community",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p23300999_b_h9_ab_9d4bf0d13c.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Nuked",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p31635863_b_h9_ab_e661eb7419.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Inside Story",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28974971_b_h9_aa_11011ec06f.webp"
+    },
+    {
+      "show_name": "The Bottom Line",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021752_b_h9_ac_f567d0fb13.webp"
+    },
+    {
+      "show_name": "Earthrise",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p8857982_b_h9_ac_e77fe79b4c.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "The Stream",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28993551_b_h9_aa_3b8a8becf5.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Counting the Cost",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021698_b_h9_aa_757601c9b4.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Jose Manuel Albares; Talk to Al Jazeera",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021730_b_h9_aa_324e18bf49.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Inside Story",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28974971_b_h9_aa_11011ec06f.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Nuked",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p31635863_b_h9_ab_e661eb7419.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "12:30 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "1:30 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "A Sense of Community",
+      "start_time": "2:00 PM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p23300999_b_h9_ab_9d4bf0d13c.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "2:30 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "UpFront",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29107800_b_h9_aa_1454838c8b.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Inside Story",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28974971_b_h9_aa_11011ec06f.webp"
+    },
+    {
+      "show_name": "Witness",
+      "start_time": "5:30 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021920_b_h9_aa_e58e023e8b.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "6:30 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Jose Manuel Albares; Talk to Al Jazeera",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p29021730_b_h9_aa_324e18bf49.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "8:30 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "101 East",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p198481_b_h9_ad_c83e19d84f.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28975004_b_h9_aa_cb21f98774.webp"
+    },
+    {
+      "show_name": "Inside Story",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p28974971_b_h9_aa_11011ec06f.webp"
+    },
+    {
+      "show_name": "Newshour",
+      "start_time": "11:30 PM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/al-jazeera-english/tomorrow/p269613_b_h9_aa_befc8868a1.webp"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "channel_name": "Animal Planet",
+  "date": "December 13, 2025",
+  "schedule": [
+    {
+      "show_name": "Masai Mara: African Wildlife Stories",
+      "start_time": "12:00 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p23643551_b_h9_aa_a0e27c29a6.webp"
+    },
+    {
+      "show_name": "The Lions Rule",
+      "start_time": "1:00 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p28416850_b_h9_ab_0fd58bbf95.webp"
+    },
+    {
+      "show_name": "Alpha",
+      "start_time": "2:00 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p27378172_b_h9_ad_1b18a319e7.webp"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "3:00 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13958291_b_h9_ad_f57dbdb60f.webp"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p18329058_b_h9_ad_ce1d55e0fb.webp"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13799707_b_h9_ab_f1bd097dce.webp"
+    },
+    {
+      "show_name": "The Queen In The North",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p29402679_b_h9_aa_1ff7e196eb.webp"
+    },
+    {
+      "show_name": "The Americas",
+      "start_time": "6:00 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p27691415_b_h9_ab_a1157b094c.webp"
+    },
+    {
+      "show_name": "Epic Animal Encounters",
+      "start_time": "7:00 AM",
+      "end_time": "7:24 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p18329058_b_h9_ad_ce1d55e0fb.webp"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "7:24 AM",
+      "end_time": "7:48 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13799707_b_h9_ab_f1bd097dce.webp"
+    },
+    {
+      "show_name": "Wild Assassins",
+      "start_time": "7:48 AM",
+      "end_time": "8:36 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p25136865_b_h9_ab_1c96b7041b.webp"
+    },
+    {
+      "show_name": "Great Parks of Africa",
+      "start_time": "8:36 AM",
+      "end_time": "9:24 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p15920842_b_h9_ac_0cd0e309b9.webp"
+    },
+    {
+      "show_name": "Becoming Prey",
+      "start_time": "9:24 AM",
+      "end_time": "10:16 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Okavango: River of Dreams",
+      "start_time": "10:16 AM",
+      "end_time": "11:09 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p17125677_b_h9_ac_910d1f7fbe.webp"
+    },
+    {
+      "show_name": "Zambia Untamed",
+      "start_time": "11:09 AM",
+      "end_time": "12:01 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p15672372_b_h9_aa_df307eda6a.webp"
+    },
+    {
+      "show_name": "New Kids in the Wild",
+      "start_time": "12:01 PM",
+      "end_time": "12:53 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p19359214_b_h9_aa_6786b45505.webp"
+    },
+    {
+      "show_name": "Chasing the Rains",
+      "start_time": "12:53 PM",
+      "end_time": "1:45 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p23382338_b_h9_af_33a295ec5d.webp"
+    },
+    {
+      "show_name": "Project Tiger",
+      "start_time": "1:45 PM",
+      "end_time": "3:22 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p30809739_b_h9_aa_8d6188629f.webp"
+    },
+    {
+      "show_name": "Extreme Africa",
+      "start_time": "3:22 PM",
+      "end_time": "4:12 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13098517_b_h9_aa_e67e31d042.webp"
+    },
+    {
+      "show_name": "White Wolves: Ghosts of the Arctic",
+      "start_time": "4:12 PM",
+      "end_time": "5:02 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p18021481_b_h9_ac_15a1581ebd.webp"
+    },
+    {
+      "show_name": "The Americas",
+      "start_time": "5:02 PM",
+      "end_time": "5:52 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p27691415_b_h9_ab_a1157b094c.webp"
+    },
+    {
+      "show_name": "The Americas",
+      "start_time": "5:52 PM",
+      "end_time": "6:41 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p27691415_b_h9_ab_a1157b094c.webp"
+    },
+    {
+      "show_name": "Jungle Planet",
+      "start_time": "6:41 PM",
+      "end_time": "7:08 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13799707_b_h9_ab_f1bd097dce.webp"
+    },
+    {
+      "show_name": "Predator Countdown",
+      "start_time": "7:08 PM",
+      "end_time": "8:03 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p29361233_b_h9_ac_9766b79658.webp"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "8:03 PM",
+      "end_time": "8:57 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p13958291_b_h9_ad_f57dbdb60f.webp"
+    },
+    {
+      "show_name": "Parenthood",
+      "start_time": "8:57 PM",
+      "end_time": "9:49 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p30633754_b_h9_aa_364f14a815.webp"
+    },
+    {
+      "show_name": "Italy: The Last Wilderness Year 1",
+      "start_time": "9:49 PM",
+      "end_time": "10:44 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p8549979_b_h9_aa_49485f6690.webp"
+    },
+    {
+      "show_name": "The Lions Rule",
+      "start_time": "10:44 PM",
+      "end_time": "11:42 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p28416850_b_h9_ab_0fd58bbf95.webp"
+    },
+    {
+      "show_name": "The Americas",
+      "start_time": "11:42 PM",
+      "end_time": "12:42 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet/today/p27691415_b_h9_ab_a1157b094c.webp"
+    }
+  ]
+}

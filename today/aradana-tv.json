@@ -1,0 +1,294 @@
+{
+  "channel_name": "Aradana TV",
+  "date": "December 13, 2025",
+  "schedule": [
+    {
+      "show_name": "Subhakankshalu",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p7806849_b_h9_aa_8212ad77b4.webp"
+    },
+    {
+      "show_name": "Dr. N. Jayapaul",
+      "start_time": "12:30 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193329_b_h9_aa_02209605e5.webp"
+    },
+    {
+      "show_name": "Dr P Satish Kumar",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p27216595_b_h9_aa_4fd1445ed8.webp"
+    },
+    {
+      "show_name": "Bishop Samuel R. Patta",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193101_b_h9_aa_1ccf10e12d.webp"
+    },
+    {
+      "show_name": "Amrutha Bhandam",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193103_b_h9_aa_16ee77ae1a.webp"
+    },
+    {
+      "show_name": "Amrutha Bhandam",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193103_b_h9_aa_16ee77ae1a.webp"
+    },
+    {
+      "show_name": "Rev. Chikaam Isaac",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193124_b_h9_aa_dcaa052545.webp"
+    },
+    {
+      "show_name": "Jesus Calls",
+      "start_time": "3:30 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p10943697_b_h9_aa_bbe93521de.webp"
+    },
+    {
+      "show_name": "Sis. Havilah Onyx",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193419_b_h9_aa_eecc66260f.webp"
+    },
+    {
+      "show_name": "Ushodayam / Bro.p.joshi",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Ushodayam / Amrutha Bhandam",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193117_b_h9_aa_7a85a66164.webp"
+    },
+    {
+      "show_name": "Rev. Chikaam Isaac",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193124_b_h9_aa_dcaa052545.webp"
+    },
+    {
+      "show_name": "Rev. Vara Prasad",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193143_b_h9_aa_8ba929cce0.webp"
+    },
+    {
+      "show_name": "Bro. Ricky Gootam",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196244_b_h9_aa_45c80962b8.webp"
+    },
+    {
+      "show_name": "Dr P Satish Kumar",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p27216595_b_h9_aa_4fd1445ed8.webp"
+    },
+    {
+      "show_name": "Beracah Ministers",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196115_b_h9_ab_9714cf24a6.webp"
+    },
+    {
+      "show_name": "Bishop. K. R. Singh",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196120_b_h9_aa_bf8df2c114.webp"
+    },
+    {
+      "show_name": "Bishop Samuel R. Patta",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193101_b_h9_aa_1ccf10e12d.webp"
+    },
+    {
+      "show_name": "Subhakankshalu",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p7806849_b_h9_aa_8212ad77b4.webp"
+    },
+    {
+      "show_name": "Amrutha Bhandam",
+      "start_time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193103_b_h9_aa_16ee77ae1a.webp"
+    },
+    {
+      "show_name": "Tele Choice",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p13024758_b_h9_aa_1583f0ce7e.webp"
+    },
+    {
+      "show_name": "Bro. B. Anthaiah Chowdary",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196127_b_h9_ab_cc5005bd3b.webp"
+    },
+    {
+      "show_name": "Dr. P. J. Stephen Paul",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29203507_b_h9_aa_a58690fcbc.webp"
+    },
+    {
+      "show_name": "PS.J.Vijay Kumar",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29202907_b_h9_aa_7bffa710e8.webp"
+    },
+    {
+      "show_name": "Sis. Merlyn Patta",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196588_b_h9_aa_dcaaf58666.webp"
+    },
+    {
+      "show_name": "Bro.P.Issac",
+      "start_time": "12:30 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196222_b_h9_aa_8742df38ac.webp"
+    },
+    {
+      "show_name": "Rev. Chikaam Isaac",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193124_b_h9_aa_dcaa052545.webp"
+    },
+    {
+      "show_name": "Pastor V.S. Prasad",
+      "start_time": "1:30 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196613_b_h9_aa_e1411e2813.webp"
+    },
+    {
+      "show_name": "Sis. Joy Cherian",
+      "start_time": "2:00 PM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p28603770_b_h9_aa_ba7d1e5de4.webp"
+    },
+    {
+      "show_name": "Rev. Kantha Rao",
+      "start_time": "2:30 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29773343_b_h9_aa_a9f945cf6b.webp"
+    },
+    {
+      "show_name": "Sis.Teresa Paul",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196547_b_h9_aa_22371a352b.webp"
+    },
+    {
+      "show_name": "Bro. Cephas Joseph",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196134_b_h9_aa_56c77ada9b.webp"
+    },
+    {
+      "show_name": "Special Program",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p28949331_b_h9_aa_3791c43196.webp"
+    },
+    {
+      "show_name": "Rev. Abraham Raju",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196560_b_h9_aa_0956b81738.webp"
+    },
+    {
+      "show_name": "Bro. Peter Paul Singh",
+      "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196230_b_h9_aa_49e4da0846.webp"
+    },
+    {
+      "show_name": "Sis Sandhya Rani",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p31673624_b_h9_aa_6feb930802.webp"
+    },
+    {
+      "show_name": "Rev. Simon Raju",
+      "start_time": "6:00 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29202880_b_h9_aa_16a1056103.webp"
+    },
+    {
+      "show_name": "Bro. S. Sajeeva Rao",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193507_b_h9_aa_702adb2aa1.webp"
+    },
+    {
+      "show_name": "Bro.Mathew Vattiprolu",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196186_b_h9_aa_e59dc47d92.webp"
+    },
+    {
+      "show_name": "Bro. P. Joshi",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193115_b_h9_aa_72d4019c39.webp"
+    },
+    {
+      "show_name": "Dr. N. Jayapaul",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193329_b_h9_aa_02209605e5.webp"
+    },
+    {
+      "show_name": "PS. Elijah Abraham",
+      "start_time": "8:30 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p31673469_b_h9_aa_2986743574.webp"
+    },
+    {
+      "show_name": "Dr P Satish Kumar",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p27216595_b_h9_aa_4fd1445ed8.webp"
+    },
+    {
+      "show_name": "Jesus Calls",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p10943697_b_h9_aa_bbe93521de.webp"
+    },
+    {
+      "show_name": "Rev. Mohan C. Lazarus",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29196519_b_h9_aa_2bda6ff79a.webp"
+    },
+    {
+      "show_name": "Rev. Chikaam Isaac",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29193124_b_h9_aa_dcaa052545.webp"
+    },
+    {
+      "show_name": "Dr. P. J. Stephen Paul",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p29203507_b_h9_aa_a58690fcbc.webp"
+    },
+    {
+      "show_name": "Devotional Songs",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/aradana-tv/today/p10970900_b_h9_ab_620c532e0c.webp"
+    }
+  ]
+}

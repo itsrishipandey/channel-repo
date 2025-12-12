@@ -1,36 +1,36 @@
 {
   "channel_name": "MTV",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Night Out",
-      "start_time": "12:30 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13802744_b_h9_aa_88027dc1fa.webp"
+      "show_name": "Roadies BTS",
+      "start_time": "1:15 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p29317782_b_h9_aa_0b6c806ba0.webp"
+    },
+    {
+      "show_name": "Khatron Ke Khiladi",
+      "start_time": "1:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p760343_b_h9_al_b88355c6f1.webp"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "3:00 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Roadies",
-      "start_time": "2:30 AM",
-      "end_time": "3:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27749474_b_h9_aa_65f21f859d.webp"
-    },
-    {
-      "show_name": "Roadies",
-      "start_time": "3:40 AM",
-      "end_time": "4:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27749474_b_h9_aa_65f21f859d.webp"
-    },
-    {
-      "show_name": "Roadies",
-      "start_time": "4:15 AM",
+      "start_time": "4:00 AM",
       "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p27749474_b_h9_aa_65f21f859d.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
     },
     {
-      "show_name": "MTV Chillax",
+      "show_name": "MTV Hustle",
       "start_time": "5:00 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p30076019_b_h9_aa_9282e104c1.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p17232494_b_h9_aa_fc35ba872f.webp"
     },
     {
       "show_name": "Pump Up Mornings",
@@ -39,26 +39,26 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13798836_b_h9_aa_2e400a0160.webp"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Roadies",
       "start_time": "8:50 AM",
-      "end_time": "9:40 AM",
+      "end_time": "9:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
+    },
+    {
+      "show_name": "Splitsvilla",
+      "start_time": "9:50 AM",
+      "end_time": "10:50 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "9:40 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
-    },
-    {
-      "show_name": "Splitsvilla",
-      "start_time": "10:30 AM",
-      "end_time": "11:40 AM",
+      "start_time": "10:50 AM",
+      "end_time": "12:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Roadies",
-      "start_time": "11:40 AM",
+      "start_time": "12:00 PM",
       "end_time": "1:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
     },
@@ -75,70 +75,58 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Troll Police",
       "start_time": "2:30 PM",
-      "end_time": "3:20 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
+      "end_time": "3:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p18092518_b_h9_aa_38938d1be1.webp"
     },
     {
       "show_name": "Roadies",
-      "start_time": "3:20 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:40 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "4:30 PM",
-      "end_time": "5:30 PM",
+      "start_time": "4:40 PM",
+      "end_time": "6:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "5:30 PM",
-      "end_time": "6:10 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
-    },
-    {
-      "show_name": "Splitsvilla",
-      "start_time": "6:10 PM",
+      "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Roadies",
       "start_time": "7:00 PM",
-      "end_time": "8:05 PM",
+      "end_time": "8:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "8:05 PM",
-      "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
-    },
-    {
-      "show_name": "Splitsvilla",
-      "start_time": "9:00 PM",
+      "start_time": "8:30 PM",
       "end_time": "10:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
     },
     {
       "show_name": "Roadies",
       "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
+      "end_time": "11:15 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
+    },
+    {
+      "show_name": "Roadies BTS",
+      "start_time": "11:15 PM",
+      "end_time": "11:45 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p29317782_b_h9_aa_0b6c806ba0.webp"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "11:00 PM",
-      "end_time": "11:50 PM",
+      "start_time": "11:45 PM",
+      "end_time": "12:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p3632895_b_h9_ab_5bdaefb7d3.webp"
-    },
-    {
-      "show_name": "Roadies",
-      "start_time": "11:50 PM",
-      "end_time": "1:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/mtv/tomorrow/p13410174_b_h9_aa_d0d4b85c26.webp"
     }
   ]
 }

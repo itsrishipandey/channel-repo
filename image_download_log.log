@@ -1,592 +1,778 @@
-2025-12-11 20:22:52,155 [INFO] ======================================================================
-2025-12-11 20:22:52,156 [INFO] Image Download started at 2025-12-12 01:52:52 IST
-2025-12-11 20:22:52,156 [INFO] ======================================================================
-2025-12-11 20:22:52,156 [INFO] Cleaning old images from downloaded-images
-2025-12-11 20:22:52,227 [INFO] Deleted directory: downloaded-images
-2025-12-11 20:22:52,227 [INFO] Created fresh directory: downloaded-images
-2025-12-11 20:22:52,227 [INFO] Found 81 JSON files in ./today
-2025-12-11 20:22:52,228 [INFO] Found 79 JSON files in ./tomorrow
-2025-12-11 20:22:52,228 [INFO] 
-Processing 160 JSON files total...
-2025-12-11 20:22:52,230 [INFO] zoom.json: downloading 12 images...
-2025-12-11 20:22:52,608 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:52,610 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:52,696 [INFO] Updated JSON: today/zoom.json
-2025-12-11 20:22:52,698 [INFO] cnbc-tv18.json: downloading 27 images...
-2025-12-11 20:22:52,865 [INFO] Updated JSON: today/cnbc-tv18.json
-2025-12-11 20:22:52,866 [INFO] sony-sports-ten1.json: downloading 12 images...
-2025-12-11 20:22:54,684 [INFO] Updated JSON: today/sony-sports-ten1.json
-2025-12-11 20:22:54,685 [INFO] 9x-jhakaas.json: downloading 7 images...
-2025-12-11 20:22:54,725 [INFO] Updated JSON: today/9x-jhakaas.json
-2025-12-11 20:22:54,727 [INFO] dd-punjabi.json: downloading 30 images...
-2025-12-11 20:22:54,861 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:54,873 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:54,893 [INFO] Updated JSON: today/dd-punjabi.json
-2025-12-11 20:22:54,894 [INFO] alankar.json: downloading 10 images...
-2025-12-11 20:22:55,363 [INFO] Updated JSON: today/alankar.json
-2025-12-11 20:22:55,365 [INFO] zee-24-kalak.json: downloading 24 images...
-2025-12-11 20:22:55,491 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:55,505 [INFO] Updated JSON: today/zee-24-kalak.json
-2025-12-11 20:22:55,507 [INFO] mirror-now.json: downloading 20 images...
-2025-12-11 20:22:55,629 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:55,635 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:55,647 [INFO] Updated JSON: today/mirror-now.json
-2025-12-11 20:22:55,647 [INFO] colors-gujarati-cinema.json: downloading 8 images...
-2025-12-11 20:22:55,917 [INFO] Updated JSON: today/colors-gujarati-cinema.json
-2025-12-11 20:22:55,918 [INFO] and-flix-hd.json: downloading 5 images...
-2025-12-11 20:22:56,246 [INFO] Updated JSON: today/and-flix-hd.json
-2025-12-11 20:22:56,248 [INFO] aastha-telugu.json: downloading 30 images...
-2025-12-11 20:22:56,386 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:56,388 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:22:56,412 [INFO] Updated JSON: today/aastha-telugu.json
-2025-12-11 20:22:56,414 [INFO] good-times.json: downloading 40 images...
-2025-12-11 20:22:58,849 [WARNING] Download failed https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg: 404 Client Error: Not Found for url: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg
-2025-12-11 20:22:59,222 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,224 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,252 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,338 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,346 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,349 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,403 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,441 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,587 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,669 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,698 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,725 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,762 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,778 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,854 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,880 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,885 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:22:59,905 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:00,052 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:00,183 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:00,222 [WARNING] Missing after download: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg
-2025-12-11 20:23:00,222 [WARNING] Failed image for https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg
-2025-12-11 20:23:00,223 [INFO] Updated JSON: today/good-times.json
-2025-12-11 20:23:00,224 [INFO] dd-india.json: downloading 12 images...
-2025-12-11 20:23:00,325 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:00,593 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:00,605 [INFO] Updated JSON: today/dd-india.json
-2025-12-11 20:23:00,607 [INFO] abp-ananda.json: downloading 19 images...
-2025-12-11 20:23:00,715 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:00,731 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:00,887 [INFO] Updated JSON: today/abp-ananda.json
-2025-12-11 20:23:00,888 [INFO] colors-kannada-cinema.json: downloading 13 images...
-2025-12-11 20:23:00,997 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,000 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,002 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,021 [INFO] Updated JSON: today/colors-kannada-cinema.json
-2025-12-11 20:23:01,022 [INFO] jalsha-movies.json: downloading 10 images...
-2025-12-11 20:23:01,084 [INFO] Updated JSON: today/jalsha-movies.json
-2025-12-11 20:23:01,085 [INFO] sony-max.json: downloading 3 images...
-2025-12-11 20:23:01,429 [INFO] Updated JSON: today/sony-max.json
-2025-12-11 20:23:01,430 [INFO] b4u-music.json: downloading 5 images...
-2025-12-11 20:23:01,462 [INFO] Updated JSON: today/b4u-music.json
-2025-12-11 20:23:01,464 [INFO] assam-talks.json: downloading 18 images...
-2025-12-11 20:23:01,596 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,812 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,844 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,906 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,971 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:01,986 [INFO] Updated JSON: today/assam-talks.json
-2025-12-11 20:23:01,987 [INFO] privé-hd.json: downloading 5 images...
-2025-12-11 20:23:02,268 [INFO] Updated JSON: today/privé-hd.json
-2025-12-11 20:23:02,270 [INFO] abn-andhra-jyothy.json: downloading 24 images...
-2025-12-11 20:23:02,395 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,403 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,414 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,427 [INFO] Updated JSON: today/abn-andhra-jyothy.json
-2025-12-11 20:23:02,428 [INFO] sony.json: downloading 8 images...
-2025-12-11 20:23:02,487 [INFO] Updated JSON: today/sony.json
-2025-12-11 20:23:02,489 [INFO] aastha-bhajan.json: downloading 19 images...
-2025-12-11 20:23:02,594 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,623 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,636 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,646 [INFO] Updated JSON: today/aastha-bhajan.json
-2025-12-11 20:23:02,648 [INFO] ntv.json: downloading 20 images...
-2025-12-11 20:23:02,799 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,800 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,802 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,804 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,807 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:02,962 [INFO] Updated JSON: today/ntv.json
-2025-12-11 20:23:02,963 [INFO] big-magic.json: downloading 10 images...
-2025-12-11 20:23:03,249 [INFO] Updated JSON: today/big-magic.json
-2025-12-11 20:23:03,251 [INFO] 10tv.json: downloading 32 images...
-2025-12-11 20:23:03,429 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:03,442 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:03,444 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:03,465 [INFO] Updated JSON: today/10tv.json
-2025-12-11 20:23:03,466 [INFO] tlc.json: downloading 14 images...
-2025-12-11 20:23:03,573 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:03,586 [INFO] Updated JSON: today/tlc.json
-2025-12-11 20:23:03,587 [INFO] mtv.json: downloading 9 images...
-2025-12-11 20:23:03,645 [INFO] Updated JSON: today/mtv.json
-2025-12-11 20:23:03,647 [INFO] colors-gujarati.json: downloading 11 images...
-2025-12-11 20:23:04,017 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:04,037 [INFO] Updated JSON: today/colors-gujarati.json
-2025-12-11 20:23:04,039 [INFO] cartoon-network.json: downloading 7 images...
-2025-12-11 20:23:04,096 [INFO] Updated JSON: today/cartoon-network.json
-2025-12-11 20:23:04,097 [INFO] colors-bangla-cinema.json: downloading 10 images...
-2025-12-11 20:23:04,373 [INFO] Updated JSON: today/colors-bangla-cinema.json
-2025-12-11 20:23:04,374 [INFO] colors-infinity-sd.json: downloading 8 images...
-2025-12-11 20:23:04,657 [INFO] Updated JSON: today/colors-infinity-sd.json
-2025-12-11 20:23:04,657 [INFO] b4u-movies.json: downloading 2 images...
-2025-12-11 20:23:04,954 [INFO] Updated JSON: today/b4u-movies.json
-2025-12-11 20:23:04,955 [INFO] b4u-bhojpuri.json: downloading 3 images...
-2025-12-11 20:23:04,982 [INFO] Updated JSON: today/b4u-bhojpuri.json
-2025-12-11 20:23:04,983 [INFO] surya-tv.json: downloading 14 images...
-2025-12-11 20:23:05,288 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,305 [INFO] Updated JSON: today/surya-tv.json
-2025-12-11 20:23:05,306 [INFO] zee-tv.json: downloading 12 images...
-2025-12-11 20:23:05,402 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,417 [INFO] Updated JSON: today/zee-tv.json
-2025-12-11 20:23:05,419 [INFO] republic-tv.json: downloading 9 images...
-2025-12-11 20:23:05,475 [INFO] Updated JSON: today/republic-tv.json
-2025-12-11 20:23:05,477 [INFO] sun-tv.json: downloading 29 images...
-2025-12-11 20:23:05,635 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,639 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,647 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,818 [INFO] Updated JSON: today/sun-tv.json
-2025-12-11 20:23:05,820 [INFO] abp-majha.json: downloading 23 images...
-2025-12-11 20:23:05,957 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,958 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,959 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:05,976 [INFO] Updated JSON: today/abp-majha.json
-2025-12-11 20:23:05,977 [INFO] star-bharat.json: downloading 8 images...
-2025-12-11 20:23:06,035 [INFO] Updated JSON: today/star-bharat.json
-2025-12-11 20:23:06,037 [INFO] aastha-gujarati.json: downloading 27 images...
-2025-12-11 20:23:06,189 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:06,200 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:06,256 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:06,266 [INFO] Updated JSON: today/aastha-gujarati.json
-2025-12-11 20:23:06,268 [INFO] aaj-tak.json: downloading 31 images...
-2025-12-11 20:23:06,614 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:06,632 [INFO] Updated JSON: today/aaj-tak.json
-2025-12-11 20:23:06,633 [INFO] colors-marathi-sd.json: downloading 8 images...
-2025-12-11 20:23:06,984 [INFO] Updated JSON: today/colors-marathi-sd.json
-2025-12-11 20:23:06,985 [INFO] aastha.json: downloading 16 images...
-2025-12-11 20:23:07,096 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:07,098 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:07,113 [INFO] Updated JSON: today/aastha.json
-2025-12-11 20:23:07,114 [INFO] pogo.json: downloading 10 images...
-2025-12-11 20:23:07,587 [INFO] Updated JSON: today/pogo.json
-2025-12-11 20:23:07,589 [INFO] zee-up-uk.json: downloading 26 images...
-2025-12-11 20:23:07,865 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:07,877 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:07,936 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,041 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,055 [INFO] Updated JSON: today/zee-up-uk.json
-2025-12-11 20:23:08,057 [INFO] bbc-world-news.json: downloading 16 images...
-2025-12-11 20:23:08,175 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,182 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,184 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,188 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,207 [INFO] Updated JSON: today/bbc-world-news.json
-2025-12-11 20:23:08,209 [INFO] history-tv18-hd.json: downloading 31 images...
-2025-12-11 20:23:08,502 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,556 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,576 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,611 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,628 [INFO] Updated JSON: today/history-tv18-hd.json
-2025-12-11 20:23:08,630 [INFO] 9x-tashan.json: downloading 14 images...
-2025-12-11 20:23:08,732 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,737 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,747 [INFO] Updated JSON: today/9x-tashan.json
-2025-12-11 20:23:08,749 [INFO] tv9-gujarati.json: downloading 18 images...
-2025-12-11 20:23:08,879 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,889 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,893 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:08,893 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:09,027 [INFO] Updated JSON: today/tv9-gujarati.json
-2025-12-11 20:23:09,028 [INFO] india-today.json: downloading 2 images...
-2025-12-11 20:23:09,053 [INFO] Updated JSON: today/india-today.json
-2025-12-11 20:23:09,053 [INFO] colors-bangla.json: downloading 8 images...
-2025-12-11 20:23:09,328 [INFO] Updated JSON: today/colors-bangla.json
-2025-12-11 20:23:09,329 [INFO] aakash-aath.json: downloading 10 images...
-2025-12-11 20:23:09,657 [INFO] Updated JSON: today/aakash-aath.json
-2025-12-11 20:23:09,659 [INFO] zee-bangla.json: downloading 19 images...
-2025-12-11 20:23:09,928 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:09,975 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,046 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,067 [INFO] Updated JSON: today/zee-bangla.json
-2025-12-11 20:23:10,069 [INFO] et-now.json: downloading 21 images...
-2025-12-11 20:23:10,195 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,205 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,405 [INFO] Updated JSON: today/et-now.json
-2025-12-11 20:23:10,406 [INFO] zee-news.json: downloading 19 images...
-2025-12-11 20:23:10,731 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,746 [INFO] Updated JSON: today/zee-news.json
-2025-12-11 20:23:10,747 [INFO] colors.json: downloading 14 images...
-2025-12-11 20:23:10,864 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,937 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:10,957 [INFO] Updated JSON: today/colors.json
-2025-12-11 20:23:10,958 [INFO] sony-aath.json: downloading 12 images...
-2025-12-11 20:23:11,230 [INFO] Updated JSON: today/sony-aath.json
-2025-12-11 20:23:11,230 [INFO] all-time-movies.json: downloading 1 images...
-2025-12-11 20:23:11,255 [INFO] Updated JSON: today/all-time-movies.json
-2025-12-11 20:23:11,256 [INFO] etv-plus.json: downloading 16 images...
-2025-12-11 20:23:11,364 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,527 [INFO] Updated JSON: today/etv-plus.json
-2025-12-11 20:23:11,529 [INFO] star-plus.json: downloading 11 images...
-2025-12-11 20:23:11,626 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,646 [INFO] Updated JSON: today/star-plus.json
-2025-12-11 20:23:11,648 [INFO] wion.json: downloading 17 images...
-2025-12-11 20:23:11,790 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,791 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,795 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,801 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,812 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:11,828 [INFO] Updated JSON: today/wion.json
-2025-12-11 20:23:11,829 [INFO] 9xm.json: downloading 7 images...
-2025-12-11 20:23:12,115 [INFO] Updated JSON: today/9xm.json
-2025-12-11 20:23:12,117 [INFO] dd-bangla.json: downloading 24 images...
-2025-12-11 20:23:12,240 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:12,252 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:12,264 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:12,401 [INFO] Updated JSON: today/dd-bangla.json
-2025-12-11 20:23:12,403 [INFO] zee-24-ghanta.json: downloading 20 images...
-2025-12-11 20:23:12,529 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:12,535 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:12,550 [INFO] Updated JSON: today/zee-24-ghanta.json
-2025-12-11 20:23:12,550 [INFO] russia-today.json: downloading 1 images...
-2025-12-11 20:23:12,567 [INFO] Updated JSON: today/russia-today.json
-2025-12-11 20:23:12,568 [INFO] dangal.json: downloading 11 images...
-2025-12-11 20:23:12,845 [INFO] Updated JSON: today/dangal.json
-2025-12-11 20:23:12,846 [INFO] abp-asmita.json: downloading 15 images...
-2025-12-11 20:23:13,124 [INFO] Updated JSON: today/abp-asmita.json
-2025-12-11 20:23:13,126 [INFO] discovery-kids.json: downloading 16 images...
-2025-12-11 20:23:13,245 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:13,266 [INFO] Updated JSON: today/discovery-kids.json
-2025-12-11 20:23:13,267 [INFO] sony-sab.json: downloading 4 images...
-2025-12-11 20:23:13,305 [INFO] Updated JSON: today/sony-sab.json
-2025-12-11 20:23:13,306 [INFO] star-jalsha.json: downloading 14 images...
-2025-12-11 20:23:13,578 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:13,654 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:13,668 [INFO] Updated JSON: today/star-jalsha.json
-2025-12-11 20:23:13,670 [INFO] national-tv-india.json: downloading 40 images...
-2025-12-11 20:23:15,385 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,407 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,438 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,443 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,475 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,546 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,555 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,666 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,674 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,679 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,689 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,728 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,783 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,785 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,848 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:15,854 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:16,130 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:16,160 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:16,171 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:16,369 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:16,490 [INFO] Updated JSON: today/national-tv-india.json
-2025-12-11 20:23:16,492 [INFO] abp-news.json: downloading 18 images...
-2025-12-11 20:23:16,609 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:16,770 [INFO] Updated JSON: today/abp-news.json
-2025-12-11 20:23:16,771 [INFO] star-kiran.json: downloading 8 images...
-2025-12-11 20:23:16,821 [INFO] Updated JSON: today/star-kiran.json
-2025-12-11 20:23:16,823 [INFO] kolkata-tv.json: downloading 19 images...
-2025-12-11 20:23:17,107 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,141 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,158 [INFO] Updated JSON: today/kolkata-tv.json
-2025-12-11 20:23:17,160 [INFO] tv9-bangla.json: downloading 16 images...
-2025-12-11 20:23:17,275 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,276 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,293 [INFO] Updated JSON: today/tv9-bangla.json
-2025-12-11 20:23:17,294 [INFO] amrita-tv.json: downloading 12 images...
-2025-12-11 20:23:17,388 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,570 [INFO] Updated JSON: today/amrita-tv.json
-2025-12-11 20:23:17,572 [INFO] aastha-kannada.json: downloading 27 images...
-2025-12-11 20:23:17,707 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,735 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,747 [INFO] Updated JSON: today/aastha-kannada.json
-2025-12-11 20:23:17,749 [INFO] argus-news.json: downloading 31 images...
-2025-12-11 20:23:17,911 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,911 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:17,921 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:18,010 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:18,023 [INFO] Updated JSON: today/argus-news.json
-2025-12-11 20:23:18,024 [INFO] colors-cineplex.json: downloading 9 images...
-2025-12-11 20:23:18,299 [INFO] Updated JSON: today/colors-cineplex.json
-2025-12-11 20:23:18,301 [INFO] zoom.json: downloading 13 images...
-2025-12-11 20:23:18,603 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:18,643 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:18,656 [INFO] Updated JSON: tomorrow/zoom.json
-2025-12-11 20:23:18,658 [INFO] cnbc-tv18.json: downloading 19 images...
-2025-12-11 20:23:18,988 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,052 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,077 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,111 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,123 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,127 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,142 [INFO] Updated JSON: tomorrow/cnbc-tv18.json
-2025-12-11 20:23:19,143 [INFO] sony-sports-ten1.json: downloading 12 images...
-2025-12-11 20:23:19,472 [INFO] Updated JSON: tomorrow/sony-sports-ten1.json
-2025-12-11 20:23:19,473 [INFO] 9x-jhakaas.json: downloading 7 images...
-2025-12-11 20:23:19,509 [INFO] Updated JSON: tomorrow/9x-jhakaas.json
-2025-12-11 20:23:19,511 [INFO] dd-punjabi.json: downloading 33 images...
-2025-12-11 20:23:19,927 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,942 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:19,958 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:20,029 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:20,039 [INFO] Updated JSON: tomorrow/dd-punjabi.json
-2025-12-11 20:23:20,040 [INFO] alankar.json: downloading 10 images...
-2025-12-11 20:23:20,422 [INFO] Updated JSON: tomorrow/alankar.json
-2025-12-11 20:23:20,424 [INFO] zee-24-kalak.json: downloading 25 images...
-2025-12-11 20:23:20,560 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:20,841 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:20,857 [INFO] Updated JSON: tomorrow/zee-24-kalak.json
-2025-12-11 20:23:20,858 [INFO] mirror-now.json: downloading 7 images...
-2025-12-11 20:23:21,128 [INFO] Updated JSON: tomorrow/mirror-now.json
-2025-12-11 20:23:21,129 [INFO] colors-gujarati-cinema.json: downloading 10 images...
-2025-12-11 20:23:21,477 [INFO] Updated JSON: tomorrow/colors-gujarati-cinema.json
-2025-12-11 20:23:21,477 [INFO] and-flix-hd.json: downloading 1 images...
-2025-12-11 20:23:21,501 [INFO] Updated JSON: tomorrow/and-flix-hd.json
-2025-12-11 20:23:21,503 [INFO] aastha-telugu.json: downloading 30 images...
-2025-12-11 20:23:21,644 [INFO] Updated JSON: tomorrow/aastha-telugu.json
-2025-12-11 20:23:21,646 [INFO] dd-india.json: downloading 15 images...
-2025-12-11 20:23:21,981 [INFO] Updated JSON: tomorrow/dd-india.json
-2025-12-11 20:23:21,982 [INFO] abp-ananda.json: downloading 20 images...
-2025-12-11 20:23:22,366 [INFO] Updated JSON: tomorrow/abp-ananda.json
-2025-12-11 20:23:22,368 [INFO] colors-kannada-cinema.json: downloading 11 images...
-2025-12-11 20:23:22,442 [INFO] Updated JSON: tomorrow/colors-kannada-cinema.json
-2025-12-11 20:23:22,442 [INFO] jalsha-movies.json: downloading 8 images...
-2025-12-11 20:23:22,955 [INFO] Updated JSON: tomorrow/jalsha-movies.json
-2025-12-11 20:23:22,955 [INFO] sony-max.json: downloading 1 images...
-2025-12-11 20:23:22,980 [INFO] Updated JSON: tomorrow/sony-max.json
-2025-12-11 20:23:22,980 [INFO] b4u-music.json: downloading 5 images...
-2025-12-11 20:23:23,014 [INFO] Updated JSON: tomorrow/b4u-music.json
-2025-12-11 20:23:23,015 [INFO] assam-talks.json: downloading 19 images...
-2025-12-11 20:23:23,385 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:23,398 [INFO] Updated JSON: tomorrow/assam-talks.json
-2025-12-11 20:23:23,399 [INFO] privé-hd.json: downloading 2 images...
-2025-12-11 20:23:23,427 [INFO] Updated JSON: tomorrow/privé-hd.json
-2025-12-11 20:23:23,428 [INFO] abn-andhra-jyothy.json: downloading 24 images...
-2025-12-11 20:23:23,799 [INFO] Updated JSON: tomorrow/abn-andhra-jyothy.json
-2025-12-11 20:23:23,800 [INFO] sony.json: downloading 7 images...
-2025-12-11 20:23:24,090 [INFO] Updated JSON: tomorrow/sony.json
-2025-12-11 20:23:24,092 [INFO] aastha-bhajan.json: downloading 20 images...
-2025-12-11 20:23:24,381 [INFO] Updated JSON: tomorrow/aastha-bhajan.json
-2025-12-11 20:23:24,383 [INFO] ntv.json: downloading 20 images...
-2025-12-11 20:23:24,498 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:24,733 [INFO] Updated JSON: tomorrow/ntv.json
-2025-12-11 20:23:24,734 [INFO] big-magic.json: downloading 10 images...
-2025-12-11 20:23:24,800 [INFO] Updated JSON: tomorrow/big-magic.json
-2025-12-11 20:23:24,802 [INFO] 10tv.json: downloading 33 images...
-2025-12-11 20:23:25,290 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:25,303 [INFO] Updated JSON: tomorrow/10tv.json
-2025-12-11 20:23:25,304 [INFO] tlc.json: downloading 16 images...
-2025-12-11 20:23:25,684 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:25,793 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:25,805 [INFO] Updated JSON: tomorrow/tlc.json
-2025-12-11 20:23:25,806 [INFO] mtv.json: downloading 6 images...
-2025-12-11 20:23:26,085 [INFO] Updated JSON: tomorrow/mtv.json
-2025-12-11 20:23:26,087 [INFO] colors-gujarati.json: downloading 11 images...
-2025-12-11 20:23:26,166 [INFO] Updated JSON: tomorrow/colors-gujarati.json
-2025-12-11 20:23:26,167 [INFO] cartoon-network.json: downloading 7 images...
-2025-12-11 20:23:26,574 [INFO] Updated JSON: tomorrow/cartoon-network.json
-2025-12-11 20:23:26,575 [INFO] colors-bangla-cinema.json: downloading 9 images...
-2025-12-11 20:23:26,916 [INFO] Updated JSON: tomorrow/colors-bangla-cinema.json
-2025-12-11 20:23:26,917 [INFO] colors-infinity-sd.json: downloading 7 images...
-2025-12-11 20:23:26,967 [INFO] Updated JSON: tomorrow/colors-infinity-sd.json
-2025-12-11 20:23:26,968 [INFO] b4u-movies.json: downloading 1 images...
-2025-12-11 20:23:26,992 [INFO] Updated JSON: tomorrow/b4u-movies.json
-2025-12-11 20:23:26,993 [INFO] b4u-bhojpuri.json: downloading 1 images...
-2025-12-11 20:23:27,017 [INFO] Updated JSON: tomorrow/b4u-bhojpuri.json
-2025-12-11 20:23:27,018 [INFO] surya-tv.json: downloading 14 images...
-2025-12-11 20:23:27,269 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:27,350 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:27,366 [INFO] Updated JSON: tomorrow/surya-tv.json
-2025-12-11 20:23:27,367 [INFO] zee-tv.json: downloading 13 images...
-2025-12-11 20:23:27,482 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:27,737 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:27,756 [INFO] Updated JSON: tomorrow/zee-tv.json
-2025-12-11 20:23:27,757 [INFO] republic-tv.json: downloading 12 images...
-2025-12-11 20:23:28,056 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:28,073 [INFO] Updated JSON: tomorrow/republic-tv.json
-2025-12-11 20:23:28,075 [INFO] sun-tv.json: downloading 29 images...
-2025-12-11 20:23:28,226 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:28,227 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:28,240 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:28,443 [INFO] Updated JSON: tomorrow/sun-tv.json
-2025-12-11 20:23:28,445 [INFO] abp-majha.json: downloading 23 images...
-2025-12-11 20:23:28,596 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,063 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,077 [INFO] Updated JSON: tomorrow/abp-majha.json
-2025-12-11 20:23:29,078 [INFO] star-bharat.json: downloading 8 images...
-2025-12-11 20:23:29,389 [INFO] Updated JSON: tomorrow/star-bharat.json
-2025-12-11 20:23:29,390 [INFO] aastha-gujarati.json: downloading 27 images...
-2025-12-11 20:23:29,525 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,530 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,550 [INFO] Updated JSON: tomorrow/aastha-gujarati.json
-2025-12-11 20:23:29,552 [INFO] aaj-tak.json: downloading 20 images...
-2025-12-11 20:23:29,897 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,917 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:29,931 [INFO] Updated JSON: tomorrow/aaj-tak.json
-2025-12-11 20:23:29,932 [INFO] colors-marathi-sd.json: downloading 8 images...
-2025-12-11 20:23:29,993 [INFO] Updated JSON: tomorrow/colors-marathi-sd.json
-2025-12-11 20:23:29,994 [INFO] aastha.json: downloading 16 images...
-2025-12-11 20:23:30,109 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:30,111 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:30,124 [INFO] Updated JSON: tomorrow/aastha.json
-2025-12-11 20:23:30,126 [INFO] pogo.json: downloading 14 images...
-2025-12-11 20:23:30,536 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:30,566 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:30,585 [INFO] Updated JSON: tomorrow/pogo.json
-2025-12-11 20:23:30,587 [INFO] zee-up-uk.json: downloading 26 images...
-2025-12-11 20:23:30,932 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:30,945 [INFO] Updated JSON: tomorrow/zee-up-uk.json
-2025-12-11 20:23:30,947 [INFO] bbc-world-news.json: downloading 18 images...
-2025-12-11 20:23:31,318 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,341 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,392 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,406 [INFO] Updated JSON: tomorrow/bbc-world-news.json
-2025-12-11 20:23:31,408 [INFO] history-tv18-hd.json: downloading 29 images...
-2025-12-11 20:23:31,832 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,862 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,896 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:31,910 [INFO] Updated JSON: tomorrow/history-tv18-hd.json
-2025-12-11 20:23:31,912 [INFO] 9x-tashan.json: downloading 14 images...
-2025-12-11 20:23:32,020 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,026 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,027 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,046 [INFO] Updated JSON: tomorrow/9x-tashan.json
-2025-12-11 20:23:32,048 [INFO] tv9-gujarati.json: downloading 19 images...
-2025-12-11 20:23:32,163 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,182 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,187 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:32,329 [INFO] Updated JSON: tomorrow/tv9-gujarati.json
-2025-12-11 20:23:32,330 [INFO] Updated JSON: tomorrow/india-today.json
-2025-12-11 20:23:32,331 [INFO] colors-bangla.json: downloading 10 images...
-2025-12-11 20:23:32,698 [INFO] Updated JSON: tomorrow/colors-bangla.json
-2025-12-11 20:23:32,699 [INFO] aakash-aath.json: downloading 10 images...
-2025-12-11 20:23:33,021 [INFO] Updated JSON: tomorrow/aakash-aath.json
-2025-12-11 20:23:33,023 [INFO] zee-bangla.json: downloading 20 images...
-2025-12-11 20:23:33,376 [INFO] Updated JSON: tomorrow/zee-bangla.json
-2025-12-11 20:23:33,378 [INFO] et-now.json: downloading 18 images...
-2025-12-11 20:23:33,716 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:33,732 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:33,774 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:33,791 [INFO] Updated JSON: tomorrow/et-now.json
-2025-12-11 20:23:33,792 [INFO] zee-news.json: downloading 19 images...
-2025-12-11 20:23:34,078 [INFO] Updated JSON: tomorrow/zee-news.json
-2025-12-11 20:23:34,079 [INFO] colors.json: downloading 9 images...
-2025-12-11 20:23:34,172 [INFO] Updated JSON: tomorrow/colors.json
-2025-12-11 20:23:34,173 [INFO] sony-aath.json: downloading 13 images...
-2025-12-11 20:23:34,284 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:34,290 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:34,398 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:34,414 [INFO] Updated JSON: tomorrow/sony-aath.json
-2025-12-11 20:23:34,414 [INFO] all-time-movies.json: downloading 1 images...
-2025-12-11 20:23:34,438 [INFO] Updated JSON: tomorrow/all-time-movies.json
-2025-12-11 20:23:34,439 [INFO] etv-plus.json: downloading 16 images...
-2025-12-11 20:23:34,858 [INFO] Updated JSON: tomorrow/etv-plus.json
-2025-12-11 20:23:34,859 [INFO] star-plus.json: downloading 11 images...
-2025-12-11 20:23:34,956 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:34,976 [INFO] Updated JSON: tomorrow/star-plus.json
-2025-12-11 20:23:34,978 [INFO] wion.json: downloading 19 images...
-2025-12-11 20:23:35,294 [INFO] Updated JSON: tomorrow/wion.json
-2025-12-11 20:23:35,296 [INFO] 9xm.json: downloading 6 images...
-2025-12-11 20:23:35,335 [INFO] Updated JSON: tomorrow/9xm.json
-2025-12-11 20:23:35,337 [INFO] dd-bangla.json: downloading 26 images...
-2025-12-11 20:23:35,674 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:35,688 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:35,716 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:35,747 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:35,768 [INFO] Updated JSON: tomorrow/dd-bangla.json
-2025-12-11 20:23:35,769 [INFO] zee-24-ghanta.json: downloading 20 images...
-2025-12-11 20:23:35,890 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:35,903 [INFO] Updated JSON: tomorrow/zee-24-ghanta.json
-2025-12-11 20:23:35,903 [INFO] Updated JSON: tomorrow/russia-today.json
-2025-12-11 20:23:35,904 [INFO] dangal.json: downloading 11 images...
-2025-12-11 20:23:36,166 [INFO] Updated JSON: tomorrow/dangal.json
-2025-12-11 20:23:36,168 [INFO] abp-asmita.json: downloading 16 images...
-2025-12-11 20:23:36,289 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:36,290 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:36,527 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:36,540 [INFO] Updated JSON: tomorrow/abp-asmita.json
-2025-12-11 20:23:36,542 [INFO] discovery-kids.json: downloading 11 images...
-2025-12-11 20:23:36,836 [INFO] Updated JSON: tomorrow/discovery-kids.json
-2025-12-11 20:23:36,837 [INFO] sony-sab.json: downloading 5 images...
-2025-12-11 20:23:36,883 [INFO] Updated JSON: tomorrow/sony-sab.json
-2025-12-11 20:23:36,884 [INFO] star-jalsha.json: downloading 14 images...
-2025-12-11 20:23:36,980 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:37,159 [INFO] Updated JSON: tomorrow/star-jalsha.json
-2025-12-11 20:23:37,161 [INFO] national-tv-india.json: downloading 40 images...
-2025-12-11 20:23:40,484 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,485 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,571 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,606 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,618 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,694 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,726 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,727 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,753 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,883 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,903 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:40,961 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,217 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,546 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,627 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,658 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,703 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:41,945 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:42,332 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:42,985 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
-2025-12-11 20:23:43,095 [INFO] Updated JSON: tomorrow/national-tv-india.json
-2025-12-11 20:23:43,097 [INFO] abp-news.json: downloading 18 images...
-2025-12-11 20:23:43,121 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png
-2025-12-11 20:23:43,544 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:43,548 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:44,888 [INFO] Updated JSON: tomorrow/abp-news.json
-2025-12-11 20:23:44,889 [INFO] star-kiran.json: downloading 8 images...
-2025-12-11 20:23:44,937 [INFO] Updated JSON: tomorrow/star-kiran.json
-2025-12-11 20:23:44,939 [INFO] kolkata-tv.json: downloading 18 images...
-2025-12-11 20:23:45,025 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:45,047 [INFO] Updated JSON: tomorrow/kolkata-tv.json
-2025-12-11 20:23:45,048 [INFO] tv9-bangla.json: downloading 16 images...
-2025-12-11 20:23:45,148 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:45,161 [INFO] Updated JSON: tomorrow/tv9-bangla.json
-2025-12-11 20:23:45,162 [INFO] amrita-tv.json: downloading 10 images...
-2025-12-11 20:23:45,483 [INFO] Updated JSON: tomorrow/amrita-tv.json
-2025-12-11 20:23:45,485 [INFO] aastha-kannada.json: downloading 27 images...
-2025-12-11 20:23:45,618 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:45,624 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:45,628 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:45,658 [INFO] Updated JSON: tomorrow/aastha-kannada.json
-2025-12-11 20:23:45,660 [INFO] argus-news.json: downloading 34 images...
-2025-12-11 20:23:46,020 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:46,021 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:46,036 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:46,118 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
-2025-12-11 20:23:46,130 [INFO] Updated JSON: tomorrow/argus-news.json
-2025-12-11 20:23:46,131 [INFO] colors-cineplex.json: downloading 11 images...
-2025-12-11 20:23:46,620 [INFO] Updated JSON: tomorrow/colors-cineplex.json
-2025-12-11 20:23:46,620 [INFO] 
+2025-12-12 20:22:02,010 [INFO] ======================================================================
+2025-12-12 20:22:02,010 [INFO] Image Download started at 2025-12-13 01:52:02 IST
+2025-12-12 20:22:02,010 [INFO] ======================================================================
+2025-12-12 20:22:02,010 [INFO] Cleaning old images from downloaded-images
+2025-12-12 20:22:02,067 [INFO] Deleted directory: downloaded-images
+2025-12-12 20:22:02,067 [INFO] Created fresh directory: downloaded-images
+2025-12-12 20:22:02,067 [INFO] Found 88 JSON files in ./today
+2025-12-12 20:22:02,068 [INFO] Found 88 JSON files in ./tomorrow
+2025-12-12 20:22:02,068 [INFO] 
+Processing 176 JSON files total...
+2025-12-12 20:22:02,069 [INFO] zoom.json: downloading 13 images...
+2025-12-12 20:22:02,430 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:02,431 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:02,441 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:02,479 [INFO] Updated JSON: today/zoom.json
+2025-12-12 20:22:02,480 [INFO] cnbc-tv18.json: downloading 19 images...
+2025-12-12 20:22:02,592 [INFO] Updated JSON: today/cnbc-tv18.json
+2025-12-12 20:22:02,594 [INFO] sony-sports-ten1.json: downloading 12 images...
+2025-12-12 20:22:04,423 [INFO] Updated JSON: today/sony-sports-ten1.json
+2025-12-12 20:22:04,424 [INFO] animal-planet-hindi.json: downloading 29 images...
+2025-12-12 20:22:06,662 [WARNING] Download failed https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg: 404 Client Error: Not Found for url: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg
+2025-12-12 20:22:07,592 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,601 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,621 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,640 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,696 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,721 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,785 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,838 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,873 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,899 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,901 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,904 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,949 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,952 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:07,959 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:08,022 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:08,213 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:08,411 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:08,522 [WARNING] Missing after download: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg
+2025-12-12 20:22:08,522 [WARNING] Failed image for https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg
+2025-12-12 20:22:08,522 [INFO] Updated JSON: today/animal-planet-hindi.json
+2025-12-12 20:22:08,524 [INFO] 9x-jhakaas.json: downloading 7 images...
+2025-12-12 20:22:08,561 [INFO] Updated JSON: today/9x-jhakaas.json
+2025-12-12 20:22:08,563 [INFO] dd-punjabi.json: downloading 33 images...
+2025-12-12 20:22:08,727 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:08,728 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:08,872 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:08,885 [INFO] Updated JSON: today/dd-punjabi.json
+2025-12-12 20:22:08,886 [INFO] alankar.json: downloading 10 images...
+2025-12-12 20:22:09,154 [INFO] Updated JSON: today/alankar.json
+2025-12-12 20:22:09,155 [INFO] zee-24-kalak.json: downloading 25 images...
+2025-12-12 20:22:09,285 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,289 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,303 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,317 [INFO] Updated JSON: today/zee-24-kalak.json
+2025-12-12 20:22:09,318 [INFO] mirror-now.json: downloading 7 images...
+2025-12-12 20:22:09,368 [INFO] Updated JSON: today/mirror-now.json
+2025-12-12 20:22:09,369 [INFO] animal-planet.json: downloading 21 images...
+2025-12-12 20:22:09,722 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,751 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,756 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,761 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,789 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,789 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,823 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,830 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,862 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,891 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:09,909 [INFO] Updated JSON: today/animal-planet.json
+2025-12-12 20:22:09,910 [INFO] colors-gujarati-cinema.json: downloading 10 images...
+2025-12-12 20:22:10,184 [INFO] Updated JSON: today/colors-gujarati-cinema.json
+2025-12-12 20:22:10,185 [INFO] and-flix-hd.json: downloading 4 images...
+2025-12-12 20:22:10,454 [INFO] Updated JSON: today/and-flix-hd.json
+2025-12-12 20:22:10,456 [INFO] aastha-telugu.json: downloading 30 images...
+2025-12-12 20:22:10,609 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:10,614 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:10,619 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:10,622 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:10,641 [INFO] Updated JSON: today/aastha-telugu.json
+2025-12-12 20:22:10,643 [INFO] dd-india.json: downloading 15 images...
+2025-12-12 20:22:10,956 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:11,025 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:11,139 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:11,154 [INFO] Updated JSON: today/dd-india.json
+2025-12-12 20:22:11,156 [INFO] abp-ananda.json: downloading 20 images...
+2025-12-12 20:22:11,478 [INFO] Updated JSON: today/abp-ananda.json
+2025-12-12 20:22:11,480 [INFO] colors-kannada-cinema.json: downloading 14 images...
+2025-12-12 20:22:11,767 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:11,797 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:11,811 [INFO] Updated JSON: today/colors-kannada-cinema.json
+2025-12-12 20:22:11,812 [INFO] jalsha-movies.json: downloading 8 images...
+2025-12-12 20:22:12,077 [INFO] Updated JSON: today/jalsha-movies.json
+2025-12-12 20:22:12,078 [INFO] sony-max.json: downloading 3 images...
+2025-12-12 20:22:12,388 [INFO] Updated JSON: today/sony-max.json
+2025-12-12 20:22:12,389 [INFO] b4u-music.json: downloading 5 images...
+2025-12-12 20:22:12,419 [INFO] Updated JSON: today/b4u-music.json
+2025-12-12 20:22:12,420 [INFO] asianet.json: downloading 18 images...
+2025-12-12 20:22:12,753 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,758 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,775 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,817 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,829 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,853 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,906 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:12,921 [INFO] Updated JSON: today/asianet.json
+2025-12-12 20:22:12,923 [INFO] assam-talks.json: downloading 19 images...
+2025-12-12 20:22:13,040 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,043 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,057 [INFO] Updated JSON: today/assam-talks.json
+2025-12-12 20:22:13,058 [INFO] privé-hd.json: downloading 4 images...
+2025-12-12 20:22:13,395 [INFO] Updated JSON: today/privé-hd.json
+2025-12-12 20:22:13,397 [INFO] abn-andhra-jyothy.json: downloading 25 images...
+2025-12-12 20:22:13,563 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,565 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,680 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,686 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,835 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:13,848 [INFO] Updated JSON: today/abn-andhra-jyothy.json
+2025-12-12 20:22:13,849 [INFO] sony.json: downloading 8 images...
+2025-12-12 20:22:13,898 [INFO] Updated JSON: today/sony.json
+2025-12-12 20:22:13,900 [INFO] adithya-tv.json: downloading 25 images...
+2025-12-12 20:22:14,290 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,327 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,340 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,356 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,363 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,366 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,383 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,390 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,392 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,406 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,413 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,418 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,426 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,449 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,463 [INFO] Updated JSON: today/adithya-tv.json
+2025-12-12 20:22:14,465 [INFO] aastha-bhajan.json: downloading 20 images...
+2025-12-12 20:22:14,786 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:14,804 [INFO] Updated JSON: today/aastha-bhajan.json
+2025-12-12 20:22:14,805 [INFO] asianet-movies.json: downloading 7 images...
+2025-12-12 20:22:15,231 [INFO] Updated JSON: today/asianet-movies.json
+2025-12-12 20:22:15,233 [INFO] ntv.json: downloading 20 images...
+2025-12-12 20:22:15,373 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,379 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,407 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,520 [INFO] Updated JSON: today/ntv.json
+2025-12-12 20:22:15,521 [INFO] big-magic.json: downloading 10 images...
+2025-12-12 20:22:15,588 [INFO] Updated JSON: today/big-magic.json
+2025-12-12 20:22:15,591 [INFO] 10tv.json: downloading 33 images...
+2025-12-12 20:22:15,766 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,769 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,932 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:15,946 [INFO] Updated JSON: today/10tv.json
+2025-12-12 20:22:15,948 [INFO] tlc.json: downloading 16 images...
+2025-12-12 20:22:16,067 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:16,071 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:16,084 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:16,105 [INFO] Updated JSON: today/tlc.json
+2025-12-12 20:22:16,106 [INFO] mtv.json: downloading 6 images...
+2025-12-12 20:22:16,151 [INFO] Updated JSON: today/mtv.json
+2025-12-12 20:22:16,152 [INFO] aadinath.json: downloading 10 images...
+2025-12-12 20:22:16,607 [INFO] Updated JSON: today/aadinath.json
+2025-12-12 20:22:16,608 [INFO] colors-gujarati.json: downloading 11 images...
+2025-12-12 20:22:16,899 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:16,915 [INFO] Updated JSON: today/colors-gujarati.json
+2025-12-12 20:22:16,916 [INFO] cartoon-network.json: downloading 10 images...
+2025-12-12 20:22:17,350 [INFO] Updated JSON: today/cartoon-network.json
+2025-12-12 20:22:17,351 [INFO] colors-bangla-cinema.json: downloading 10 images...
+2025-12-12 20:22:17,623 [INFO] Updated JSON: today/colors-bangla-cinema.json
+2025-12-12 20:22:17,624 [INFO] colors-infinity-sd.json: downloading 7 images...
+2025-12-12 20:22:17,895 [INFO] Updated JSON: today/colors-infinity-sd.json
+2025-12-12 20:22:17,896 [INFO] b4u-movies.json: downloading 1 images...
+2025-12-12 20:22:17,919 [INFO] Updated JSON: today/b4u-movies.json
+2025-12-12 20:22:17,920 [INFO] b4u-bhojpuri.json: downloading 9 images...
+2025-12-12 20:22:18,287 [INFO] Updated JSON: today/b4u-bhojpuri.json
+2025-12-12 20:22:18,289 [INFO] surya-tv.json: downloading 16 images...
+2025-12-12 20:22:18,685 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:18,698 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:18,703 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:18,745 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:18,763 [INFO] Updated JSON: today/surya-tv.json
+2025-12-12 20:22:18,764 [INFO] zee-tv.json: downloading 12 images...
+2025-12-12 20:22:18,997 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:19,046 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:19,060 [INFO] Updated JSON: today/zee-tv.json
+2025-12-12 20:22:19,061 [INFO] and-pictures.json: downloading 8 images...
+2025-12-12 20:22:19,451 [INFO] Updated JSON: today/and-pictures.json
+2025-12-12 20:22:19,453 [INFO] republic-tv.json: downloading 10 images...
+2025-12-12 20:22:19,737 [INFO] Updated JSON: today/republic-tv.json
+2025-12-12 20:22:19,739 [INFO] sun-tv.json: downloading 29 images...
+2025-12-12 20:22:19,926 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:19,960 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,125 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,166 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,178 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,197 [INFO] Updated JSON: today/sun-tv.json
+2025-12-12 20:22:20,199 [INFO] abp-majha.json: downloading 23 images...
+2025-12-12 20:22:20,328 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,355 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,356 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,367 [INFO] Updated JSON: today/abp-majha.json
+2025-12-12 20:22:20,370 [INFO] aradana-tv.json: downloading 36 images...
+2025-12-12 20:22:20,880 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,889 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,892 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,894 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,896 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,896 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,903 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,917 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,930 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,937 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,949 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,952 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,961 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,983 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:20,992 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,004 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,005 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,016 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,097 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,109 [INFO] Updated JSON: today/aradana-tv.json
+2025-12-12 20:22:21,110 [INFO] star-bharat.json: downloading 8 images...
+2025-12-12 20:22:21,402 [INFO] Updated JSON: today/star-bharat.json
+2025-12-12 20:22:21,404 [INFO] aastha-gujarati.json: downloading 27 images...
+2025-12-12 20:22:21,757 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:21,773 [INFO] Updated JSON: today/aastha-gujarati.json
+2025-12-12 20:22:21,775 [INFO] aaj-tak.json: downloading 20 images...
+2025-12-12 20:22:21,910 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,015 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,054 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,071 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,084 [INFO] Updated JSON: today/aaj-tak.json
+2025-12-12 20:22:22,085 [INFO] colors-marathi-sd.json: downloading 8 images...
+2025-12-12 20:22:22,148 [INFO] Updated JSON: today/colors-marathi-sd.json
+2025-12-12 20:22:22,149 [INFO] aastha.json: downloading 16 images...
+2025-12-12 20:22:22,496 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,540 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,545 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,554 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,568 [INFO] Updated JSON: today/aastha.json
+2025-12-12 20:22:22,570 [INFO] pogo.json: downloading 11 images...
+2025-12-12 20:22:22,909 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:22,926 [INFO] Updated JSON: today/pogo.json
+2025-12-12 20:22:22,928 [INFO] zee-up-uk.json: downloading 26 images...
+2025-12-12 20:22:23,057 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,125 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,203 [INFO] Updated JSON: today/zee-up-uk.json
+2025-12-12 20:22:23,205 [INFO] bbc-world-news.json: downloading 19 images...
+2025-12-12 20:22:23,321 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,333 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,510 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,521 [INFO] Updated JSON: today/bbc-world-news.json
+2025-12-12 20:22:23,523 [INFO] history-tv18-hd.json: downloading 29 images...
+2025-12-12 20:22:23,702 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,747 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,815 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,960 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:23,976 [INFO] Updated JSON: today/history-tv18-hd.json
+2025-12-12 20:22:23,977 [INFO] 9x-tashan.json: downloading 14 images...
+2025-12-12 20:22:24,097 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,097 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,099 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,210 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,222 [INFO] Updated JSON: today/9x-tashan.json
+2025-12-12 20:22:24,223 [INFO] tv9-gujarati.json: downloading 18 images...
+2025-12-12 20:22:24,341 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,343 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:24,504 [INFO] Updated JSON: today/tv9-gujarati.json
+2025-12-12 20:22:24,505 [INFO] india-today.json: downloading 2 images...
+2025-12-12 20:22:24,530 [INFO] Updated JSON: today/india-today.json
+2025-12-12 20:22:24,531 [INFO] colors-bangla.json: downloading 10 images...
+2025-12-12 20:22:24,746 [INFO] Updated JSON: today/colors-bangla.json
+2025-12-12 20:22:24,748 [INFO] aakash-aath.json: downloading 10 images...
+2025-12-12 20:22:25,013 [INFO] Updated JSON: today/aakash-aath.json
+2025-12-12 20:22:25,015 [INFO] zee-bangla.json: downloading 20 images...
+2025-12-12 20:22:25,166 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:25,254 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:25,365 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:25,385 [INFO] Updated JSON: today/zee-bangla.json
+2025-12-12 20:22:25,387 [INFO] et-now.json: downloading 23 images...
+2025-12-12 20:22:25,768 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:25,781 [INFO] Updated JSON: today/et-now.json
+2025-12-12 20:22:25,783 [INFO] zee-news.json: downloading 19 images...
+2025-12-12 20:22:25,885 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:26,079 [INFO] Updated JSON: today/zee-news.json
+2025-12-12 20:22:26,080 [INFO] colors.json: downloading 9 images...
+2025-12-12 20:22:26,424 [INFO] Updated JSON: today/colors.json
+2025-12-12 20:22:26,425 [INFO] sony-aath.json: downloading 13 images...
+2025-12-12 20:22:26,719 [INFO] Updated JSON: today/sony-aath.json
+2025-12-12 20:22:26,719 [INFO] all-time-movies.json: downloading 1 images...
+2025-12-12 20:22:26,742 [INFO] Updated JSON: today/all-time-movies.json
+2025-12-12 20:22:26,744 [INFO] etv-plus.json: downloading 16 images...
+2025-12-12 20:22:27,009 [INFO] Updated JSON: today/etv-plus.json
+2025-12-12 20:22:27,011 [INFO] star-plus.json: downloading 11 images...
+2025-12-12 20:22:27,116 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:27,135 [INFO] Updated JSON: today/star-plus.json
+2025-12-12 20:22:27,137 [INFO] wion.json: downloading 19 images...
+2025-12-12 20:22:27,266 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:27,267 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:27,392 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:27,404 [INFO] Updated JSON: today/wion.json
+2025-12-12 20:22:27,405 [INFO] 9xm.json: downloading 6 images...
+2025-12-12 20:22:27,442 [INFO] Updated JSON: today/9xm.json
+2025-12-12 20:22:27,444 [INFO] al-jazeera-english.json: downloading 12 images...
+2025-12-12 20:22:27,835 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:27,844 [INFO] Updated JSON: today/al-jazeera-english.json
+2025-12-12 20:22:27,846 [INFO] dd-bangla.json: downloading 26 images...
+2025-12-12 20:22:28,169 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:28,222 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:28,235 [INFO] Updated JSON: today/dd-bangla.json
+2025-12-12 20:22:28,236 [INFO] zee-24-ghanta.json: downloading 20 images...
+2025-12-12 20:22:28,602 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:28,614 [INFO] Updated JSON: today/zee-24-ghanta.json
+2025-12-12 20:22:28,615 [INFO] russia-today.json: downloading 1 images...
+2025-12-12 20:22:28,632 [INFO] Updated JSON: today/russia-today.json
+2025-12-12 20:22:28,633 [INFO] dangal.json: downloading 12 images...
+2025-12-12 20:22:28,879 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:28,947 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:28,957 [INFO] Updated JSON: today/dangal.json
+2025-12-12 20:22:28,958 [INFO] abp-asmita.json: downloading 16 images...
+2025-12-12 20:22:29,274 [INFO] Updated JSON: today/abp-asmita.json
+2025-12-12 20:22:29,275 [INFO] discovery-kids.json: downloading 11 images...
+2025-12-12 20:22:29,364 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:29,376 [INFO] Updated JSON: today/discovery-kids.json
+2025-12-12 20:22:29,377 [INFO] sony-sab.json: downloading 5 images...
+2025-12-12 20:22:29,419 [INFO] Updated JSON: today/sony-sab.json
+2025-12-12 20:22:29,421 [INFO] star-jalsha.json: downloading 14 images...
+2025-12-12 20:22:29,720 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:29,732 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:29,732 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:29,737 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:29,751 [INFO] Updated JSON: today/star-jalsha.json
+2025-12-12 20:22:29,752 [INFO] national-tv-india.json: downloading 40 images...
+2025-12-12 20:22:31,560 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,614 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,624 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,669 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,711 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,748 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,779 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,835 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,851 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,874 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,890 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,921 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:31,983 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,046 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,179 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,200 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,313 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,326 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,344 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,600 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:32,712 [INFO] Updated JSON: today/national-tv-india.json
+2025-12-12 20:22:32,714 [INFO] abp-news.json: downloading 18 images...
+2025-12-12 20:22:32,832 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:32,989 [INFO] Updated JSON: today/abp-news.json
+2025-12-12 20:22:32,990 [INFO] star-kiran.json: downloading 8 images...
+2025-12-12 20:22:33,336 [INFO] Updated JSON: today/star-kiran.json
+2025-12-12 20:22:33,338 [INFO] kolkata-tv.json: downloading 18 images...
+2025-12-12 20:22:33,618 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:33,628 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:33,636 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:33,675 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:33,687 [INFO] Updated JSON: today/kolkata-tv.json
+2025-12-12 20:22:33,689 [INFO] tv9-bangla.json: downloading 16 images...
+2025-12-12 20:22:33,799 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:33,810 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,082 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,095 [INFO] Updated JSON: today/tv9-bangla.json
+2025-12-12 20:22:34,096 [INFO] amrita-tv.json: downloading 12 images...
+2025-12-12 20:22:34,359 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,376 [INFO] Updated JSON: today/amrita-tv.json
+2025-12-12 20:22:34,378 [INFO] aastha-kannada.json: downloading 27 images...
+2025-12-12 20:22:34,714 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,769 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,784 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:34,796 [INFO] Updated JSON: today/aastha-kannada.json
+2025-12-12 20:22:34,798 [INFO] argus-news.json: downloading 34 images...
+2025-12-12 20:22:34,972 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,144 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,214 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,250 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,263 [INFO] Updated JSON: today/argus-news.json
+2025-12-12 20:22:35,264 [INFO] colors-cineplex.json: downloading 11 images...
+2025-12-12 20:22:35,359 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,372 [INFO] Updated JSON: today/colors-cineplex.json
+2025-12-12 20:22:35,372 [INFO] zoom.json: downloading 11 images...
+2025-12-12 20:22:35,430 [INFO] Updated JSON: tomorrow/zoom.json
+2025-12-12 20:22:35,431 [INFO] cnbc-tv18.json: downloading 17 images...
+2025-12-12 20:22:35,565 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,565 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,641 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,768 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:35,780 [INFO] Updated JSON: tomorrow/cnbc-tv18.json
+2025-12-12 20:22:35,781 [INFO] sony-sports-ten1.json: downloading 11 images...
+2025-12-12 20:22:36,123 [INFO] Updated JSON: tomorrow/sony-sports-ten1.json
+2025-12-12 20:22:36,124 [INFO] animal-planet-hindi.json: downloading 31 images...
+2025-12-12 20:22:36,407 [WARNING] Download failed https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg: 404 Client Error: Not Found for url: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg
+2025-12-12 20:22:37,453 [WARNING] Download failed https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg: 404 Client Error: Not Found for url: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg
+2025-12-12 20:22:37,699 [WARNING] Download failed https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg: 404 Client Error: Not Found for url: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg
+2025-12-12 20:22:38,860 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,045 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,108 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,495 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,863 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,880 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,901 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:39,993 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,157 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,215 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,371 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,486 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,492 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,498 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,810 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:40,924 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:41,132 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:41,309 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:22:41,421 [WARNING] Missing after download: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg
+2025-12-12 20:22:41,421 [WARNING] Missing after download: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg
+2025-12-12 20:22:41,421 [WARNING] Missing after download: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg
+2025-12-12 20:22:41,421 [WARNING] Failed image for https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg
+2025-12-12 20:22:41,421 [WARNING] Failed image for https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg
+2025-12-12 20:22:41,421 [WARNING] Failed image for https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg
+2025-12-12 20:22:41,422 [INFO] Updated JSON: tomorrow/animal-planet-hindi.json
+2025-12-12 20:22:41,423 [INFO] 9x-jhakaas.json: downloading 6 images...
+2025-12-12 20:22:41,458 [INFO] Updated JSON: tomorrow/9x-jhakaas.json
+2025-12-12 20:22:41,460 [INFO] dd-punjabi.json: downloading 29 images...
+2025-12-12 20:22:41,831 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:41,841 [INFO] Updated JSON: tomorrow/dd-punjabi.json
+2025-12-12 20:22:41,842 [INFO] alankar.json: downloading 10 images...
+2025-12-12 20:22:42,143 [INFO] Updated JSON: tomorrow/alankar.json
+2025-12-12 20:22:42,145 [INFO] zee-24-kalak.json: downloading 26 images...
+2025-12-12 20:22:42,456 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,469 [INFO] Updated JSON: tomorrow/zee-24-kalak.json
+2025-12-12 20:22:42,471 [INFO] mirror-now.json: downloading 4 images...
+2025-12-12 20:22:42,496 [INFO] Updated JSON: tomorrow/mirror-now.json
+2025-12-12 20:22:42,498 [INFO] animal-planet.json: downloading 22 images...
+2025-12-12 20:22:42,842 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,869 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,913 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,914 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,966 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:42,985 [INFO] Updated JSON: tomorrow/animal-planet.json
+2025-12-12 20:22:42,986 [INFO] colors-gujarati-cinema.json: downloading 10 images...
+2025-12-12 20:22:44,790 [INFO] Updated JSON: tomorrow/colors-gujarati-cinema.json
+2025-12-12 20:22:44,791 [INFO] and-flix-hd.json: downloading 1 images...
+2025-12-12 20:22:44,815 [INFO] Updated JSON: tomorrow/and-flix-hd.json
+2025-12-12 20:22:44,817 [INFO] aastha-telugu.json: downloading 29 images...
+2025-12-12 20:22:44,946 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:44,966 [INFO] Updated JSON: tomorrow/aastha-telugu.json
+2025-12-12 20:22:44,967 [INFO] dd-india.json: downloading 17 images...
+2025-12-12 20:22:45,263 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,343 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,348 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,360 [INFO] Updated JSON: tomorrow/dd-india.json
+2025-12-12 20:22:45,362 [INFO] abp-ananda.json: downloading 18 images...
+2025-12-12 20:22:45,478 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,488 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,497 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:45,825 [INFO] Updated JSON: tomorrow/abp-ananda.json
+2025-12-12 20:22:45,826 [INFO] colors-kannada-cinema.json: downloading 10 images...
+2025-12-12 20:22:45,898 [INFO] Updated JSON: tomorrow/colors-kannada-cinema.json
+2025-12-12 20:22:45,899 [INFO] jalsha-movies.json: downloading 9 images...
+2025-12-12 20:22:46,249 [INFO] Updated JSON: tomorrow/jalsha-movies.json
+2025-12-12 20:22:46,249 [INFO] sony-max.json: downloading 1 images...
+2025-12-12 20:22:46,274 [INFO] Updated JSON: tomorrow/sony-max.json
+2025-12-12 20:22:46,275 [INFO] b4u-music.json: downloading 5 images...
+2025-12-12 20:22:46,305 [INFO] Updated JSON: tomorrow/b4u-music.json
+2025-12-12 20:22:46,306 [INFO] asianet.json: downloading 13 images...
+2025-12-12 20:22:46,594 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:46,605 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:46,701 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:46,718 [INFO] Updated JSON: tomorrow/asianet.json
+2025-12-12 20:22:46,720 [INFO] assam-talks.json: downloading 20 images...
+2025-12-12 20:22:46,859 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:46,860 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,015 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,018 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,034 [INFO] Updated JSON: tomorrow/assam-talks.json
+2025-12-12 20:22:47,035 [INFO] privé-hd.json: downloading 3 images...
+2025-12-12 20:22:47,299 [INFO] Updated JSON: tomorrow/privé-hd.json
+2025-12-12 20:22:47,301 [INFO] abn-andhra-jyothy.json: downloading 27 images...
+2025-12-12 20:22:47,648 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,661 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,682 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,695 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:47,707 [INFO] Updated JSON: tomorrow/abn-andhra-jyothy.json
+2025-12-12 20:22:47,708 [INFO] sony.json: downloading 9 images...
+2025-12-12 20:22:47,768 [INFO] Updated JSON: tomorrow/sony.json
+2025-12-12 20:22:47,769 [INFO] adithya-tv.json: downloading 26 images...
+2025-12-12 20:22:48,141 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,151 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,164 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,179 [INFO] Updated JSON: tomorrow/adithya-tv.json
+2025-12-12 20:22:48,181 [INFO] aastha-bhajan.json: downloading 20 images...
+2025-12-12 20:22:48,312 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,315 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,382 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:48,395 [INFO] Updated JSON: tomorrow/aastha-bhajan.json
+2025-12-12 20:22:48,396 [INFO] asianet-movies.json: downloading 9 images...
+2025-12-12 20:22:48,808 [INFO] Updated JSON: tomorrow/asianet-movies.json
+2025-12-12 20:22:48,810 [INFO] ntv.json: downloading 23 images...
+2025-12-12 20:22:49,169 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:49,171 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:49,192 [INFO] Updated JSON: tomorrow/ntv.json
+2025-12-12 20:22:49,193 [INFO] big-magic.json: downloading 10 images...
+2025-12-12 20:22:49,259 [INFO] Updated JSON: tomorrow/big-magic.json
+2025-12-12 20:22:49,261 [INFO] 10tv.json: downloading 33 images...
+2025-12-12 20:22:49,664 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:49,672 [INFO] Updated JSON: tomorrow/10tv.json
+2025-12-12 20:22:49,673 [INFO] tlc.json: downloading 16 images...
+2025-12-12 20:22:49,794 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:49,927 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:50,026 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:50,043 [INFO] Updated JSON: tomorrow/tlc.json
+2025-12-12 20:22:50,044 [INFO] mtv.json: downloading 7 images...
+2025-12-12 20:22:50,361 [INFO] Updated JSON: tomorrow/mtv.json
+2025-12-12 20:22:50,363 [INFO] aadinath.json: downloading 12 images...
+2025-12-12 20:22:50,629 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:50,642 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:50,655 [INFO] Updated JSON: tomorrow/aadinath.json
+2025-12-12 20:22:50,656 [INFO] colors-gujarati.json: downloading 10 images...
+2025-12-12 20:22:50,924 [INFO] Updated JSON: tomorrow/colors-gujarati.json
+2025-12-12 20:22:50,925 [INFO] cartoon-network.json: downloading 9 images...
+2025-12-12 20:22:51,244 [INFO] Updated JSON: tomorrow/cartoon-network.json
+2025-12-12 20:22:51,245 [INFO] colors-bangla-cinema.json: downloading 10 images...
+2025-12-12 20:22:51,589 [INFO] Updated JSON: tomorrow/colors-bangla-cinema.json
+2025-12-12 20:22:51,590 [INFO] colors-infinity-sd.json: downloading 6 images...
+2025-12-12 20:22:51,639 [INFO] Updated JSON: tomorrow/colors-infinity-sd.json
+2025-12-12 20:22:51,639 [INFO] b4u-movies.json: downloading 1 images...
+2025-12-12 20:22:51,662 [INFO] Updated JSON: tomorrow/b4u-movies.json
+2025-12-12 20:22:51,662 [INFO] b4u-bhojpuri.json: downloading 3 images...
+2025-12-12 20:22:51,688 [INFO] Updated JSON: tomorrow/b4u-bhojpuri.json
+2025-12-12 20:22:51,689 [INFO] surya-tv.json: downloading 17 images...
+2025-12-12 20:22:51,843 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:51,962 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,006 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,059 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,107 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,119 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,138 [INFO] Updated JSON: tomorrow/surya-tv.json
+2025-12-12 20:22:52,139 [INFO] zee-tv.json: downloading 13 images...
+2025-12-12 20:22:52,367 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,512 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,523 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:52,538 [INFO] Updated JSON: tomorrow/zee-tv.json
+2025-12-12 20:22:52,539 [INFO] and-pictures.json: downloading 4 images...
+2025-12-12 20:22:52,579 [INFO] Updated JSON: tomorrow/and-pictures.json
+2025-12-12 20:22:52,580 [INFO] republic-tv.json: downloading 9 images...
+2025-12-12 20:22:52,851 [INFO] Updated JSON: tomorrow/republic-tv.json
+2025-12-12 20:22:52,853 [INFO] sun-tv.json: downloading 19 images...
+2025-12-12 20:22:53,195 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,235 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,256 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,329 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,345 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,360 [INFO] Updated JSON: tomorrow/sun-tv.json
+2025-12-12 20:22:53,362 [INFO] abp-majha.json: downloading 22 images...
+2025-12-12 20:22:53,517 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,525 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,535 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,539 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,542 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,548 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,562 [INFO] Updated JSON: tomorrow/abp-majha.json
+2025-12-12 20:22:53,564 [INFO] aradana-tv.json: downloading 26 images...
+2025-12-12 20:22:53,911 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,934 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,978 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,992 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:53,993 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:54,009 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:54,047 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:54,058 [INFO] Updated JSON: tomorrow/aradana-tv.json
+2025-12-12 20:22:54,059 [INFO] star-bharat.json: downloading 9 images...
+2025-12-12 20:22:54,437 [INFO] Updated JSON: tomorrow/star-bharat.json
+2025-12-12 20:22:54,439 [INFO] aastha-gujarati.json: downloading 27 images...
+2025-12-12 20:22:54,581 [INFO] Updated JSON: tomorrow/aastha-gujarati.json
+2025-12-12 20:22:54,583 [INFO] aaj-tak.json: downloading 19 images...
+2025-12-12 20:22:54,691 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:54,918 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:54,930 [INFO] Updated JSON: tomorrow/aaj-tak.json
+2025-12-12 20:22:54,931 [INFO] colors-marathi-sd.json: downloading 9 images...
+2025-12-12 20:22:55,199 [INFO] Updated JSON: tomorrow/colors-marathi-sd.json
+2025-12-12 20:22:55,200 [INFO] aastha.json: downloading 16 images...
+2025-12-12 20:22:55,326 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:55,451 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:55,478 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:55,526 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:55,536 [INFO] Updated JSON: tomorrow/aastha.json
+2025-12-12 20:22:55,538 [INFO] pogo.json: downloading 14 images...
+2025-12-12 20:22:55,656 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:55,671 [INFO] Updated JSON: tomorrow/pogo.json
+2025-12-12 20:22:55,673 [INFO] zee-up-uk.json: downloading 26 images...
+2025-12-12 20:22:55,952 [INFO] Updated JSON: tomorrow/zee-up-uk.json
+2025-12-12 20:22:55,954 [INFO] bbc-world-news.json: downloading 12 images...
+2025-12-12 20:22:56,037 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:56,236 [INFO] Updated JSON: tomorrow/bbc-world-news.json
+2025-12-12 20:22:56,238 [INFO] history-tv18-hd.json: downloading 29 images...
+2025-12-12 20:22:56,663 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:56,686 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:56,726 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:56,741 [INFO] Updated JSON: tomorrow/history-tv18-hd.json
+2025-12-12 20:22:56,743 [INFO] 9x-tashan.json: downloading 14 images...
+2025-12-12 20:22:56,824 [INFO] Updated JSON: tomorrow/9x-tashan.json
+2025-12-12 20:22:56,825 [INFO] tv9-gujarati.json: downloading 20 images...
+2025-12-12 20:22:57,094 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:57,259 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:57,276 [INFO] Updated JSON: tomorrow/tv9-gujarati.json
+2025-12-12 20:22:57,276 [INFO] Updated JSON: tomorrow/india-today.json
+2025-12-12 20:22:57,277 [INFO] colors-bangla.json: downloading 9 images...
+2025-12-12 20:22:57,602 [INFO] Updated JSON: tomorrow/colors-bangla.json
+2025-12-12 20:22:57,603 [INFO] aakash-aath.json: downloading 12 images...
+2025-12-12 20:22:57,917 [INFO] Updated JSON: tomorrow/aakash-aath.json
+2025-12-12 20:22:57,918 [INFO] zee-bangla.json: downloading 20 images...
+2025-12-12 20:22:58,203 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,212 [INFO] Updated JSON: tomorrow/zee-bangla.json
+2025-12-12 20:22:58,214 [INFO] et-now.json: downloading 18 images...
+2025-12-12 20:22:58,345 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,357 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,446 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,452 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,498 [INFO] Updated JSON: tomorrow/et-now.json
+2025-12-12 20:22:58,499 [INFO] zee-news.json: downloading 19 images...
+2025-12-12 20:22:58,614 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,625 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,635 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,775 [INFO] Updated JSON: tomorrow/zee-news.json
+2025-12-12 20:22:58,776 [INFO] colors.json: downloading 9 images...
+2025-12-12 20:22:58,867 [INFO] Updated JSON: tomorrow/colors.json
+2025-12-12 20:22:58,868 [INFO] sony-aath.json: downloading 13 images...
+2025-12-12 20:22:58,979 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:58,987 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:59,006 [INFO] Updated JSON: tomorrow/sony-aath.json
+2025-12-12 20:22:59,006 [INFO] all-time-movies.json: downloading 1 images...
+2025-12-12 20:22:59,030 [INFO] Updated JSON: tomorrow/all-time-movies.json
+2025-12-12 20:22:59,031 [INFO] etv-plus.json: downloading 15 images...
+2025-12-12 20:22:59,511 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:59,520 [INFO] Updated JSON: tomorrow/etv-plus.json
+2025-12-12 20:22:59,521 [INFO] star-plus.json: downloading 11 images...
+2025-12-12 20:22:59,825 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:22:59,839 [INFO] Updated JSON: tomorrow/star-plus.json
+2025-12-12 20:22:59,841 [INFO] wion.json: downloading 13 images...
+2025-12-12 20:23:00,156 [INFO] Updated JSON: tomorrow/wion.json
+2025-12-12 20:23:00,157 [INFO] 9xm.json: downloading 6 images...
+2025-12-12 20:23:00,193 [INFO] Updated JSON: tomorrow/9xm.json
+2025-12-12 20:23:00,195 [INFO] al-jazeera-english.json: downloading 13 images...
+2025-12-12 20:23:00,453 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:00,505 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:00,509 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:00,524 [INFO] Updated JSON: tomorrow/al-jazeera-english.json
+2025-12-12 20:23:00,526 [INFO] dd-bangla.json: downloading 24 images...
+2025-12-12 20:23:00,883 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:00,908 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:00,919 [INFO] Updated JSON: tomorrow/dd-bangla.json
+2025-12-12 20:23:00,920 [INFO] zee-24-ghanta.json: downloading 20 images...
+2025-12-12 20:23:01,021 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:01,035 [INFO] Updated JSON: tomorrow/zee-24-ghanta.json
+2025-12-12 20:23:01,035 [INFO] Updated JSON: tomorrow/russia-today.json
+2025-12-12 20:23:01,036 [INFO] dangal.json: downloading 11 images...
+2025-12-12 20:23:01,564 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:01,579 [INFO] Updated JSON: tomorrow/dangal.json
+2025-12-12 20:23:01,580 [INFO] abp-asmita.json: downloading 16 images...
+2025-12-12 20:23:01,824 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:01,832 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:01,857 [INFO] Updated JSON: tomorrow/abp-asmita.json
+2025-12-12 20:23:01,859 [INFO] discovery-kids.json: downloading 13 images...
+2025-12-12 20:23:02,138 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,259 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,355 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,368 [INFO] Updated JSON: tomorrow/discovery-kids.json
+2025-12-12 20:23:02,369 [INFO] sony-sab.json: downloading 1 images...
+2025-12-12 20:23:02,392 [INFO] Updated JSON: tomorrow/sony-sab.json
+2025-12-12 20:23:02,393 [INFO] star-jalsha.json: downloading 15 images...
+2025-12-12 20:23:02,504 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,513 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,517 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,637 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:02,647 [INFO] Updated JSON: tomorrow/star-jalsha.json
+2025-12-12 20:23:02,649 [INFO] national-tv-india.json: downloading 40 images...
+2025-12-12 20:23:05,931 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,019 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,060 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,072 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,087 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,306 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,306 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,359 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,370 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,440 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,452 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,475 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,562 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,689 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,828 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,834 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,916 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:06,925 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:07,089 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:08,194 [WARNING] Connection pool is full, discarding connection: jiotv.catchup.cdn.jio.com. Connection pool size: 10
+2025-12-12 20:23:08,308 [INFO] Updated JSON: tomorrow/national-tv-india.json
+2025-12-12 20:23:08,310 [INFO] abp-news.json: downloading 22 images...
+2025-12-12 20:23:08,663 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:08,693 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:08,742 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:08,757 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:10,037 [INFO] Updated JSON: tomorrow/abp-news.json
+2025-12-12 20:23:10,038 [INFO] star-kiran.json: downloading 8 images...
+2025-12-12 20:23:10,294 [INFO] Updated JSON: tomorrow/star-kiran.json
+2025-12-12 20:23:10,295 [INFO] kolkata-tv.json: downloading 17 images...
+2025-12-12 20:23:10,414 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:10,420 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:10,432 [INFO] Updated JSON: tomorrow/kolkata-tv.json
+2025-12-12 20:23:10,433 [INFO] tv9-bangla.json: downloading 18 images...
+2025-12-12 20:23:10,736 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:10,751 [INFO] Updated JSON: tomorrow/tv9-bangla.json
+2025-12-12 20:23:10,752 [INFO] amrita-tv.json: downloading 13 images...
+2025-12-12 20:23:11,213 [INFO] Updated JSON: tomorrow/amrita-tv.json
+2025-12-12 20:23:11,214 [INFO] aastha-kannada.json: downloading 27 images...
+2025-12-12 20:23:11,357 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:11,397 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:11,397 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:11,413 [INFO] Updated JSON: tomorrow/aastha-kannada.json
+2025-12-12 20:23:11,416 [INFO] argus-news.json: downloading 34 images...
+2025-12-12 20:23:11,800 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:11,863 [WARNING] Connection pool is full, discarding connection: dtil.tmsimg.com. Connection pool size: 10
+2025-12-12 20:23:11,873 [INFO] Updated JSON: tomorrow/argus-news.json
+2025-12-12 20:23:11,874 [INFO] colors-cineplex.json: downloading 10 images...
+2025-12-12 20:23:12,231 [INFO] Updated JSON: tomorrow/colors-cineplex.json
+2025-12-12 20:23:12,231 [INFO] 
 ======================================================================
-2025-12-11 20:23:46,620 [INFO] IMAGE DOWNLOAD SUMMARY
-2025-12-11 20:23:46,620 [INFO] ======================================================================
-2025-12-11 20:23:46,620 [INFO] Total JSON files processed: 160
-2025-12-11 20:23:46,620 [INFO] Total failed downloads: 2
-2025-12-11 20:23:46,620 [INFO] Duration: 54.46 seconds
-2025-12-11 20:23:46,621 [INFO] 
+2025-12-12 20:23:12,231 [INFO] IMAGE DOWNLOAD SUMMARY
+2025-12-12 20:23:12,231 [INFO] ======================================================================
+2025-12-12 20:23:12,231 [INFO] Total JSON files processed: 176
+2025-12-12 20:23:12,231 [INFO] Total failed downloads: 8
+2025-12-12 20:23:12,232 [INFO] Duration: 70.22 seconds
+2025-12-12 20:23:12,232 [INFO] 
 FAILED DOWNLOADS:
-2025-12-11 20:23:46,621 [ERROR]   File: today/good-times.json
-2025-12-11 20:23:46,621 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg
-2025-12-11 20:23:46,621 [ERROR]   Reason: File missing after download
-2025-12-11 20:23:46,621 [ERROR] 
-2025-12-11 20:23:46,621 [ERROR]   File: today/good-times.json
-2025-12-11 20:23:46,621 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-12/251212560019.jpg
-2025-12-11 20:23:46,621 [ERROR]   Reason: Download failed
-2025-12-11 20:23:46,621 [ERROR] 
-2025-12-11 20:23:46,621 [INFO] ======================================================================
-2025-12-11 20:23:46,621 [INFO] 
-Completed at 2025-12-12 01:53:46 IST
-2025-12-11 20:23:46,621 [INFO] All done.
+2025-12-12 20:23:12,232 [ERROR]   File: today/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg
+2025-12-12 20:23:12,232 [ERROR]   Reason: File missing after download
+2025-12-12 20:23:12,232 [ERROR] 
+2025-12-12 20:23:12,232 [ERROR]   File: today/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-13/251213566028.jpg
+2025-12-12 20:23:12,232 [ERROR]   Reason: Download failed
+2025-12-12 20:23:12,232 [ERROR] 
+2025-12-12 20:23:12,232 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg
+2025-12-12 20:23:12,232 [ERROR]   Reason: File missing after download
+2025-12-12 20:23:12,232 [ERROR] 
+2025-12-12 20:23:12,232 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg
+2025-12-12 20:23:12,232 [ERROR]   Reason: File missing after download
+2025-12-12 20:23:12,232 [ERROR] 
+2025-12-12 20:23:12,232 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg
+2025-12-12 20:23:12,232 [ERROR]   Reason: File missing after download
+2025-12-12 20:23:12,232 [ERROR] 
+2025-12-12 20:23:12,232 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,232 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg
+2025-12-12 20:23:12,233 [ERROR]   Reason: Download failed
+2025-12-12 20:23:12,233 [ERROR] 
+2025-12-12 20:23:12,233 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,233 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg
+2025-12-12 20:23:12,233 [ERROR]   Reason: Download failed
+2025-12-12 20:23:12,233 [ERROR] 
+2025-12-12 20:23:12,233 [ERROR]   File: tomorrow/animal-planet-hindi.json
+2025-12-12 20:23:12,233 [ERROR]   URL: https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg
+2025-12-12 20:23:12,233 [ERROR]   Reason: Download failed
+2025-12-12 20:23:12,233 [ERROR] 
+2025-12-12 20:23:12,233 [INFO] ======================================================================
+2025-12-12 20:23:12,233 [INFO] 
+Completed at 2025-12-13 01:53:12 IST
+2025-12-12 20:23:12,233 [INFO] All done.

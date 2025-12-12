@@ -1,6 +1,6 @@
 {
   "channel_name": "Republic TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "R News",
@@ -105,10 +105,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p27427554_b_h9_ab_07556614af.webp"
     },
     {
-      "show_name": "Live This Morning",
+      "show_name": "Tvs: From Evolution To Revolution",
       "start_time": "8:30 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p27427554_b_h9_ab_07556614af.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/default_880x660_c51365f14d.webp"
     },
     {
       "show_name": "Live And Breaking",
@@ -125,6 +125,12 @@
     {
       "show_name": "Live And Breaking",
       "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
+    },
+    {
+      "show_name": "Live And Breaking",
+      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
@@ -147,14 +153,20 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "R Defence",
       "start_time": "12:30 PM",
       "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31660565_b_h9_aa_42248c3c85.webp"
     },
     {
       "show_name": "Live And Breaking",
       "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
+    },
+    {
+      "show_name": "Live And Breaking",
+      "start_time": "1:30 PM",
       "end_time": "2:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
@@ -189,10 +201,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
     {
-      "show_name": "Live And Breaking",
+      "show_name": "Leadership Lens",
       "start_time": "4:30 PM",
       "end_time": "5:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/default_880x660_c51365f14d.webp"
     },
     {
       "show_name": "Live And Breaking",
@@ -219,64 +231,64 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
     {
-      "show_name": "This Is Exclusive",
+      "show_name": "The New Business of Life",
       "start_time": "7:00 PM",
       "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150944_b_h9_aa_b7577da321.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31655060_b_h9_aa_923e494797.webp"
     },
     {
-      "show_name": "Trending",
+      "show_name": "The New Business of Life",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799255_b_h9_aa_797e65ef4e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31655060_b_h9_aa_923e494797.webp"
     },
     {
-      "show_name": "The Debate With Arnab Goswami @ 8",
+      "show_name": "Live And Breaking",
       "start_time": "8:00 PM",
       "end_time": "8:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p27341884_b_h9_aa_6a76218541.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
     {
-      "show_name": "The Debate With Arnab Goswami @ 8",
+      "show_name": "Live And Breaking",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p27341884_b_h9_aa_6a76218541.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p22150906_b_h9_aa_1ca9629f6a.webp"
     },
     {
-      "show_name": "The Debate With Arnab Goswami @ 9",
+      "show_name": "The Long Format",
       "start_time": "9:00 PM",
       "end_time": "9:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799307_b_h9_aa_c0cd2c2179.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31320195_b_h9_aa_2ab8c3fb4d.webp"
     },
     {
-      "show_name": "The Debate With Arnab Goswami @ 9",
+      "show_name": "The Long Format",
       "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799307_b_h9_aa_c0cd2c2179.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31320195_b_h9_aa_2ab8c3fb4d.webp"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "The Legal Side of Things",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799267_b_h9_aa_ee8f8a8837.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31655214_b_h9_aa_47e0854baf.webp"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "The Legal Side of Things",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799267_b_h9_aa_ee8f8a8837.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p31655214_b_h9_aa_47e0854baf.webp"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "R News",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799267_b_h9_aa_ee8f8a8837.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p26809216_b_h9_aa_d4baee11e0.webp"
     },
     {
-      "show_name": "The Debate Late Tonight",
+      "show_name": "R News",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p29799267_b_h9_aa_ee8f8a8837.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/republic-tv/today/p26809216_b_h9_aa_d4baee11e0.webp"
     }
   ]
 }

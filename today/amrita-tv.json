@@ -1,6 +1,6 @@
 {
   "channel_name": "Amrita TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Gulf News",
@@ -9,28 +9,46 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p241975_b_h9_aa_c406898401.webp"
     },
     {
-      "show_name": "Annie's Kitchen",
+      "show_name": "Ammayodoppam",
       "start_time": "12:30 AM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29749666_b_h9_aa_a40d77d34d.webp"
-    },
-    {
-      "show_name": "Ayyappa Sharanam",
-      "start_time": "1:30 AM",
-      "end_time": "2:30 AM",
+      "end_time": "1:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Run",
-      "start_time": "2:30 AM",
-      "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29076337_b_h9_ad_784433c0fc.webp"
+      "show_name": "Jyothir Darshanam",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p31107855_b_h9_aa_87eca75dcb.webp"
     },
     {
-      "show_name": "Swararchana",
+      "show_name": "Vakku Maruvakku",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29749684_b_h9_aa_bca918ca65.webp"
+    },
+    {
+      "show_name": "Tatwamasi",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p31777490_b_h9_aa_cb659b658c.webp"
+    },
+    {
+      "show_name": "Moonnam Pakkam",
+      "start_time": "2:30 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p26417689_b_h9_aa_af28491876.webp"
+    },
+    {
+      "show_name": "Gulf Panorama",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Annie's Kitchen",
       "start_time": "5:00 AM",
       "end_time": "5:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29341600_b_h9_aa_2eccfd2e02.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29749666_b_h9_aa_a40d77d34d.webp"
     },
     {
       "show_name": "Sandhya Deepam",
@@ -39,76 +57,52 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Swararchana",
+      "show_name": "Amritavarsham",
       "start_time": "6:00 AM",
       "end_time": "6:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29341600_b_h9_aa_2eccfd2e02.webp"
-    },
-    {
-      "show_name": "Spandanam",
-      "start_time": "6:30 AM",
-      "end_time": "7:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p11477576_b_h9_aa_43e57f3c0e.webp"
-    },
-    {
-      "show_name": "Good Morning Keralam",
-      "start_time": "7:00 AM",
-      "end_time": "8:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
-    },
-    {
-      "show_name": "Commedy Masters",
-      "start_time": "8:00 AM",
-      "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p30121346_b_h9_aa_4c650ea418.webp"
-    },
-    {
-      "show_name": "Devadoothan",
-      "start_time": "9:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p12027604_b_h9_ae_5cff02b454.webp"
     },
     {
       "show_name": "Tatwamasi",
-      "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p31777490_b_h9_aa_cb659b658c.webp"
     },
     {
-      "show_name": "Ammayodoppam",
-      "start_time": "12:30 PM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
-    },
-    {
-      "show_name": "Ucha Vartha",
-      "start_time": "1:00 PM",
+      "show_name": "Nerangam",
+      "start_time": "7:00 AM",
       "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p7877898_b_h9_aa_8f1e864349.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p31856439_b_h9_aa_2cb29e96e1.webp"
     },
     {
-      "show_name": "Eesho",
+      "show_name": "Singam 3",
       "start_time": "1:30 PM",
-      "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p28581576_v_h9_aa_452119c43c.webp"
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p13607364_v_h9_aa_a5ee7b100b.webp"
     },
     {
-      "show_name": "Madirasi",
-      "start_time": "4:00 PM",
+      "show_name": "Super Star Senior Weekend Special",
+      "start_time": "4:30 PM",
       "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p19829748_b_h9_aa_50e2a076e6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p31204261_b_h9_aa_5f73a8b725.webp"
     },
     {
       "show_name": "Sandhya Deepam",
       "start_time": "6:30 PM",
-      "end_time": "7:00 PM",
+      "end_time": "6:45 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Odiyan",
-      "start_time": "7:00 PM",
+      "show_name": "Amaram",
+      "start_time": "6:45 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p15079695_v_h9_aa_3ffd641097.webp"
+    },
+    {
+      "show_name": "Amritavarsham",
+      "start_time": "9:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p16305482_b_h9_aa_4610654b8b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
     },
     {
       "show_name": "Top 10 at Ten",
@@ -117,16 +111,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Gulf Panorama",
+      "show_name": "Comedy Master Weekend SPL",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/default_880x660_c51365f14d.webp"
-    },
-    {
-      "show_name": "Annie's Kitchen",
-      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29749666_b_h9_aa_a40d77d34d.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/amrita-tv/today/p29912419_b_h9_aa_d9a9b98a28.webp"
     }
   ]
 }

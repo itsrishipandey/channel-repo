@@ -1,13 +1,7 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
-    {
-      "show_name": "Courage the Cowardly Dog",
-      "start_time": "12:00 AM",
-      "end_time": "1:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p186142_b_h9_ah_da547dd6be.webp"
-    },
     {
       "show_name": "One Piece",
       "start_time": "1:00 AM",
@@ -63,70 +57,58 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "9:00 AM",
       "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "11:00 AM",
       "end_time": "11:20 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
-    },
-    {
-      "show_name": "Grizzy and the Lemmings",
-      "start_time": "11:20 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p13330553_b_h9_cj_6fd8640106.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/default_880x660_c51365f14d.webp"
     },
     {
       "show_name": "Teen Titans GO!",
-      "start_time": "11:30 AM",
+      "start_time": "11:20 AM",
       "end_time": "12:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Teen Titans Go! Special 3 - Pop Stars",
       "start_time": "12:30 PM",
-      "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+      "end_time": "1:50 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p31521292_b_h9_aa_a055d7329d.webp"
     },
     {
-      "show_name": "Teen Titans GO!",
-      "start_time": "1:30 PM",
-      "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
-    },
-    {
-      "show_name": "Ekans Takshak ka Abhishap",
-      "start_time": "2:00 PM",
+      "show_name": "Ekans - Dhoomketu Ki Dehshat",
+      "start_time": "1:50 PM",
       "end_time": "2:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p28427762_b_h9_aa_d194f46b63.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p31661527_b_h9_aa_57827632c4.webp"
     },
     {
-      "show_name": "Ekans: Mystery of Three Gems",
+      "show_name": "Ekans - Hero Ek Villain Anek",
       "start_time": "2:30 PM",
       "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p26987992_b_h9_aa_0ed1e4259a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p26987970_v_h9_aa_9d4f432267.webp"
     },
     {
       "show_name": "Teen Titans GO!",
@@ -197,8 +179,14 @@
     {
       "show_name": "Teen Titans GO!",
       "start_time": "11:00 PM",
-      "end_time": "1:00 AM",
+      "end_time": "11:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p24686942_b_h9_aa_c1786453e7.webp"
+    },
+    {
+      "show_name": "Courage the Cowardly Dog",
+      "start_time": "11:30 PM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/cartoon-network/tomorrow/p186142_b_h9_ah_da547dd6be.webp"
     }
   ]
 }

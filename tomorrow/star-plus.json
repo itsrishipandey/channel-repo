@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Udne Ki Aasha",
@@ -51,8 +51,14 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p1002730_b_h9_ad_0673071256.webp"
     },
     {
-      "show_name": "Udne Ki Aasha",
+      "show_name": "Mahabharat: Ek Dharmayudh",
       "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p31541294_b_h9_aa_f596fe4692.webp"
+    },
+    {
+      "show_name": "Udne Ki Aasha",
+      "start_time": "8:30 AM",
       "end_time": "9:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p26841298_b_h9_ac_8c602ee9f1.webp"
     },
@@ -89,38 +95,26 @@
     {
       "show_name": "Yeh Rishta Kya Kehlata Hai",
       "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p1002730_b_h9_ad_0673071256.webp"
-    },
-    {
-      "show_name": "Pandya Store",
-      "start_time": "12:00 PM",
       "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p19382793_b_h9_ab_6cdd50170e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p1002730_b_h9_ad_0673071256.webp"
     },
     {
       "show_name": "Ghum Hai Kisikey Pyaar Meiin",
       "start_time": "1:30 PM",
-      "end_time": "6:50 PM",
+      "end_time": "7:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p18882410_b_h9_af_1fb0a08f37.webp"
     },
     {
       "show_name": "Maana Ke Hum Yaar Nahi",
-      "start_time": "6:50 PM",
-      "end_time": "7:10 PM",
+      "start_time": "7:00 PM",
+      "end_time": "7:30 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p31340651_b_h9_aa_17acf7e188.webp"
     },
     {
-      "show_name": "Yeh Rishta Kya Kehlata Hai",
-      "start_time": "7:10 PM",
-      "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p1002730_b_h9_ad_0673071256.webp"
-    },
-    {
-      "show_name": "Shehzaadi... Hai Tu Dil Ki",
+      "show_name": "Mahabharat: Ek Dharmayudh",
       "start_time": "7:30 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p31875863_b_h9_ab_ecb362d036.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/star-plus/tomorrow/p31541294_b_h9_aa_f596fe4692.webp"
     },
     {
       "show_name": "Aarti Anjali Awasthi",
