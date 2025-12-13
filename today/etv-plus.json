@@ -1,30 +1,18 @@
 {
   "channel_name": "ETV Plus",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Swathi Chinukulu",
+      "show_name": "Cash 2",
       "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p21508418_b_h9_aa_c0ddcbf733.webp"
-    },
-    {
-      "show_name": "Samrat Ashoka",
-      "start_time": "12:30 AM",
       "end_time": "1:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p22107896_b_h9_ab_c29b32ed01.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28643900_b_h9_aa_58ada53f4e.webp"
     },
     {
-      "show_name": "Manasu Mamatha",
+      "show_name": "Anubavinchu Raja",
       "start_time": "1:00 AM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/default_880x660_c51365f14d.webp"
-    },
-    {
-      "show_name": "Yamaleela",
-      "start_time": "1:30 AM",
       "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p31322069_b_h9_aa_e5d05b51fc.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28643553_b_h9_aa_a559ff920c.webp"
     },
     {
       "show_name": "Sridevi Drama Company",
@@ -57,34 +45,34 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p20564596_b_h9_ab_a16daaafdd.webp"
     },
     {
-      "show_name": "Cash 2",
+      "show_name": "Jaatiratnalu Remix",
       "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28778902_b_h9_aa_efc9e331db.webp"
+    },
+    {
+      "show_name": "Jeevana Jyothy",
+      "start_time": "8:30 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28643900_b_h9_aa_58ada53f4e.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p29121724_b_h9_aa_01ac31d6f4.webp"
     },
     {
-      "show_name": "Anubavinchu Raja",
+      "show_name": "Kobbari Bondam",
       "start_time": "9:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28643553_b_h9_aa_a559ff920c.webp"
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p13908843_v_h9_aa_15ed252650.webp"
     },
     {
-      "show_name": "Fun Raja Fun",
-      "start_time": "10:00 AM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p31271460_b_h9_aa_554f9511ff.webp"
-    },
-    {
-      "show_name": "Sridevi Drama Company",
-      "start_time": "1:00 PM",
+      "show_name": "Yamaleela",
+      "start_time": "12:00 PM",
       "end_time": "3:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p20107424_b_h9_ab_e4f86078e7.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p14024458_v_h9_ab_633e259b20.webp"
     },
     {
-      "show_name": "Deviputrudu",
+      "show_name": "Thaggedele",
       "start_time": "3:00 PM",
       "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p14188173_b_h9_aa_fbab7102ab.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28654964_b_h9_aa_90b773f59d.webp"
     },
     {
       "show_name": "The Sisters",
@@ -93,16 +81,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p29932624_b_h9_aa_5aa29cad46.webp"
     },
     {
-      "show_name": "Angaranga Vaibavanga",
+      "show_name": "Vetagadu",
       "start_time": "6:30 PM",
       "end_time": "9:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28778860_b_h9_ac_f6cd9e3663.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p9786037_v_h9_aa_48d6074ee5.webp"
     },
     {
-      "show_name": "Nartanasala",
+      "show_name": "Cash 2",
       "start_time": "9:30 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p14047698_b_h9_ab_60dd9df549.webp"
+      "end_time": "10:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p28643900_b_h9_aa_58ada53f4e.webp"
+    },
+    {
+      "show_name": "Muddula Mavayya",
+      "start_time": "10:30 PM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/etv-plus/today/p14047793_b_h9_aa_df25d66bb3.webp"
     }
   ]
 }

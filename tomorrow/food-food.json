@@ -1,0 +1,414 @@
+{
+  "channel_name": "Food Food",
+  "date": "December 15, 2025",
+  "schedule": [
+    {
+      "show_name": "Mummy Ka Magic",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561000_6f766b0d6c.webp"
+    },
+    {
+      "show_name": "Winter Treats",
+      "start_time": "12:30 AM",
+      "end_time": "12:40 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561001_130e8cb83c.webp"
+    },
+    {
+      "show_name": "Great Recipes - Great Chef",
+      "start_time": "12:40 AM",
+      "end_time": "12:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561002_f3308990ec.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "12:50 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561003_bb32b2f974.webp"
+    },
+    {
+      "show_name": "Firangi Tadka",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561004_fa0a74e7a8.webp"
+    },
+    {
+      "show_name": "Tea Time",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561005_f85b2a0aea.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "2:00 AM",
+      "end_time": "2:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561006_d573d33efe.webp"
+    },
+    {
+      "show_name": "Mummy Ka Magic",
+      "start_time": "2:30 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561007_2a2b660f5a.webp"
+    },
+    {
+      "show_name": "Celebrate With Sanjeev Kapoor",
+      "start_time": "3:00 AM",
+      "end_time": "3:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561008_e48b45ca50.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "3:30 AM",
+      "end_time": "3:40 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561009_702409c8ba.webp"
+    },
+    {
+      "show_name": "Health Table",
+      "start_time": "3:40 AM",
+      "end_time": "3:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561010_5e944cd76e.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "3:50 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561011_9fac1de0ad.webp"
+    },
+    {
+      "show_name": "Celebrate With Sanjeev Kapoor",
+      "start_time": "4:00 AM",
+      "end_time": "4:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561012_92beee3ed0.webp"
+    },
+    {
+      "show_name": "How to Cook",
+      "start_time": "4:30 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561013_c9e131c41b.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "5:00 AM",
+      "end_time": "5:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561014_a975f39d6d.webp"
+    },
+    {
+      "show_name": "Health Maange More",
+      "start_time": "5:30 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561015_09561094c8.webp"
+    },
+    {
+      "show_name": "Style Chef",
+      "start_time": "6:00 AM",
+      "end_time": "6:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561016_ee1d12d8bc.webp"
+    },
+    {
+      "show_name": "Health Maange More",
+      "start_time": "6:30 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561017_af6b72f64d.webp"
+    },
+    {
+      "show_name": "Out of The World Australia",
+      "start_time": "7:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561018_9247b2f754.webp"
+    },
+    {
+      "show_name": "Firangi Tadka",
+      "start_time": "7:30 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215561019.jpg"
+    },
+    {
+      "show_name": "How to Cook",
+      "start_time": "8:00 AM",
+      "end_time": "8:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561020_4170c02c2a.webp"
+    },
+    {
+      "show_name": "Style Chef",
+      "start_time": "8:30 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561021_727402a609.webp"
+    },
+    {
+      "show_name": "Out of The World Australia",
+      "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561022_96d9b69b70.webp"
+    },
+    {
+      "show_name": "Tea Time",
+      "start_time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561023_1e05ca9c65.webp"
+    },
+    {
+      "show_name": "Firangi Tadka",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215561024.jpg"
+    },
+    {
+      "show_name": "Simply Vegetarian",
+      "start_time": "10:30 AM",
+      "end_time": "10:40 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561025_a0b366348f.webp"
+    },
+    {
+      "show_name": "Winter Treats",
+      "start_time": "10:40 AM",
+      "end_time": "10:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561026_001f659971.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "10:50 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561027_fb34269511.webp"
+    },
+    {
+      "show_name": "Firangi Tadka",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215561028.jpg"
+    },
+    {
+      "show_name": "Tea Time",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561029_ac64c51702.webp"
+    },
+    {
+      "show_name": "Mummy Ka Magic",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561030_28c3a4c303.webp"
+    },
+    {
+      "show_name": "Winter Treats",
+      "start_time": "12:30 PM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561031_cf46f53de3.webp"
+    },
+    {
+      "show_name": "Simply Vegetarian",
+      "start_time": "12:40 PM",
+      "end_time": "12:50 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561032_791c5165dd.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "12:50 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561033_306cdf7c7a.webp"
+    },
+    {
+      "show_name": "How to Cook",
+      "start_time": "1:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561034_26d259aad2.webp"
+    },
+    {
+      "show_name": "SK Kitchen",
+      "start_time": "1:30 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561035_9e95e42620.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "2:00 PM",
+      "end_time": "2:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561036_19e09b4da4.webp"
+    },
+    {
+      "show_name": "Tea Time",
+      "start_time": "2:30 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561037_920ea56b0b.webp"
+    },
+    {
+      "show_name": "Mummy Ka Magic",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561038_a65ac5375d.webp"
+    },
+    {
+      "show_name": "How to Cook",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561039_fe83ae2f9a.webp"
+    },
+    {
+      "show_name": "Quick Bite",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561040_1ede3ece8b.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561041_63525c6d90.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "5:00 PM",
+      "end_time": "5:10 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561042_2f934581f6.webp"
+    },
+    {
+      "show_name": "Simply Vegetarian",
+      "start_time": "5:10 PM",
+      "end_time": "5:20 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561043_0f8eb5ae4a.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "5:20 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561044_3acc525bac.webp"
+    },
+    {
+      "show_name": "SK Kitchen",
+      "start_time": "5:30 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561045_a7acc8707b.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "6:00 PM",
+      "end_time": "6:10 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561046_aa86c4028e.webp"
+    },
+    {
+      "show_name": "Health Table",
+      "start_time": "6:10 PM",
+      "end_time": "6:20 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561047_3320bdcccc.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "6:20 PM",
+      "end_time": "6:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561048_d3b167f1d5.webp"
+    },
+    {
+      "show_name": "Quick Bite",
+      "start_time": "6:30 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561049_21350c4fa9.webp"
+    },
+    {
+      "show_name": "Simply Vegetarian",
+      "start_time": "7:00 PM",
+      "end_time": "7:10 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561050_097e6f4246.webp"
+    },
+    {
+      "show_name": "Vegan Vibes",
+      "start_time": "7:10 PM",
+      "end_time": "7:20 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561051_f8085fb023.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "7:20 PM",
+      "end_time": "7:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561052_1cc845c32f.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "7:30 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561053_39fc813857.webp"
+    },
+    {
+      "show_name": "Mummy Ka Magic",
+      "start_time": "8:00 PM",
+      "end_time": "8:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561054_e104f0b5a4.webp"
+    },
+    {
+      "show_name": "Meethi Mulaqaat",
+      "start_time": "8:30 PM",
+      "end_time": "8:40 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561055_d97398c3f5.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "8:40 PM",
+      "end_time": "8:50 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561056_5cc6842680.webp"
+    },
+    {
+      "show_name": "Winter Treats",
+      "start_time": "8:50 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561057_06f98127bd.webp"
+    },
+    {
+      "show_name": "SK Kitchen",
+      "start_time": "9:00 PM",
+      "end_time": "9:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561058_300b9ad258.webp"
+    },
+    {
+      "show_name": "Turban Tadka",
+      "start_time": "9:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561059_4781750498.webp"
+    },
+    {
+      "show_name": "Dairy Delights",
+      "start_time": "10:00 PM",
+      "end_time": "10:10 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561060_dfc96a8cc6.webp"
+    },
+    {
+      "show_name": "Winter Treats",
+      "start_time": "10:10 PM",
+      "end_time": "10:20 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561061_fe6e221b3e.webp"
+    },
+    {
+      "show_name": "Family Food Tales",
+      "start_time": "10:20 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561062_2bb21251de.webp"
+    },
+    {
+      "show_name": "Meethi Mulaqaat",
+      "start_time": "10:30 PM",
+      "end_time": "10:40 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561063_b9b7125566.webp"
+    },
+    {
+      "show_name": "Vegan Vibes",
+      "start_time": "10:40 PM",
+      "end_time": "10:50 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561064_d07fff9a4c.webp"
+    },
+    {
+      "show_name": "Health Table",
+      "start_time": "10:50 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561065_2ab00177ef.webp"
+    },
+    {
+      "show_name": "Health Maange More",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561066_5f31bc4f41.webp"
+    },
+    {
+      "show_name": "How to Cook",
+      "start_time": "11:30 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/food-food/tomorrow/251215561067_390b55522d.webp"
+    }
+  ]
+}

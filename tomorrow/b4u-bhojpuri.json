@@ -1,54 +1,66 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "1:34 AM",
-      "end_time": "2:34 AM",
+      "start_time": "1:33 AM",
+      "end_time": "2:33 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168989_b_h9_aa_25e1564421.webp"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "2:34 AM",
-      "end_time": "6:00 AM",
+      "start_time": "2:33 AM",
+      "end_time": "5:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168929_b_h9_aa_ac377689ba.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "6:00 AM",
-      "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "5:00 AM",
+      "end_time": "6:34 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168929_b_h9_aa_ac377689ba.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "9:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Har Ghar Ki Yahi Kahani",
+      "start_time": "6:34 AM",
+      "end_time": "9:07 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29169044_b_h9_aa_196614263f.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "12:00 PM",
-      "end_time": "3:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Naya Vivah",
+      "start_time": "9:07 AM",
+      "end_time": "11:56 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29766257_b_h9_aa_70bb495b83.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "3:00 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Shriman Shrimati",
+      "start_time": "11:56 AM",
+      "end_time": "2:34 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29346359_b_h9_aa_8fd53aed7e.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "6:00 PM",
-      "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Pati Patni Ka Pyar Khatta Meetha Achar",
+      "start_time": "2:34 PM",
+      "end_time": "5:01 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29877742_b_h9_aa_e5c61f6b52.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "9:00 PM",
-      "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Didi No.1",
+      "start_time": "5:01 PM",
+      "end_time": "7:55 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29496038_b_h9_aa_2fca496fc3.webp"
+    },
+    {
+      "show_name": "Bitiya Damad",
+      "start_time": "7:55 PM",
+      "end_time": "10:57 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29271065_b_h9_aa_020627e8e6.webp"
+    },
+    {
+      "show_name": "Preet Ka Daaman",
+      "start_time": "10:57 PM",
+      "end_time": "1:39 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29333116_b_h9_aa_e5ddc0523a.webp"
     }
   ]
 }

@@ -1,192 +1,180 @@
 {
   "channel_name": "Animal Planet Hindi",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "The Americas",
       "start_time": "12:00 AM",
-      "end_time": "12:42 AM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566000.jpg"
+      "end_time": "12:27 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215566000.jpg"
     },
     {
-      "show_name": "Predator Countdown",
-      "start_time": "12:42 AM",
-      "end_time": "1:42 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566001_78ad1ecd5d.webp"
-    },
-    {
-      "show_name": "Africa's Hunters",
-      "start_time": "1:42 AM",
-      "end_time": "2:42 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566002_9e0e057c02.webp"
+      "show_name": "Cheetah: Against All Odds",
+      "start_time": "12:27 AM",
+      "end_time": "1:27 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566001_6f8b6785dd.webp"
     },
     {
       "show_name": "Parenthood",
-      "start_time": "2:42 AM",
-      "end_time": "3:42 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566003_5551c6694e.webp"
+      "start_time": "1:27 AM",
+      "end_time": "2:27 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566002_2c79afa182.webp"
     },
     {
       "show_name": "Italy: The Last Wilderness Year 1",
-      "start_time": "3:42 AM",
-      "end_time": "4:42 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566004_6084504395.webp"
+      "start_time": "2:27 AM",
+      "end_time": "3:27 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566003_2c51462684.webp"
     },
     {
-      "show_name": "The Lions Rule",
-      "start_time": "4:42 AM",
-      "end_time": "5:34 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566005_cc426f1cd8.webp"
+      "show_name": "Cheetah Blood Brothers",
+      "start_time": "3:27 AM",
+      "end_time": "4:17 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566004_49ca169c0e.webp"
     },
     {
-      "show_name": "Jungle Planet",
-      "start_time": "5:34 AM",
+      "show_name": "Hippo Supremacy",
+      "start_time": "4:17 AM",
+      "end_time": "5:10 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566005_959524d5a0.webp"
+    },
+    {
+      "show_name": "Extreme Africa",
+      "start_time": "5:10 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566006_e4fef14502.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566006_178604f982.webp"
     },
     {
       "show_name": "Extreme Africa",
       "start_time": "6:00 AM",
-      "end_time": "6:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566007_bc808f54ac.webp"
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566007_2d7e177292.webp"
+    },
+    {
+      "show_name": "Islands: Nature's Wild Laboratories",
+      "start_time": "7:00 AM",
+      "end_time": "7:44 AM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-15/251215566008.jpg"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "7:44 AM",
+      "end_time": "8:33 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566009_7e11b77499.webp"
+    },
+    {
+      "show_name": "The Lions Rule",
+      "start_time": "8:33 AM",
+      "end_time": "9:26 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566010_cd350de42f.webp"
+    },
+    {
+      "show_name": "The Story of Cats",
+      "start_time": "9:26 AM",
+      "end_time": "10:24 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566011_b3e82e0b9e.webp"
     },
     {
       "show_name": "Epic Animal Encounters",
-      "start_time": "6:55 AM",
-      "end_time": "7:23 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566008_07fc235e0d.webp"
+      "start_time": "10:24 AM",
+      "end_time": "10:50 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566012_155e2bb4f9.webp"
     },
     {
       "show_name": "Jungle Planet",
-      "start_time": "7:23 AM",
-      "end_time": "7:52 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566009_e73b58bcd1.webp"
+      "start_time": "10:50 AM",
+      "end_time": "11:16 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566013_0268d19bb9.webp"
     },
     {
-      "show_name": "Wild Assassins",
-      "start_time": "7:52 AM",
-      "end_time": "8:39 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566010_f6b4df7033.webp"
-    },
-    {
-      "show_name": "Great Parks of Africa",
-      "start_time": "8:39 AM",
-      "end_time": "9:27 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566011_53732a4eb4.webp"
-    },
-    {
-      "show_name": "Wild Fighters",
-      "start_time": "9:27 AM",
-      "end_time": "10:22 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566012_26be822b48.webp"
-    },
-    {
-      "show_name": "Okavango: River of Dreams",
-      "start_time": "10:22 AM",
-      "end_time": "11:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566013_a23d54b896.webp"
-    },
-    {
-      "show_name": "Zambia Untamed",
-      "start_time": "11:15 AM",
+      "show_name": "Iberian Vipers",
+      "start_time": "11:16 AM",
       "end_time": "12:08 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566014_280344518e.webp"
-    },
-    {
-      "show_name": "New Kids in the Wild",
-      "start_time": "12:08 PM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566015_54e58cecc7.webp"
-    },
-    {
-      "show_name": "Chasing the Rains",
-      "start_time": "1:00 PM",
-      "end_time": "1:52 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566016_367c9d8ac7.webp"
-    },
-    {
-      "show_name": "Hippo Supremacy",
-      "start_time": "1:52 PM",
-      "end_time": "2:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566017_e5b165ee4a.webp"
-    },
-    {
-      "show_name": "Extreme Africa",
-      "start_time": "2:45 PM",
-      "end_time": "3:36 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566018_a5a217f29c.webp"
-    },
-    {
-      "show_name": "Race of Life",
-      "start_time": "3:36 PM",
-      "end_time": "4:04 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566019_f27545d6e7.webp"
-    },
-    {
-      "show_name": "Race of Life",
-      "start_time": "4:04 PM",
-      "end_time": "4:32 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566020_42884375c1.webp"
-    },
-    {
-      "show_name": "Sri Lanka - Leopards Of Yala",
-      "start_time": "4:32 PM",
-      "end_time": "5:22 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566021_25fbb25ceb.webp"
-    },
-    {
-      "show_name": "The Americas",
-      "start_time": "5:22 PM",
-      "end_time": "6:11 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566022_647e96079d.webp"
-    },
-    {
-      "show_name": "The Americas",
-      "start_time": "6:11 PM",
-      "end_time": "7:02 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566023.jpg"
-    },
-    {
-      "show_name": "Mobius Foundation: Embers of Hope",
-      "start_time": "7:02 PM",
-      "end_time": "7:32 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566024_09f05331a2.webp"
-    },
-    {
-      "show_name": "Mobius Foundation: Embers of Hope",
-      "start_time": "7:32 PM",
-      "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566025_ffd2f6fca1.webp"
-    },
-    {
-      "show_name": "Cheetah: Against All Odds",
-      "start_time": "8:00 PM",
-      "end_time": "8:52 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566026_4ee75cad4a.webp"
-    },
-    {
-      "show_name": "Parenthood",
-      "start_time": "8:52 PM",
-      "end_time": "9:42 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566027_caa958415d.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566014_88d2fe8d75.webp"
     },
     {
       "show_name": "Italy: The Last Wilderness Year 1",
-      "start_time": "9:42 PM",
-      "end_time": "10:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566028_2f13dbd8c3.webp"
+      "start_time": "12:08 PM",
+      "end_time": "1:01 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566015_b77e34a951.webp"
     },
     {
-      "show_name": "Cheetah Blood Brothers",
-      "start_time": "10:35 PM",
-      "end_time": "11:27 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251214566029_6a932ad538.webp"
+      "show_name": "The Queen In The North",
+      "start_time": "1:01 PM",
+      "end_time": "1:54 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566016_051213ffc8.webp"
     },
     {
-      "show_name": "The Americas",
-      "start_time": "11:27 PM",
+      "show_name": "Africa's Trees of Life",
+      "start_time": "1:54 PM",
+      "end_time": "2:46 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566017_0063fae484.webp"
+    },
+    {
+      "show_name": "Sibella: The Miracle Cheetah",
+      "start_time": "2:46 PM",
+      "end_time": "3:38 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566018_69a39a1ce2.webp"
+    },
+    {
+      "show_name": "Extreme Africa",
+      "start_time": "3:38 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566019_69a1e7bf31.webp"
+    },
+    {
+      "show_name": "Great Species of Africa",
+      "start_time": "4:30 PM",
+      "end_time": "5:24 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566020_18619130b1.webp"
+    },
+    {
+      "show_name": "Elephants Up Close",
+      "start_time": "5:24 PM",
+      "end_time": "6:16 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566021_5ce50fedbb.webp"
+    },
+    {
+      "show_name": "Africa's Hunters",
+      "start_time": "6:16 PM",
+      "end_time": "7:08 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566022_0aeb0846c4.webp"
+    },
+    {
+      "show_name": "Creative Killers",
+      "start_time": "7:08 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566023_5bd38d1793.webp"
+    },
+    {
+      "show_name": "Lion Country: Night and Day",
+      "start_time": "8:00 PM",
+      "end_time": "8:52 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566024_0f691cf7c3.webp"
+    },
+    {
+      "show_name": "Wild Africa: Rivers of Life",
+      "start_time": "8:52 PM",
+      "end_time": "9:45 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566025_218fcda9e0.webp"
+    },
+    {
+      "show_name": "Wild Survivors",
+      "start_time": "9:45 PM",
+      "end_time": "10:37 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566026_0ab45fa314.webp"
+    },
+    {
+      "show_name": "Elephants Up Close",
+      "start_time": "10:37 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566027_7371acfae6.webp"
+    },
+    {
+      "show_name": "Africa's Trees of Life",
+      "start_time": "11:30 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/2025-12-14/251214566030.jpg"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/animal-planet-hindi/tomorrow/251215566028_a8ec06b955.webp"
     }
   ]
 }

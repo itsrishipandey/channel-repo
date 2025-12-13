@@ -1,42 +1,66 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Movie",
-      "start_time": "2:00 AM",
-      "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Ra Ra Krishnayya",
+      "start_time": "12:56 AM",
+      "end_time": "2:42 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p10881166_b_h9_aa_189c634d8c.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "6:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Jawab Hum Denge",
+      "start_time": "2:42 AM",
+      "end_time": "4:58 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p8338361_b_h9_aa_1488cadb12.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 AM",
-      "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Teleshopping",
+      "start_time": "4:58 AM",
+      "end_time": "6:28 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p29154371_b_h9_aa_fc76ed376c.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "2:00 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Vajra Kavachadhara Govinda",
+      "start_time": "6:28 AM",
+      "end_time": "9:13 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p17831871_b_h9_aa_74ce0b0912.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "6:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Achayans",
+      "start_time": "9:13 AM",
+      "end_time": "11:35 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p14518328_b_h9_ab_1aebd5b5f7.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 PM",
-      "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_name": "Pichaikkaran",
+      "start_time": "11:35 AM",
+      "end_time": "1:56 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p12668163_v_h9_aa_88ab8dd598.webp"
+    },
+    {
+      "show_name": "Poojai",
+      "start_time": "1:56 PM",
+      "end_time": "4:50 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p11188899_b_h9_ae_0676b91bff.webp"
+    },
+    {
+      "show_name": "Naaigal Jaakirathai",
+      "start_time": "4:50 PM",
+      "end_time": "6:59 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p11285726_v_h9_aa_65287f9dc5.webp"
+    },
+    {
+      "show_name": "Mahaabali",
+      "start_time": "6:59 PM",
+      "end_time": "9:06 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p10931889_b_h9_ad_77e096ec12.webp"
+    },
+    {
+      "show_name": "Insaaf Ki Pukar",
+      "start_time": "9:06 PM",
+      "end_time": "12:27 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p31350565_b_h9_aa_3bad279b99.webp"
     }
   ]
 }

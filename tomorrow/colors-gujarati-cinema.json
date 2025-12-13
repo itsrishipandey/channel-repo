@@ -1,72 +1,66 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Maa Mane Sambhare Che",
+      "show_name": "Alakh Ne Otle",
       "start_time": "12:00 AM",
-      "end_time": "12:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p17282174_b_h9_ab_932b1135a0.webp"
+      "end_time": "12:05 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p17679394_b_h9_ab_a1459603da.webp"
     },
     {
-      "show_name": "Yahi Maa Mogi",
-      "start_time": "12:55 AM",
-      "end_time": "2:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p29447820_b_h9_aa_3261c000a7.webp"
+      "show_name": "Prem Kahani",
+      "start_time": "12:05 AM",
+      "end_time": "2:05 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p29235008_b_h9_aa_bd53412073.webp"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "2:55 AM",
-      "end_time": "5:20 AM",
+      "start_time": "2:05 AM",
+      "end_time": "5:30 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p29139471_b_h9_ab_a5096031ce.webp"
     },
     {
-      "show_name": "Jai Ambe Jagdambe",
-      "start_time": "5:20 AM",
+      "show_name": "Love Kush",
+      "start_time": "5:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p24110988_b_h9_aa_1a1e9afc4a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p28879747_b_h9_aa_fc5576805e.webp"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "8:00 AM",
-      "end_time": "9:40 AM",
+      "end_time": "10:35 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p29139471_b_h9_ab_a5096031ce.webp"
     },
     {
-      "show_name": "Naagmati Naagwallo",
-      "start_time": "9:40 AM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p23740398_b_h9_aa_cade2d7eeb.webp"
+      "show_name": "Shree Krishna Sharnam Mam",
+      "start_time": "10:35 AM",
+      "end_time": "1:15 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p27360003_b_h9_ab_069f829d51.webp"
     },
     {
-      "show_name": "Kunjal Kaljani Kor",
-      "start_time": "12:30 PM",
-      "end_time": "3:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p19745465_b_h9_aa_5a3c60f36b.webp"
+      "show_name": "Shankar Parvati",
+      "start_time": "1:15 PM",
+      "end_time": "3:55 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p23668660_b_h9_aa_822562aa87.webp"
     },
     {
-      "show_name": "Mangu Saiba Janamo Janam No Sath",
-      "start_time": "3:45 PM",
-      "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p19757882_b_h9_ab_8d2b644426.webp"
-    },
-    {
-      "show_name": "Yash Gatha Gujarat Ni",
-      "start_time": "6:30 PM",
+      "show_name": "Sajan Vina Suno Sansar",
+      "start_time": "3:55 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p21330110_b_h9_aa_fba7358866.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p17379742_b_h9_ab_2ed4c16b0f.webp"
     },
     {
-      "show_name": "Bewafa Sanam Tari Bov Meherbaani",
+      "show_name": "Sampoorna Mahabharat",
       "start_time": "7:00 PM",
-      "end_time": "9:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/default_880x660_c51365f14d.webp"
+      "end_time": "10:10 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p8176360_b_h9_aa_7844981ba0.webp"
     },
     {
-      "show_name": "Alakh Ne Otle",
-      "start_time": "9:25 PM",
+      "show_name": "Sharad Poonamni Raat",
+      "start_time": "10:10 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p17679394_b_h9_ab_a1459603da.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/tomorrow/p19625057_b_h9_aa_7c8fce481d.webp"
     }
   ]
 }

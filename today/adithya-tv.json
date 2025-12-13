@@ -1,6 +1,6 @@
 {
   "channel_name": "Adithya TV",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Sirikka Sirikka Sirippu",
@@ -51,16 +51,22 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p26429210_b_h9_aa_38d9e9f751.webp"
     },
     {
-      "show_name": "Vaanga Sirikkalam",
+      "show_name": "Sirithale Inikkum",
       "start_time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/default_880x660_c51365f14d.webp"
+    },
+    {
+      "show_name": "Vaanga Sirikkalam",
+      "start_time": "9:30 AM",
       "end_time": "10:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p29172300_b_h9_aa_49ecf008c2.webp"
     },
     {
-      "show_name": "The boys & girls",
+      "show_name": "Laughing Therapy",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p27514369_b_h9_aa_0aad00f448.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p27514362_b_h9_aa_61858f735c.webp"
     },
     {
       "show_name": "Idaividaatha Comedy",
@@ -69,16 +75,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p30584844_b_h9_aa_be20b8a2c3.webp"
     },
     {
-      "show_name": "Times Of Adithya",
+      "show_name": "Adithya Vlogs",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p24616616_b_h9_aa_18c61f535a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p22300232_b_h9_ad_8b8a012d2f.webp"
     },
     {
-      "show_name": "Digital Diary",
+      "show_name": "I am english man",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p30796123_b_h9_ad_df2acb5f82.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p29134307_b_h9_aa_b011f72a01.webp"
     },
     {
       "show_name": "Orupada Comedy",
@@ -111,8 +117,14 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p16867246_b_h9_aa_d085555802.webp"
     },
     {
-      "show_name": "Adithya Paarunga Sirichute Irunga",
+      "show_name": "Comedyku Nanga Guarantee",
       "start_time": "5:00 PM",
+      "end_time": "5:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p17907782_b_h9_aa_725d0d19c7.webp"
+    },
+    {
+      "show_name": "Adithya Paarunga Sirichute Irunga",
+      "start_time": "5:30 PM",
       "end_time": "6:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p12039886_b_h9_aa_f8e2dbbe7e.webp"
     },
@@ -135,14 +147,8 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p9086908_b_h9_aa_01eb7c2175.webp"
     },
     {
-      "show_name": "Sirithale Inikkum",
-      "start_time": "9:00 PM",
-      "end_time": "9:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/default_880x660_c51365f14d.webp"
-    },
-    {
       "show_name": "Vedi sirippu",
-      "start_time": "9:30 PM",
+      "start_time": "9:00 PM",
       "end_time": "10:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/adithya-tv/today/p19512653_b_h9_aa_ecbd69f9e3.webp"
     },

@@ -1,60 +1,66 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Flat No. 609",
-      "start_time": "1:25 AM",
-      "end_time": "3:10 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p16230420_v_h9_aa_88243e433f.webp"
+      "show_name": "Tintorettor Jishu",
+      "start_time": "1:30 AM",
+      "end_time": "3:15 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25529490_b_h9_aa_3328fc71d4.webp"
     },
     {
-      "show_name": "Antony Kobiyal",
-      "start_time": "3:10 AM",
+      "show_name": "Sotoroi September",
+      "start_time": "3:15 AM",
       "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p21537715_b_h9_ac_f06655788a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p26652811_b_h9_aa_a1a31c4b49.webp"
     },
     {
-      "show_name": "Khelaghar",
+      "show_name": "Dhruva",
       "start_time": "5:00 AM",
+      "end_time": "7:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p13562770_v_h9_ad_afe4c7ef3c.webp"
+    },
+    {
+      "show_name": "1 Ishwar Katha",
+      "start_time": "7:30 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25470428_b_h9_aa_85385cb8a7.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p28205013_b_h9_ab_b32ce12bc7.webp"
     },
     {
-      "show_name": "Jawker Dhan",
+      "show_name": "Tirandaj Shabor",
       "start_time": "8:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p14744582_b_h9_aa_f362d7c087.webp"
+      "end_time": "10:15 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p26483312_v_h9_aa_d948ba831f.webp"
     },
     {
-      "show_name": "Premi No.1",
-      "start_time": "10:00 AM",
-      "end_time": "1:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p29821416_b_h9_aa_3fa3fc1f66.webp"
+      "show_name": "Janeman",
+      "start_time": "10:15 AM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p27497908_b_h9_ab_1e66cefc71.webp"
     },
     {
-      "show_name": "Paglu 2",
-      "start_time": "1:30 PM",
+      "show_name": "Guru",
+      "start_time": "1:00 PM",
       "end_time": "4:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p11444148_b_h9_aa_e48cbeeb1a.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25511092_v_h9_aa_ffdd002fb9.webp"
     },
     {
-      "show_name": "Kelor Kirti",
+      "show_name": "Arundhati",
       "start_time": "4:30 PM",
-      "end_time": "7:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25511022_b_h9_aa_f31bc2dde4.webp"
+      "end_time": "7:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p15173053_v_h9_aa_973cba21b6.webp"
     },
     {
-      "show_name": "Devi",
-      "start_time": "7:45 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25472139_b_h9_aa_3013c9430d.webp"
+      "show_name": "Saap Mochan",
+      "start_time": "7:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p30132264_b_h9_aa_a30b4a8371.webp"
     },
     {
-      "show_name": "Madam Geeta Rani",
-      "start_time": "11:00 PM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p18625106_b_h9_aa_62cf6cf3fe.webp"
+      "show_name": "Besh Korechi Prem Korechi",
+      "start_time": "10:30 PM",
+      "end_time": "1:15 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p15283484_v_h9_aa_dc31531e83.webp"
     }
   ]
 }

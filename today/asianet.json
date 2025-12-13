@@ -1,30 +1,18 @@
 {
   "channel_name": "Asianet",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Kanmadham",
-      "start_time": "12:00 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p10642001_b_h9_ab_baea6b7328.webp"
-    },
-    {
-      "show_name": "Chirikkum Thalika",
-      "start_time": "2:30 AM",
-      "end_time": "3:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p621682_b_h9_aa_80342095c4.webp"
-    },
-    {
-      "show_name": "Chirikkum Thalika",
-      "start_time": "3:00 AM",
+      "show_name": "Mannar Mathai Speaking 2",
+      "start_time": "1:30 AM",
       "end_time": "3:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p621682_b_h9_aa_80342095c4.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p11050552_b_h9_aa_ba9f7c67ab.webp"
     },
     {
-      "show_name": "Mikhael",
+      "show_name": "Veruthe Oru Bharya",
       "start_time": "3:30 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/default_880x660_c51365f14d.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p189559_b_h9_aa_fdeca62098.webp"
     },
     {
       "show_name": "Kannante Radha",
@@ -51,46 +39,34 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p253767_b_h9_ab_c5ee2939cd.webp"
     },
     {
-      "show_name": "Moonwalk",
+      "show_name": "Kumbalangi Nights",
       "start_time": "8:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p30297214_b_h9_aa_c0fc31e736.webp"
+      "end_time": "10:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p16585621_b_h9_aa_42221f18b3.webp"
     },
     {
-      "show_name": "Premalu",
-      "start_time": "10:00 AM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p26709939_v_h9_aa_ce792b1a42.webp"
+      "show_name": "Star Singer",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29870345_b_h9_aa_14854f9019.webp"
     },
     {
-      "show_name": "Guruvayur Ambalanadayil",
-      "start_time": "1:00 PM",
-      "end_time": "3:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29721126_v_h9_aa_a0f7a05a66.webp"
+      "show_name": "Star Singer",
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29870345_b_h9_aa_14854f9019.webp"
     },
     {
-      "show_name": "Abhilasha",
-      "start_time": "3:30 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p9434455_b_h9_ae_140f351aff.webp"
+      "show_name": "Grrr...",
+      "start_time": "1:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p27610742_v_h9_ab_eb4cbb21c1.webp"
     },
     {
-      "show_name": "Mounaragam",
-      "start_time": "6:00 PM",
-      "end_time": "6:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p19441667_b_h9_aa_7d40cecbc2.webp"
-    },
-    {
-      "show_name": "Santhwanam 2",
-      "start_time": "6:30 PM",
-      "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29961538_b_h9_aa_e909c5d33c.webp"
-    },
-    {
-      "show_name": "Mazha Thorum Munpe",
-      "start_time": "7:00 PM",
+      "show_name": "L2: Empuraan",
+      "start_time": "4:00 PM",
       "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p30645323_b_h9_aa_2eb2ba25ec.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29792031_v_h9_aa_1b7a86c9d5.webp"
     },
     {
       "show_name": "Chempaneer Poovu",
@@ -117,10 +93,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p29870345_b_h9_aa_14854f9019.webp"
     },
     {
-      "show_name": "Varshangalkku Shesham",
+      "show_name": "Iratta",
       "start_time": "10:30 PM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p27119279_v_h9_aa_a41be52d7b.webp"
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/asianet/today/p23955305_v_h9_aa_cdf29a32f2.webp"
     }
   ]
 }

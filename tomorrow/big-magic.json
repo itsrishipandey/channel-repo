@@ -1,6 +1,6 @@
 {
   "channel_name": "BIG Magic",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Guddan Tumse Na Ho Payega",
@@ -39,26 +39,8 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p14306001_b_h9_aa_e4ad503144.webp"
     },
     {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "6:00 AM",
-      "end_time": "6:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17723365_b_h9_ac_4023b4ac8b.webp"
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "6:30 AM",
-      "end_time": "7:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17723365_b_h9_ac_4023b4ac8b.webp"
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "7:00 AM",
-      "end_time": "7:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17723365_b_h9_ac_4023b4ac8b.webp"
-    },
-    {
       "show_name": "Teleshopping",
-      "start_time": "7:30 AM",
+      "start_time": "6:00 AM",
       "end_time": "8:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p29884773_b_h9_aa_9f561eea56.webp"
     },
@@ -69,82 +51,94 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p30046647_b_h9_aa_1ddf8a233d.webp"
     },
     {
-      "show_name": "Ramayana",
+      "show_name": "Kahat Hanuman Jai Shree Ram",
       "start_time": "9:00 AM",
       "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p19953878_b_h9_ad_3884e632d9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17886694_b_h9_aa_adbe0010a1.webp"
     },
     {
-      "show_name": "Ramayana",
+      "show_name": "Kahat Hanuman Jai Shree Ram",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p19953878_b_h9_ad_3884e632d9.webp"
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p20564403_b_h9_ad_4710d5276d.webp"
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p20564403_b_h9_ad_4710d5276d.webp"
-    },
-    {
-      "show_name": "Dance India Dance",
-      "start_time": "12:00 PM",
-      "end_time": "1:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p31663082_b_h9_aa_76ed01ca4d.webp"
-    },
-    {
-      "show_name": "Dance India Dance Supermoms",
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p22443246_b_h9_aa_47141c125d.webp"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "2:00 PM",
-      "end_time": "3:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15855845_b_h9_ag_abfaae5503.webp"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "3:00 PM",
-      "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15855845_b_h9_ag_abfaae5503.webp"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "4:00 PM",
-      "end_time": "5:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15855845_b_h9_ag_abfaae5503.webp"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "5:00 PM",
-      "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p13320754_b_h9_ab_39c40af3a6.webp"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p13320754_b_h9_ab_39c40af3a6.webp"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "7:00 PM",
-      "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p13320754_b_h9_ab_39c40af3a6.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17886694_b_h9_aa_adbe0010a1.webp"
     },
     {
       "show_name": "Paramavatar Shri Krishna",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p14306001_b_h9_aa_e4ad503144.webp"
+    },
+    {
+      "show_name": "Paramavatar Shri Krishna",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p14306001_b_h9_aa_e4ad503144.webp"
+    },
+    {
+      "show_name": "Jodha Akbar",
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15738474_b_h9_ab_18a8c5bb8e.webp"
+    },
+    {
+      "show_name": "Jodha Akbar",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15738474_b_h9_ab_18a8c5bb8e.webp"
+    },
+    {
+      "show_name": "Kanha Ki Radhika",
+      "start_time": "2:00 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p28531627_b_h9_aa_21bedd1ad9.webp"
+    },
+    {
+      "show_name": "Gauri Mata Ki Laadli",
+      "start_time": "3:00 PM",
+      "end_time": "3:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p30896828_b_h9_aa_63f09270f5.webp"
+    },
+    {
+      "show_name": "Gauri Mata Ki Laadli",
+      "start_time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p30896828_b_h9_aa_63f09270f5.webp"
+    },
+    {
+      "show_name": "Uma Kaali",
+      "start_time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p30382463_b_h9_aa_124b4552fa.webp"
+    },
+    {
+      "show_name": "Prem Pratigya",
+      "start_time": "4:30 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p29845717_b_h9_aa_5e5cb77d1a.webp"
+    },
+    {
+      "show_name": "Sa Re Ga Ma Pa L'il Champs",
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p13861884_b_h9_aa_2339d66efb.webp"
+    },
+    {
+      "show_name": "Jhansi Ki Rani",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p18988762_b_h9_aa_b6d5578d2d.webp"
+    },
+    {
+      "show_name": "Jhansi Ki Rani",
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p18988762_b_h9_aa_b6d5578d2d.webp"
+    },
+    {
+      "show_name": "Baal Shiv",
       "start_time": "8:00 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p14306001_b_h9_aa_e4ad503144.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p20564403_b_h9_ad_4710d5276d.webp"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
@@ -171,10 +165,16 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p17723365_b_h9_ac_4023b4ac8b.webp"
     },
     {
-      "show_name": "Guddan Tumse Na Ho Payega",
+      "show_name": "Brahmarakshas",
       "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p13375445_b_h9_aa_a5caa2d679.webp"
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p15855845_b_h9_ag_abfaae5503.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-magic/tomorrow/p29884773_b_h9_aa_9f561eea56.webp"
     }
   ]
 }

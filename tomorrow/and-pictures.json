@@ -1,6 +1,6 @@
 {
   "channel_name": "& Pictures",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Movie",
@@ -35,26 +35,14 @@
     {
       "show_name": "Movie",
       "start_time": "2:00 PM",
-      "end_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
-      "show_name": "Live - DPW ILT20 - Cricket Safari - Pre Show",
-      "start_time": "3:00 PM",
-      "end_time": "3:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p29154678_b_h9_ab_57e81652ea.webp"
-    },
-    {
-      "show_name": "Live - MI Emirates vs. Sharjah Warriors; International League T20 Cricket",
-      "start_time": "3:30 PM",
-      "end_time": "6:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p23811383_b_h9_ad_c974d08719.webp"
-    },
-    {
-      "show_name": "Live - DPW ILT20 - Cricket Safari - Post Show",
-      "start_time": "6:45 PM",
+      "show_name": "Movie",
+      "start_time": "5:00 PM",
       "end_time": "7:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p29154672_b_h9_aa_6e5b67d1af.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p809737_b_h9_bq_119e7d60e0.webp"
     },
     {
       "show_name": "Live - DPW ILT20 - Cricket Safari - Pre Show",
@@ -63,7 +51,7 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p29154678_b_h9_ab_57e81652ea.webp"
     },
     {
-      "show_name": "Live - Desert Vipers vs. Dubai Capitals; International League T20 Cricket",
+      "show_name": "Live - Sharjah Warriorz vs. Gulf Giants; International League T20 Cricket",
       "start_time": "8:00 PM",
       "end_time": "11:45 PM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-pictures/tomorrow/p23811383_b_h9_ad_c974d08719.webp"

@@ -1,79 +1,7 @@
 {
   "channel_name": "ABP Asmita",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
-    {
-      "show_name": "Mudda Ni Vaat",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893519_b_h9_ab_db75f5149b.webp"
-    },
-    {
-      "show_name": "Aapani Khabar",
-      "start_time": "12:30 AM",
-      "end_time": "1:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893548_b_h9_ab_ecf13e58b8.webp"
-    },
-    {
-      "show_name": "Hun To Bolish",
-      "start_time": "1:00 AM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893396_b_h9_aa_18f8392289.webp"
-    },
-    {
-      "show_name": "Hun To Bolish",
-      "start_time": "1:30 AM",
-      "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893396_b_h9_aa_18f8392289.webp"
-    },
-    {
-      "show_name": "Top 50",
-      "start_time": "2:00 AM",
-      "end_time": "2:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p16641825_b_h9_aa_7a9a4a0c2a.webp"
-    },
-    {
-      "show_name": "Aaj No Muddo",
-      "start_time": "2:30 AM",
-      "end_time": "3:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p30786745_b_h9_ab_9012bc5096.webp"
-    },
-    {
-      "show_name": "Aapani Khabar",
-      "start_time": "3:00 AM",
-      "end_time": "3:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893548_b_h9_ab_ecf13e58b8.webp"
-    },
-    {
-      "show_name": "Fatafat",
-      "start_time": "3:30 AM",
-      "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p7967279_b_h9_aa_bcd17cad5a.webp"
-    },
-    {
-      "show_name": "Top 50",
-      "start_time": "4:00 AM",
-      "end_time": "4:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p16641825_b_h9_aa_7a9a4a0c2a.webp"
-    },
-    {
-      "show_name": "Fatafat",
-      "start_time": "4:30 AM",
-      "end_time": "5:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p7967279_b_h9_aa_bcd17cad5a.webp"
-    },
-    {
-      "show_name": "Chitramala",
-      "start_time": "5:00 AM",
-      "end_time": "5:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893629_b_h9_aa_43fe25921d.webp"
-    },
-    {
-      "show_name": "Maha Aarti",
-      "start_time": "5:30 AM",
-      "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893539_b_h9_aa_fddb60e1e2.webp"
-    },
     {
       "show_name": "Bhakti Na Sur",
       "start_time": "6:00 AM",
@@ -225,10 +153,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893373_b_h9_aa_30829931c2.webp"
     },
     {
-      "show_name": "Fatafat/Gov/Advertorial",
+      "show_name": "Fatafat",
       "start_time": "6:30 PM",
       "end_time": "7:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p27798830_b_h9_ab_bf9e4e0380.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p7967279_b_h9_aa_bcd17cad5a.webp"
     },
     {
       "show_name": "Aapani Khabar",
@@ -287,7 +215,7 @@
     {
       "show_name": "Samachar Shatak",
       "start_time": "11:30 PM",
-      "end_time": "6:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/abp-asmita/tomorrow/p22893360_b_h9_aa_dfeb48052a.webp"
     }
   ]

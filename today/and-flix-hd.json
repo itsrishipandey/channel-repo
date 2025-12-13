@@ -1,30 +1,24 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Nowhere to Hide",
-      "start_time": "12:15 AM",
-      "end_time": "1:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/default_880x660_c51365f14d.webp"
-    },
-    {
-      "show_name": "Huge Shark",
-      "start_time": "1:30 AM",
-      "end_time": "2:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p24088821_b_h9_aa_96fadb1ef9.webp"
+      "show_name": "Journey to the East",
+      "start_time": "1:45 AM",
+      "end_time": "3:05 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p22557907_v_h9_aa_50cb60d740.webp"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "2:45 AM",
-      "end_time": "5:55 AM",
+      "start_time": "3:05 AM",
+      "end_time": "5:32 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p20453532_b_h9_aa_68f8054c99.webp"
     },
     {
-      "show_name": "Movie",
-      "start_time": "5:55 AM",
+      "show_name": "Tai Chi Hero",
+      "start_time": "5:32 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p809737_b_h9_bq_119e7d60e0.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/and-flix-hd/today/p9880473_v_h9_am_3a58a6f855.webp"
     },
     {
       "show_name": "Movie",

@@ -1,0 +1,150 @@
+{
+  "channel_name": "Big TV",
+  "date": "December 15, 2025",
+  "schedule": [
+    {
+      "show_name": "News",
+      "start_time": "12:00 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783000_f1179df3b6.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "1:00 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783001_2f8c0ed12f.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "2:00 AM",
+      "end_time": "3:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783002_37cdf8e0df.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "3:00 AM",
+      "end_time": "4:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783003_43f9de1d59.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "4:00 AM",
+      "end_time": "5:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783004_22be319810.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "5:00 AM",
+      "end_time": "6:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783005_29966172b2.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "6:00 AM",
+      "end_time": "7:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783006_9bec4fa863.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "7:00 AM",
+      "end_time": "8:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783007_6fe7268e8e.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "8:00 AM",
+      "end_time": "9:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783008_e931075fa2.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783009_3ec6925c40.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783010_3d43f1f70f.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783011_7de2514b89.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783012_d41c2ebab9.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783013_b87b9b5ade.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "2:00 PM",
+      "end_time": "3:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783014_e52a5dd51b.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "3:00 PM",
+      "end_time": "4:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783015_c03024a284.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783016_6af3afc147.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783017_05bffe9007.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783018_da25700254.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783019_88a91b44f5.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "8:00 PM",
+      "end_time": "9:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783020_57d0d88eab.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "9:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783021_f1f2a8ab9a.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783022_dbb8699e1e.webp"
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:00 PM",
+      "end_time": "11:59 PM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/big-tv/tomorrow/2512152783023_79a2738143.webp"
+    }
+  ]
+}

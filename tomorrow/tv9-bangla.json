@@ -1,6 +1,6 @@
 {
   "channel_name": "TV9 Bangla",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Thontkata",
@@ -99,20 +99,14 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900321_b_h9_aa_9b4b9970ac.webp"
     },
     {
-      "show_name": "News Series",
+      "show_name": "Morning Super Prime Time",
       "start_time": "8:30 AM",
       "end_time": "9:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p29279992_b_h9_aa_acfc0ea9c9.webp"
-    },
-    {
-      "show_name": "News Series",
-      "start_time": "9:00 AM",
-      "end_time": "9:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p29279992_b_h9_aa_acfc0ea9c9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900321_b_h9_aa_9b4b9970ac.webp"
     },
     {
       "show_name": "Morning Super Prime Time",
-      "start_time": "9:30 AM",
+      "start_time": "9:00 AM",
       "end_time": "10:00 AM",
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900321_b_h9_aa_9b4b9970ac.webp"
     },
@@ -201,10 +195,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900394_b_h9_aa_22ed37127d.webp"
     },
     {
-      "show_name": "Ghorer Bioscope",
+      "show_name": "tv9 News",
       "start_time": "5:30 PM",
       "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900533_b_h9_aa_3009288deb.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p8390087_b_h9_aa_af377cd111.webp"
     },
     {
       "show_name": "Sandhyer Super Prime Time",
@@ -237,28 +231,28 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900231_b_h9_aa_b4fdd18a16.webp"
     },
     {
-      "show_name": "Mega Prime Time",
+      "show_name": "Naa Bollei Noy",
       "start_time": "9:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28931577_b_h9_aa_ecacc3a9f3.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900243_b_h9_aa_ef3f528088.webp"
     },
     {
-      "show_name": "News Series",
+      "show_name": "Straight Cut",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p29279992_b_h9_aa_acfc0ea9c9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900251_b_h9_aa_b49a9346bd.webp"
     },
     {
-      "show_name": "News Series",
+      "show_name": "News Top 9",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p29279992_b_h9_aa_acfc0ea9c9.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28832556_b_h9_ab_c692ec4fa4.webp"
     },
     {
-      "show_name": "tv9 News",
+      "show_name": "Naa Bollei Noy",
       "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p8390087_b_h9_aa_af377cd111.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/tv9-bangla/tomorrow/p28900243_b_h9_aa_ef3f528088.webp"
     }
   ]
 }

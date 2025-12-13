@@ -1,7 +1,25 @@
 {
   "channel_name": "NTV",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
+    {
+      "show_name": "NTV Special",
+      "start_time": "12:00 AM",
+      "end_time": "1:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339799_b_h9_aa_3883f59911.webp"
+    },
+    {
+      "show_name": "NTV Special",
+      "start_time": "1:00 AM",
+      "end_time": "1:30 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339799_b_h9_aa_3883f59911.webp"
+    },
+    {
+      "show_name": "NTV Special",
+      "start_time": "1:30 AM",
+      "end_time": "2:00 AM",
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339799_b_h9_aa_3883f59911.webp"
+    },
     {
       "show_name": "NTV Special",
       "start_time": "2:00 AM",
@@ -93,10 +111,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339794_b_h9_aa_7ed35aea05.webp"
     },
     {
-      "show_name": "Storyboard",
+      "show_name": "Indo Nepal Rudraksha",
       "start_time": "9:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p27617579_b_h9_aa_19ac54b14b.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339672_b_h9_aa_0c28a07157.webp"
     },
     {
       "show_name": "News 360",
@@ -105,10 +123,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p10172227_b_h9_aa_4269e879e3.webp"
     },
     {
-      "show_name": "B-Alert",
+      "show_name": "Real City 2.0",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p29231872_b_h9_aa_ce1181d344.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p29232063_b_h9_aa_605bcacdb8.webp"
     },
     {
       "show_name": "News Online",
@@ -117,10 +135,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339794_b_h9_aa_7ed35aea05.webp"
     },
     {
-      "show_name": "Off the Record",
+      "show_name": "N Career / Focus",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p455815_b_h9_ac_4f2d910458.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p29232028_b_h9_aa_1f62e51232.webp"
     },
     {
       "show_name": "News Online",
@@ -225,10 +243,10 @@
       "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339794_b_h9_aa_7ed35aea05.webp"
     },
     {
-      "show_name": "B-Alert",
+      "show_name": "Chairman Desk",
       "start_time": "8:30 PM",
       "end_time": "9:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p29231872_b_h9_aa_ce1181d344.webp"
+      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/ntv/today/p19339532_b_h9_aa_cba19dc366.webp"
     },
     {
       "show_name": "Prime Time News",
